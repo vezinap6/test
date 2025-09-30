@@ -20,7 +20,7 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 
 
 
-#EXTINF:-1 tvg-id="RDS.(Réseau.des.sports).ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/rds-ca.png" group-title="Sports",RDS CA - pas de sons ?
+#EXTINF:-1 tvg-id="RDS.(Réseau.des.sports).ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/rds-ca.png" group-title="Sports",RDS CA
 https://world-proxifier.xyz/proxy/p/0002/fGEMBHphWRJhb29tUWFrEmF0BnF3CgQEAA8CDAZhWRJhBQIHBXoNCHcGUWNrEGEHBnQEcQpxdQhwD2FbEGETQRQQQkIQaWkSV1JYY2sQYXZ1cwYADgB2cQ1hWRJhCXV3cXRZbG4FcA4McFANBnhtDQZ4DHZwbXN0bgVwDgxwUGxxcwYMCnYOVVJYbgxwD3BvDlJ2VWFrEGMJBgIHBnN0Y1kQfGMWdAZxbEAIBA91YVsQYUxyewoNDwJuVG9vEGcIEQlwDQZaEEARFhAIEQlwDQYQThYQUFYCVhANCAwGEE4CBBBMFBAZahBAcXMNBhgEA0oKd25Vb1ZtUG1SVBBnSEcVTElrEA0IDAYQRAYEDHJoEBcEc3QKcg9uUFVtbxBOcAMKDwZuUFZEUFNVEBQCBQJzCmxVb1NvUGFrEmFOcwgICg9jWRBhC3V1cXZZbm5zDHECDgpxDQB6bXl4e2FrEmETBgUGcwZxYVkQYwl1dXN0WW5scQxxAAwKcQ8Cem17entuY35rEGNwDw14AHFzcnl6AA4GenRjWRB1cXYGaxJhcXNyeXphWxAPdg8Nfg==/index.m3u8
 #EXTINF:-1 tvg-id="RDS2(src01).ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/rds-2-ca.png" group-title="Sports",RDS 2 CA
 https://world-proxifier.xyz/proxy/p/0002/fGEMBHphWRJhb29tUWFrEmF0BnF3CgQEAA8CDAZhWRJhBQIHBXoNCHcGUWNrEGEHBnQEcQpxdQhwD2FbEGETQRQQURJCQBBraRBXUW9haxJhdHVxBgIOAnZzDWNZEGELdXVxdllubgdwDAxyUA8Gem0PBnoMdHBvc3ZuB3AMDHJQbnFxBg4KdA5XU21uDnANcG0OUHZXYWkQYQkEAgUGcXRhWRJ8YRZ2BnNsQggGD3dhWRBjTHB7CA0NAmxUbW8SZwoRC3APBlgQQhEUEAoRC3APBhJOFBBSVgBWEg0KDAQQTAIGEE4UEhloEEJxcQ0EGAYDSAp1bldvVG1SbVBUEmdKRxdMS2sSDQoMBBBGBgYMcGgSFwZzdgpwD2xQV21tEExwAQoNBmxQVERSU1cQFgIHAnEKblVtU21QY2sQYUxzCggID2FZEmEJdXdxdFlsbnEMcwIMCnMNAnpveXp7Y2sQYREGBwZxBnNhWxBhCXd1cXRbbm5xDnECDAhxDQJ4bXl6eW5hfmkQYXANDXoAc3NweXgADAZ4dGFZEnVzdgRrEGFzc3B5eGFZEA12DQ18/index.m3u8
@@ -148,7 +148,7 @@ https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8|Referer=https://fnjplay.
 
 
 
-
-#EXT-X-MEDIA: GROUP-TITLE="TEST" TYPE=AUDIO,GROUP-ID="audio1",NAME="FRA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="FRA",URI="https://dai.google.com/linear/hls/pa/event/5DUWih-wSeOUg9zszuE-Jw/stream/2f98764d-11bb-4346-a75a-34aceffb33b0:MRN2/variant/872451c2fbaeece12ba834f926a5e216/bandwidth/000.m3u8"
-#EXT-X-STREAM-INF:GROUP-TITLE="TEST" PROGRAM-ID=1,BANDWIDTH=2451989,CODECS="avc1.4D4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="audio1"
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="FRA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="FRA",URI="https://dai.google.com/linear/hls/pa/event/5DUWih-wSeOUg9zszuE-Jw/stream/2f98764d-11bb-4346-a75a-34aceffb33b0:MRN2/variant/872451c2fbaeece12ba834f926a5e216/bandwidth/000.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2451989,RESOLUTION=1280x720,CODECS="avc1.4D4028,mp4a.40.2",FRAME-RATE=29.970,AUDIO="audio1"
 https://dai.google.com/linear/hls/pa/event/5DUWih-wSeOUg9zszuE-Jw/stream/2f98764d-11bb-4346-a75a-34aceffb33b0:MRN2/variant/67abfec7092b9136f11e653362586861/bandwidth/2451989.m3u8
