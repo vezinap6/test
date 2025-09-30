@@ -8,15 +8,6 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Favoris",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1  group-title="Favoris",Casa
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/5252.ts
-#EXTINF:-1  group-title="Favoris",Évasion
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40610.ts
-#EXTINF:-1 group-title="Favoris",Prise 2
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112862.ts
-#EXTINF:-1   group-title="Favoris",sais pas ?
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium839%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
 
 
 
@@ -146,9 +137,3 @@ https://zekonew.newkso.ru/zeko/premium115/mono.m3u8|Referer=https://fnjplay.xyz/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/NHL.jpg" group-title="NHL",Montréal Canadiens vs Ottawa Senators - NHL (23:00 UK GMT)
 https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 
-
-
-#EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="FRA",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="FRA",URI="https://dai.google.com/linear/hls/pa/event/5DUWih-wSeOUg9zszuE-Jw/stream/2f98764d-11bb-4346-a75a-34aceffb33b0:MRN2/variant/872451c2fbaeece12ba834f926a5e216/bandwidth/000.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=2451989,RESOLUTION=1280x720,CODECS="avc1.4D4028,mp4a.40.2",FRAME-RATE=29.970,AUDIO="audio1"
-https://dai.google.com/linear/hls/pa/event/5DUWih-wSeOUg9zszuE-Jw/stream/2f98764d-11bb-4346-a75a-34aceffb33b0:MRN2/variant/67abfec7092b9136f11e653362586861/bandwidth/2451989.m3u8
