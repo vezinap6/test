@@ -6,12 +6,22 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Favoris",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1  tvg-id="CFJP.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" group-title="Favoris",Noovo CA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium835%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 
 
 
-
-
+#EXTINF:-1  tvg-id="RDS2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-2-hd-ca.png?raw=true" group-title="Sports",RDS 2 CA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium840%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="RÃƒÂ©seau.des.Sports.(RDS).ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="Sports",RDS CA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium839%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="RÃƒÂ©seau.des.Sports.Info.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-info-ca.png?raw=true" group-title="Sports",RDS Info CA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium841%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png?raw=true" group-title="Sports",Sportsnet 360
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium409%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Sportsnet.East.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-hd-ca.png?raw=true" group-title="Sports",Sportsnet East
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium408%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
 https://fl25.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2
@@ -37,78 +47,3 @@ https://v18.thetvapp.to/hls/sportsnet-one/tracks-v2a1/mono.m3u8?token=L3te8j7Pf9
 #EXTINF:-1 group-title="Sports",Sportsnet west
 https://v13.thetvapp.to/hls/sportsnet-west/tracks-v2a1/mono.m3u8?token=ckY9agIpKiekJh6fRAtPoA&expires=1759607087&user_id=R25uSHJGaWQ1U21QVHQzdm05c2xSYUs0MDhkcHBIWTlDckJmSXBrUg==
 
-
-#EXTINF:-1 tvg-id="PlutoTVAction.us@France" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Films Series",Pluto TV Action
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
-#EXTINF:-1 tvg-id="PlutoTVAnimaux.us@France" tvg-logo="https://i.imgur.com/jxYlLsd.png" group-title="Films Series",Pluto TV Animaux
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=754cd30f-6a34-42d3-9e06-63128a8e07e3
-#EXTINF:-1 tvg-id="PlutoTVCineRetro.us@France" tvg-logo="https://i.imgur.com/y27HHe1.png" group-title="Films Series",Pluto TV Ciné Rétro
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055170-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16087aae-45a5-4664-9dd5-7ba7c4fa78cf
-#EXTINF:-1 tvg-id="PlutoTVComedie.us@France" tvg-logo="https://i.imgur.com/1e4IFrS.png" group-title="Films Series",Pluto TV Comédie
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7eeb5026-2fd1-4f02-8b21-df9f69932d00
-#EXTINF:-1 tvg-id="PlutoTVCuisine.us@France" tvg-logo="https://i.imgur.com/OuAi5ef.png" group-title="Films Series",Pluto TV Cuisine
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055175-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d65e7814-007f-4b37-ac42-189f2577bbff
-#EXTINF:-1 tvg-id="PlutoTVHistoire.us@France" tvg-logo="https://i.imgur.com/JE5xcCV.png" group-title="Films Series",Pluto TV Histoire
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7663e8d-062c-4293-9b93-a2bd07b5cb20
-#EXTINF:-1 tvg-id="PlutoTVInside.us@France" tvg-logo="https://i.imgur.com/Tb4GNml.png" group-title="Films Series",Pluto TV Inside
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055174-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=487dd86d-4b70-41e0-bab7-33de0eda4283
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@France" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="Films Series",Pluto TV Paranormal
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057882-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71e28713-4d07-4b50-8bdf-ede6b2fac167
-#EXTINF:-1 tvg-id="PlutoTVPolar.us@France" tvg-logo="https://i.imgur.com/yApGRsb.png" group-title="Films Series",Pluto TV Polar
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6
-#EXTINF:-1 tvg-id="PlutoTVRomance.us@France" tvg-logo="https://i.imgur.com/GJBxfyf.png" group-title="Films Series",Pluto TV Romance
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d84357a9-e5ec-4c91-a037-9a426fa2cdff
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@France" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="Films Series",Pluto TV Sci-Fi
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2
-#EXTINF:-1 tvg-id="PlutoTVSeries.us@France" tvg-logo="https://i.imgur.com/7ouD3E6.png" group-title="Films Series",Pluto TV Series
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5
-#EXTINF:-1 tvg-id="PlutoTVThrillers.us@France" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="Films Series",Pluto TV Thrillers
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b27ed94e-1347-4dd0-af99-b2e901fd5e71
-
-
-
-#EXTINF:-1 group-title="En anglais"  group-title="En anglais",HGTV
-https://e5.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8?token=uDHFjj4b7LHEM35wVcMCRg&expires=1759607019&user_id=R25uSHJGaWQ1U21QVHQzdm05c2xSYUs0MDhkcHBIWTlDckJmSXBrUg==
-#EXTINF:-1 group-title="En anglais" tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="En anglais",Crave 1
-https://fl25.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="En anglais",Crave 2
-https://fl25.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="En anglais",Crave 3
-https://fl25.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="En anglais",Crave 4
-https://fl25.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network East
-https://fl25.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="En anglais",AMC Thrillers
-https://amc-rushbyamc-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-chno="2" tvg-id="ABC.(WFTS).Tampa.Bay,.FL.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV",ABC
-https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8?token=i5Q_WSkFQf5hxW_kKnaNKA&expires=1759605985&user_id=R25uSHJGaWQ1U21QVHQzdm05c2xSYUs0MDhkcHBIWTlDckJmSXBrUg==
-#EXTINF:-1 group-title="En anglais"  tvg-chno="20" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="TV",CBS
-https://v4.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v2a1/mono.m3u8?token=Ov8bYyFeja1euLZMRdnIzQ&expires=1759606037&user_id=R25uSHJGaWQ1U21QVHQzdm05c2xSYUs0MDhkcHBIWTlDckJmSXBrUg==
-#EXTINF:-1 group-title="En anglais" tvg-chno="27" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="TV",Comedy Central
-http://fl25.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-chno="37" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="TV",Discovery Channel
-https://e1.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8?token=6CcKVe5gP8x3Vn5LQ0tn9g&expires=1759606060&user_id=R25uSHJGaWQ1U21QVHQzdm05c2xSYUs0MDhkcHBIWTlDckJmSXBrUg==
-#EXTINF:-1 group-title="En anglais" tvg-chno="75" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
-https://v15.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8?token=K9F6gsEZ88mRyNzs7HSgxQ&expires=1759606129&user_id=R25uSHJGaWQ1U21QVHQzdm05c2xSYUs0MDhkcHBIWTlDckJmSXBrUg==
-#EXTINF:-1 group-title="En anglais" tvg-chno="76" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
-http://fl25.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-chno="77" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
-http://fl25.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-chno="78" tvg-id="HBO.Drama.us2" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="TV",HBO Family
-https://fl25.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-chno="79" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
-https://fl25.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-chno="107" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="TV",Paramount Network
-https://fl25.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="En anglais" tvg-chno="121" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="TV",Starz
-https://e5.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8?token=AB5MXoSb2ZjNb1OhNdIyTg&expires=1759607186&user_id=R25uSHJGaWQ1U21QVHQzdm05c2xSYUs0MDhkcHBIWTlDckJmSXBrUg==
-#EXTINF:-1 group-title="En anglais",The Design Network
-https://amg00441-amg00441c1-firetv-us-5132.playouts.now.amagi.tv/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="France",arte
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
