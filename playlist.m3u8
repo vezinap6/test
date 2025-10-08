@@ -24,8 +24,10 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40611.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40610.ts
 #EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-4-ca.png" group-title="AriaPlus - Canada",Super Ecran 4
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40609.ts
-
-
+#EXTINF:-1 tvg-id="canal.d.ca" tvg-logo="https://media.starlite.best/canal.d.ca.png" group-title="AriaPlus - Canada",Canal D
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40765.ts
+#EXTINF:-1 tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png" group-title="AriaPlus - Canada",Zeste
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
 
 
 #EXTINF:-1  tvg-id="RÃƒÂ©seau.des.Sports.(RDS).ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="Sports",RDS CA
