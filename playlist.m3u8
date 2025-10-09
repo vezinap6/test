@@ -37,5 +37,4 @@ http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
 #EXTINF:-1 tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png" group-title="General",LCN
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40685.ts
-#EXTINF:-1 tvg-id="series.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Series_Plus_2020_logo_Hi_Res.png" group-title="General",Series Plus
-https://tvnow.best/api/stream/burns/burns/livetv.epg/series.ca.m3u8
+
