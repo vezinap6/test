@@ -7,14 +7,10 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="General",Tele Québec
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40606.ts
-#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1  tvg-id="CFJP.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" group-title="General",Noovo CA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium835%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 #EXTINF:-1 tvg-id="vie.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Canal_Vie_2016_logo.png" group-title="General",Vie
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40673.ts
-#EXTINF:-1 tvg-id="casa.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/CASA_2021_logo.png" group-title="General",CASA
-http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265319.ts
 #EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-1-ca.png" group-title="General",Super Ecran 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40612.ts
 #EXTINF:-1 tvg-id="super.ecran.2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-2-ca.png" group-title="General",Super Ecran 2
@@ -29,18 +25,15 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40765.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
-#EXTINF:-1 roup-title="General",Evasion
-http://user.scalecdn.co:8080/live/26725074/92867131/647751.ts
-#EXTINF:-1 group-title="General", Historia
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112912.ts
 #EXTINF:-1 tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png" group-title="General",LCN
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40685.ts
+#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 group-title="General", RDS 2
 http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="General", TVA SPORTS 1 
+#EXTINF:-1 group-title="General", TVA SPORTS
 http://cord-cutter.net:8080/k4Svp2/645504/57498?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="General", TVA Sports 2
-http://cord-cutter.net:8080/k4Svp2/645504/57337?checkedby:alliptvlinks.com
+
 
 
 
@@ -61,8 +54,6 @@ https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
 https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
 #EXTINF:-1 channel-id="5f8ed0f17564a300082b676a" tvg-id="5f8ed0f17564a300082b676a" tvg-chno="365" tvg-name="Ciné by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1751272790027.png" group-title="Pluto TV",Ciné by Pluto TV
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
-#EXTINF:-1 channel-id="5f8ed168f72fcd0007e56269" tvg-id="5f8ed168f72fcd0007e56269" tvg-chno="375" tvg-name="Ciné Rétro by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="Pluto TV",Ciné Rétro by Pluto TV
-https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
 #EXTINF:-1 channel-id="60b4d6c806ad2a00073b3108" tvg-id="60b4d6c806ad2a00073b3108" tvg-chno="380" tvg-name="Wild Side TV" tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png" group-title="Pluto TV",Wild Side TV
 https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 channel-id="662a622b5e2370000800f392" tvg-id="662a622b5e2370000800f392" tvg-chno="400" tvg-name="Faites entrer l'accusé" tvg-logo="https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG.png" group-title="Pluto TV",Faites entrer l'accusé
@@ -109,4 +100,5 @@ https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 channel-id="6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-chno="1315" tvg-name="VH1+ Rock" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" group-title="Pluto TV",VH1+ Rock
 https://jmp2.uk/plu-6447d08f2858cb0008b9957c.m3u8
+
 
