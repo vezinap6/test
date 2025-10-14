@@ -29,18 +29,19 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40765.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
-#EXTINF:-1 tvg-id="historia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="General",Historia
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
+#EXTINF:-1 roup-title="General",Evasion
+http://user.scalecdn.co:8080/live/26725074/92867131/647751.ts
+#EXTINF:-1 group-title="General", Historia
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112912.ts
 #EXTINF:-1 tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png" group-title="General",LCN
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40685.ts
-#EXTINF:-1 group-title="General", TVA SPORTS
-http://cord-cutter.net:8080/hq3y4G/234247/57498?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="General", CinePOP
-http://tv14s.xyz:8080/A1Jay5/362586/57480?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="General", RDS2
-http://cord-cutter.net:8080/hq3y4G/234247/57490?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="General" tvg-logo="https://image.tmdb.org/t/p/w342/iOX2scj2h1KF7b7nUqLfuoRBOub.jpg", Neil Young les raisons de la colère (2022)
-http://cord-cutter.net:8080/movie/k4Svp2/645504/204179.mkv?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="General", RDS 2
+http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="General", TVA SPORTS 1 
+http://cord-cutter.net:8080/k4Svp2/645504/57498?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="General", TVA Sports 2
+http://cord-cutter.net:8080/k4Svp2/645504/57337?checkedby:alliptvlinks.com
+
 
 
 
@@ -90,7 +91,7 @@ https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
 https://jmp2.uk/plu-62f3e6aebcdda4000754fa47.m3u8
 #EXTINF:-1 channel-id="685a999bd33909bdd7d2fb1e" tvg-id="685a999bd33909bdd7d2fb1e" tvg-chno="806" tvg-name="La maison France 5" tvg-logo="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/colorLogoPNG_1751876562614.png" group-title="Pluto TV",La maison France 5
 https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
-#EXTINF:-1 channel-id="64bab8ba5dc1660008969b5a" tvg-id="64bab8ba5dc1660008969b5a" tvg-chno="810" tvg-name="Adjugé, vendu !" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" group-title="Pluto TV",Adjugé vendu !
+#EXTINF:-1 channel-id="64bab8ba5dc1660008969b5a" tvg-id="64bab8ba5dc1660008969b5a" tvg-chno="810" tvg-name="Adjugé vendu " tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" group-title="Pluto TV",Adjugé vendu !
 https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8
 #EXTINF:-1 channel-id="678f894ef5c74bff95c20a7f" tvg-id="678f894ef5c74bff95c20a7f" tvg-chno="815" tvg-name="Pêche à haut risque" tvg-logo="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png" group-title="Pluto TV",Pêche à haut risque
 https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
@@ -106,6 +107,6 @@ https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 #EXTINF:-1 channel-id="680291e38e1ff89c2427aefd" tvg-id="680291e38e1ff89c2427aefd" tvg-chno="930" tvg-name="Voyages & Saveurs" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Pluto TV",Voyages & Saveurs
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
-#EXTINF:-1 channel-id="6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-chno="1315" tvg-name="VH1+ Rock" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" ggroup-title="Pluto TV",VH1+ Rock
+#EXTINF:-1 channel-id="6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-chno="1315" tvg-name="VH1+ Rock" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" group-title="Pluto TV",VH1+ Rock
 https://jmp2.uk/plu-6447d08f2858cb0008b9957c.m3u8
 
