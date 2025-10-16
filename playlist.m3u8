@@ -25,6 +25,8 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40765.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
+#EXTINF:-1 group-title="General", CinePOP
+http://tv14s.xyz:8080/A1Jay5/362586/57480?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png" group-title="General",LCN
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40685.ts
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
@@ -33,7 +35,10 @@ https://hls.savoir.media/live/stream.m3u8
 http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="General", TVA SPORTS
 http://cord-cutter.net:8080/k4Svp2/645504/57498?checkedby:alliptvlinks.com
-
+#EXTINF:-1, TVA Sports 2
+http://cord-cutter.net:8080/k4Svp2/645504/57337?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="General", TSN 2
+https:\\a1xs.vip\6000002
 
 
 
@@ -100,5 +105,4 @@ https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 channel-id="6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-chno="1315" tvg-name="VH1+ Rock" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" group-title="Pluto TV",VH1+ Rock
 https://jmp2.uk/plu-6447d08f2858cb0008b9957c.m3u8
-
 
