@@ -130,10 +130,8 @@ http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/19999.ts
 http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20000.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ADDIK TV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19z2RAeq7ZJ1yfN%2BeXsjutmU%2BdKdI39Sm4wFyKMYTpfO%2BV0YXEqyV4x" group-title="24hr | CANADA FRANÇAIS CINEMA",CA", ADDIK TV [720p]
 http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20046.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE [720p]  " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FbOOX2uFw8wo9l8BL3MllNWjCN5WUQSTGEiRfgc0nm4kR0RJzvY8Jy" group-title="24hr | CANADA FRANÇAIS CINEMA",CA",PRISE [720p]  
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE [720p]  " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FbOOX2uFw8wo9l8BL3MllNWjCN5WUQSTGEiRfgc0nm4kR0RJzvY8Jy" group-title="24hr","PRISE [720p]  
 http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20047.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BOdNH6M%2ByN2seyY2BryHJeBjTBRwHps%2FaDs2Of1EXx3vqHW1G%2Fv%2Fk%2BAnfkAAUYSOgXXErONofn6A%3D%3D" group-title="24hr",PRISE2 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20048.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ELLE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19TMrD8OIc4p%2BFVBXtaEiFjqZTeXpI37DWVvynS72OPPPUAIUx24hr%2Fes" group-title="24hr",ELLE [720p]
 http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20049.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SERIES+ [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18XJFH0DIRNRyKiue0ff3JbjdNEoiGGtVVY66H38tXgGZdS06d%2BIgDx" group-title="24hr",SERIES+ [720p]
