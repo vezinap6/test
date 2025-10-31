@@ -116,103 +116,147 @@ https://jmp2.uk/plu-6447d08f2858cb0008b9957c.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B9K%2BZR86tjv6Wm9rofLIWD64og4y7Iauh2ZmZKB7Fr5l3I%2BHVIFCkQ" group-title="24hr", ICI ARTV [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/19973.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2F6K8fG1YWobBFkufGWiI01YDE4nkAgAYniDKTFjrWo%2BqxxBjj7VY0U" group-title="24hr", ICI EXPLORA [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/19992.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE STYLE" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BXSSOnvzO6hLH%2FzrQXEHJ%2F4l00DnSP7H9wuxC30Rsy2u2RmF7ulWFX" group-title="24hr", TV5 MONDE STYLE
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/19997.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE INFO" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BQCxG6bKTXiM6eBZfEuNjwzGDoErgybAWwqgjfmw8kPLr29NJcaQa6FBVsnC12m65xk0VPx640JA%3D%3D" group-title="24hr", TV5 MONDE INFO
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/19998.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18idWY%2FDDZ0PCQPrkq2vYrMV8iRhch5tKySd%2BSCRwVk3XZjEiUTBiWZ" group-title="24hr",TV5 MONDE
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/19999.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TÉMOIN [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19hJqOG0%2BqIoWhEUEjp2y7YRDFX4lnwHuE%3D" group-title="24hr",TÉMOIN [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20000.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ADDIK TV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19z2RAeq7ZJ1yfN%2BeXsjutmU%2BdKdI39Sm4wFyKMYTpfO%2BV0YXEqyV4x" group-title="24hr | CANADA FRANÇAIS CINEMA",CA", ADDIK TV [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20046.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE [720p]  " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FbOOX2uFw8wo9l8BL3MllNWjCN5WUQSTGEiRfgc0nm4kR0RJzvY8Jy" group-title="24hr","PRISE [720p]  
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20047.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ELLE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19TMrD8OIc4p%2BFVBXtaEiFjqZTeXpI37DWVvynS72OPPPUAIUx24hr%2Fes" group-title="24hr",ELLE [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20049.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SERIES+ [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18XJFH0DIRNRyKiue0ff3JbjdNEoiGGtVVY66H38tXgGZdS06d%2BIgDx" group-title="24hr",SERIES+ [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20050.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CINE POP [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FxdIQ1awe4QM05SPzbNpmb%2F7T1PpAYt80vAqox8Tpui704Nf4%2BlePD" group-title="24hr",CINE POP [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20051.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19b9wA6poy5uhPqpv2Vy6DneYHPRhTZNYOn4hflzojZ9S2STe4Ea2oR" group-title="24hr",SUPER ECRAN 1 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20052.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FcLb1z9kwCTGWheX4qOVidLwvwaEvZdyVmVul4N2aes27EfyFRkS6W" group-title="24hr",SUPER ECRAN 2 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20053.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 3 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BWgEYDmhuxlCA0utc3M1l5aznYwUHZrzjA9WTfrdSOhfFRCHh6cX%2F7" group-title="24hr",SUPER ECRAN 3 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20054.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 4 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1899aMAyHRPErC%2FyMmlI2DAbaYbe2D0Yx%2FLx%2FgaT4DIch3IWS%2FVX7AF" group-title="24hr",SUPER ECRAN 4 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20055.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) 24hrI-TELE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FjGg%2F%2BS4424ZViPlIThChhSrrPV5ZGdBEoPejj2c%2FFi0uhsO%2FuUqmI" group-title="24hr",24hrI-TELE [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20056.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX183Y2PyacD6A8PrOV7G4gdJa6vIzS5H8FginkWgKejmQKHEGlA0uyru" group-title="24hr",NOOVO [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20057.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO TROIS-RIVIERES (CFKM-TV) [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX194CdRfEzDEAhIBIheG1bJWgDhK2FFNDNMb6QVpP3NtdhnBw9twSmKD" group-title="24hr",NOOVO TROIS-RIVIERES (CFKM-TV) [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20063.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BOLx1EJUoSjc13vw04w6ecLaHnvrvU7zBeWgIqum66Kq3ZcgubUWA8" group-title="24hr",A LA CARTE 1 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20065.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18P7ifgVn9gnkjsYSQFwm9aNLnNMpwRBzFi0xcrUIKHVH%2FsMT2KSA%2Bv" group-title="24hr",A LA CARTE 2 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20066.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 3 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18rOA0tz%2BcWGZ4omeMdctp%2BOe5d9joGVnCHvfb9R4HX8x0QB1RKWysj" group-title="24hr",A LA CARTE 3 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20067.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 4 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18ULEjsG0wb6tHp2U4kAar2%2BYkZG4xk6rNjf%2FdobfVyu84AXErwcJZR" group-title="24hr",A LA CARTE 4 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20068.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 5 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fr3z0U%2FvRYC4IqmHduc%2BtsuBUl3bCBrhi1ZJP%2B11K9qRGXx6Ym4Gb2" group-title="24hr",A LA CARTE 5 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20069.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 6 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B4RuMAKI6xTXcPXIbSXMDgjlsfbylaxdTbCkFF%2Bm5%2Bh8o2Zpti0U86" group-title="24hr",A LA CARTE 6 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20070.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 7 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FTtsygJsXkeBmHGQQ4pVt%2BQJMFFiBpszKHNcypj0UXOOheD5LyVyqO" group-title="24hr",A LA CARTE 7 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20071.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 8 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX198Q0CTKKgfHFvaChMx5vsUMsuxbmyFmVdBQjw7daAsJgYBGkK3udpx" group-title="24hr",A LA CARTE 8 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20072.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 9 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FJMlIaOy4SXkDzH1UPe9pPPf8adVKJk0ONno6vMRcs0KCgOkNj95LF" group-title="24hr",A LA CARTE 9 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20073.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 10 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FFRbJr0bKbF7pKXIongtvHCsvA8S8n3PAtYnJwb130w3Dx1PVRXOhN" group-title="24hr",A LA CARTE 10 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20074.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 11 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FbOQE%2FjC8ISOySom%2Buu9UZOSsri7gBCXxRFHduF5mn4oHdmeBoJVhk" group-title="24hr",A LA CARTE 11 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20075.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 12 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18qyFnWef7C6FUg86GSEFfwKP6wp%2B3YDUEhtp2tz5IG5pWR8CqCl0eI" group-title="24hr",A LA CARTE 12 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20076.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 13 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1828cvsrohnaxqLL7MmDSTdq%2FbNgSu%2FLR2kq9hcJmoUakGYYZDMRMh4" group-title="24hr",A LA CARTE 13 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20077.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 14 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BNmZOE5QNrKhTya4sm44dH3rLJ%2BlQj5jp5LTKGwgGKZVpVOHwwb2Ns" group-title="24hr",A LA CARTE 14 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20078.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 15 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BoGE86JQOmGhNVoDgLI%2FsYrSgPp%2FbDqkGW3oTRu%2BLB9X8A%2BvIu2JiL" group-title="24hr",A LA CARTE 15 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20079.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) UNIS TV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BKx3qld2dPL2ShehlbUjFh5AGg3G%2FFlTFppgKeV9q8fEHq3Kk%2Fz%2BWc" group-title="24hr", UNIS TV [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20086.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PLANETE+ [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2F7GKmBwESft%2FFHR5E09aV5wUbm0Uab09AXbS2flKy17GtUfcYyIEAC" group-title="24hr", PLANETE+ [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20087.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SEASONS [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19mvGkHZAVq%2BY3cB0Xv%2BS9z4U0Y4W8Ro9rxs6jNlE7K%2BvTtEoYOpecW" group-title="24hr", SEASONS [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20088.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) INVESTIGATION [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FrMBa4Wqy3PM3zrP7hSMimItrx58kStSeKt5HY5rfUzXKgmKqc8dgM" group-title="24hr", INVESTIGATION [720p] 
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20089.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CASA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19TdMc7xTDyrrVJRYL99EoZeE5xT0dDTJlwzATMrh7gprkOKeLMAAC2" group-title="24hr", CASA [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20017.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) MAX [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18R%2BtnVLji2fPAzubKLLlXfYUXeoDtAVzrVK9%2FD9RZp0pJLPztXo1hy" group-title="24hr", MAX [720p] 
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20018.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TELE QUEBEC [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B9BvOYyIS0rVXQ8ohtj%2BMYCZhcSod%2BDg8FFow0%2F3hN7qMr8Bwg1lMZ" group-title="24hr", TELE QUEBEC [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20027.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO-CANADA TELE MONTREAL [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BkUussIOVpoxgNkoNRZd%2FjEDd2sdGUyW4AXcr%2FsQ4qQboWQTSPzrn4" group-title="24hr", ICI RADIO-CANADA TELE MONTREAL [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20033.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TFO [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19l8t1ahuqcdOPhTuQqJgRG6sM7Emg7Tf%2F8RntMxmBMBfkQmWjvJEXM" group-title="24hr", TFO [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20034.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SPORTS [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BfLd%2BVC9tXehk%2F0LQA3Y6FrfUHfC8KfSPieeEoPxax%2FCzhEgk1zjeESUHHVfEOYvA444TxzU0RGw%3D%3D" group-title="24hr",TVA SPORTS [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20005.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SPORTS 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18EY80Arh7chZBCPbhgwvj2hLXhLQ46YGjxUFr1xLdRveUaoyHd9U8W8kJFtNXYwBgC%2BblpSYDalQ%3D%3D" group-title="24hr",TVA SPORTS 2 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20006.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18TWPY3rUN6W7GEBTCSwUZ%2B9hvkWpJzub4XpF2jVrX1E55fhbSyynHx" group-title="24hr",RDS
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20007.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FW%2BzhMBC9sfzv%2F3IPpfVU%2BlftVJyGhuecBtHc6CsFOuBu0RvRJ5Zm%2F" group-title="24hr",RDS1 [720p]
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20008.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS2 [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BiJTBF5zDvc0hH2r1dJjCd1KDmMLoDfUeCNDrxK%2BuwPXNCKNSB%2FOhy" group-title="24hr",RDS2 [720p] 
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20009.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX194VaDB821Pe4C6IB7erWjUMygXIx4vDF9y6lCWjZ38fRTNAsf2C9ue" group-title="24hr",RDS SPORTS
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20010.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FU8flqIa1w3fGBSamgI0tn5vjvyisxGCcox9mWgZT1zvHOdlTusSMe" group-title="24hr",RDS (LQ)  (R)
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20011.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS INFO " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FNlsTfKig8lDebM%2BTi0rfNkLCry168hGJ1M7RIcdLvCoyxswSA8IYi" group-title="24hr",RDS INFO 
-http://freeiptv.ottc.xyz:80/live/227835164240/565598710232/20012.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BDcmLDsbeG8uuEA%2BEMitOnHplJpRr%2FW9FycD0EC%2FHm5XShejXpNPYX" group-title="AM | CANADA FRANÇAIS",CA| (FR) ZTÉLÉ [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/19953.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19j7cf0JEdG3ixThKldggiGzqvFPEVlzEFzkwrKIUzcHV3aQJ1KMcrt" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI ARTV [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/19973.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fj063r78BguAb1iL%2BqQqTbrEXowChh%2F0d4vWKgYu01mc8wFhen0fpi" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI EXPLORA [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/19992.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE STYLE" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BEBdY5mG5NgoC6wTXD1LxQEoatYKIsd%2BhCI4kK3IC09zNlcSY3Sd0W" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE STYLE
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/19997.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE INFO" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B1M73kJ3IZFy7q8sM3HhA5IQ%2FoIhgceXk%2FZXQf%2FmBmfqFETTNd26clxC2Hg1hCo67%2BMm4VvTKwxQ%3D%3D" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE INFO
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/19998.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FnJ42qxtQAXv78tbFhMOLn82dyUCYRGWc6CZ0xWu86EQ4XoOPmjDEz" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/19999.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TÉMOIN [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19S%2Bh7F%2FxcAElBGsOVmm2Tr5EBaKq429%2FY%3D" group-title="AM | CANADA FRANÇAIS",CA| (FR) TÉMOIN [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20000.ts
+#EXTINF:-1 tvg-id="" tvg-name="✶⋆✶FILMS✶⋆✶ " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BrRq9islE95gomUA%2B4DUi729cB0LmpeB2v1NR9JTYtT4iORM1THEha" group-title="AM | CANADA FRANÇAIS CINEMA",✶⋆✶FILMS✶⋆✶ 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20045.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ADDIK TV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B9X%2Bc0O6g%2Bl4diwuo9zRXF5CfgHX7aDKH%2Figmv8ARjyEHj3PslO5LO" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) ADDIK TV [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20046.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE [720p]  " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BgYR3tMbuLMdPeOvq9HqvZnIhgCsuC5WAOxgpqaUUzumbRsE5rof21" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) PRISE [720p]  
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20047.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18RhNq8YixxsOLb255BWIJVIXA1Jr8GnDOVj62LKFzgKtr9LOIP6fxDeL8pFY17%2F2JhdObWh0jIpw%3D%3D" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) PRISE2 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20048.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ELLE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18Tt8CSRqEnDI3IIxT0%2FEzC8B7BvoE3Ky9fouOcFEwfGDMf%2Fh0pALpz" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) ELLE [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20049.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SERIES+ [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18dQnF%2B8M%2FcHrVm%2BSTIgLqXOT%2By0JbRugs91OA0nT4M4hYYMscyycn8" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SERIES+ [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20050.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CINE POP [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2F1GNKTk9tuTHWufiFZviRnL0gAbWNHpyiTxILP21H0mEw%2BqtvH2Cpe" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) CINE POP [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20051.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX193n0IKgiow1%2F3r0z8OJp0b53W3OqqV3hnqeJ6QpymXIhWNjuFFiRGW" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 1 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20052.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18TtLibLlRpDsTI3xXCuQyaoYI1Szk%2FUwFOrksQ49PMuIIUiRWfiy7U" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 2 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20053.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 3 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fd0OjM4H5GH%2F0iQqUXc%2Fo%2FXIfaMdS915enZaVTPpbo6hk3L6j9vp0L" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 3 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20054.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 4 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B0GCtkkEKXISX2im%2FpCGne0aLt67Mx057WPeWgSx7Dpc9H0kd1jKB0" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 4 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20055.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) AMI-TELE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19bffBJePfizl8hATeW6wKyy52FdjjWPxCEbuvMGKAo7JSjEMeAgxhf" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) AMI-TELE [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20056.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FMPud7DE62UvAU%2Fhc4mpFpbAHXFTKwrBLZlofdykzN3iumYoEvnE%2F4" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20057.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO CFTF" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18mVjnCBLX6GfPwZOVfRnpQUYBD8CBPtBWuavsK8l9Z0syUXVjLdfVh" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO CFTF
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20058.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO V-TELE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FQDl0%2FD%2F00R0Jsfg%2BK4t1jtEAnWTQPE4HtcLWsEADrBhMWIzIdHjKg" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO V-TELE [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20059.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO MONTREAL [720p] (CFJP TV)" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18bt%2BP2nDaXWvOhxe%2FEyeqq6em%2FDup80s3FJDA%2BneStRbyeJbcesKV4tnS1uTghC%2BoRwZLGmhVvRw%3D%3D" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO MONTREAL [720p] (CFJP TV)
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20060.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO QUEBEC CITY (CFAP-TV) [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1933ybgk%2F0BF1xn%2FdHu06xKh1KVNFmVN8eoBDRL3Yr73%2FDNTsnzNtSN" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO QUEBEC CITY (CFAP-TV) [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20061.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO SHERBROOKE [720p] (CFKS-TV) " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fgz7krUkHmkjMVPUC9nf4Gk878rKyMT36F%2BthaYi8wuP6GPj%2FrK5bZ3snBcy9nPDBCF9ldpHoGhg%3D%3D" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO SHERBROOKE [720p] (CFKS-TV) 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20062.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO TROIS-RIVIERES (CFKM-TV) [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FsWFcSYXdYVaI7vmRN49QxiI22tlkln%2BI%2FYKklGigOwUcVXOEvCDbS" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO TROIS-RIVIERES (CFKM-TV) [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20063.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) HISTORIA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19KQBJwK%2F9tz8xXS3zUFFj9gecs6vhX6KmK45yv7jxzVtR1h3LFECQB" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) HISTORIA [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20081.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CANAL D [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BIg8ppOe9THpEg%2Flptl7e1%2BOTPAheazhP9xEuKQozVLvigXOuP%2F4hF" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) CANAL D [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20082.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CANAL VIE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19DNd92Hku5Svzd%2Fl3SX6i6mpt19%2B%2Fa6VG3qi82CUrdoh%2BbQsGXOSBR" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) CANAL VIE [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20083.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CANAL Z [480p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19XH%2FUeoH46N0cdH0kMd6X%2BZHvLRzOm7jjqgCPtUpSsjed9Fs0%2B6uVa" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) CANAL Z [480p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20084.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZESTE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19sk1uPTB7tT4EvVeloln5jHsnrh3qg6IAcdVZ11EGOboIOnRu9mR7R" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) ZESTE [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20085.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) UNIS TV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fu78FLCYveDb6Ilb0YFRzNGxU1H51d1nCnqUNHbVVkbs3NPOrJB7eD" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) UNIS TV [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20086.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PLANETE+ [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FIUPJWgt7ut1Qwijg3Q4NIQ1PrN43o2Q2HuqWPymVERMoE6dqQckQw" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) PLANETE+ [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20087.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SEASONS [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FyPpdISEoSn4cGpfvikHyykVzyfvIC7oOmDTp8mIp%2BYI06dOUCZoZc" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) SEASONS [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20088.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) INVESTIGATION [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fr3zUOVD1W%2BnmINrSZGaZ1tZK5asvJu4yYX%2FqXjrqSt21pgABUgRnn" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) INVESTIGATION [720p] 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20089.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SAVOIR MEDIA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18YAhRjMOTYwu7uOy4pOEiR%2BWVv8nXkiYcy7JrNAIfb%2FAE%2FsO9DLEDl" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) SAVOIR MEDIA [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20090.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA|(FR) PALMARESADISQ PAR STINGRAY [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FmVzPwSrsdCjH%2FGs6cdtJm%2F9hJOdErwyV9VCVvJWYTHqWOWkIYAaxA" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA|(FR) PALMARESADISQ PAR STINGRAY [1080p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20091.ts
+#EXTINF:-1 tvg-id="" tvg-name="✶⋆✶DIVERTISSEMENT✶⋆✶ " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19M2Q23a%2BoZKQUx%2BDwHpBeS1EJvEAI5SfQHVCD0Vf4uBEBSb8JLo3Lm" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",✶⋆✶DIVERTISSEMENT✶⋆✶ 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20016.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CASA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18N6c6Z3mK5l7a6pUNMUeFG%2FlvrsXMPi%2FrA5nOM%2BnpjgoeHGulQywty" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) CASA [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20017.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) MAX [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FEynsAWrEQISFmtrtIjsTvC8LCCpGDMuY15x4GoNq5a%2BRlmHahDYnW" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) MAX [720p] 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20018.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) EVASION [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Frx5S8Xc9N70%2FljRyBXLBkadp9vfTFqhaisyVC0cIYuoprJMMflLEf" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) EVASION [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20019.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) FRISSONS TV [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B5hn6j6utWY39hPXkKTUbpf3nBdrRmtmdt8LjJAtaMBltoQUnOC4EM" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) FRISSONS TV [720p] 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20020.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA RIVIERE-DU-LOUP [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FWuSMqFqAohtnobFIPIJ%2FtQzHB8advmsLrEr2py2Gz6CiIU7AnyeUVqS8%2FtAXOb34j4Q3aiQ3s5g%3D%3D" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TVA RIVIERE-DU-LOUP [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20021.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CGTN FRANÇAIS [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19aMtd9A%2BEe7SWbFza78PMYdYgvp14r7au%2BbI2ZUkF%2BI6zwBD8K1b73" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) CGTN FRANÇAIS [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20022.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV ROGERS OTTAWA " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BsouAhHzdeU%2ByYVl7d6Ot1oF74lzT697mTyimvZT9z%2B5z6ez6ClLcs" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TV ROGERS OTTAWA 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20023.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELEVISION [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2F7xpOGAFf6g2L0eX8EoGml2lvj%2BRtffxjNhDzmliaKM%2Bj16c5BMCRurUoy9kQN0Kqjztnt23uwDQ%3D%3D" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) ICI TELEVISION [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20024.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) APTN [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18KTAX%2BzvOh1JzBZkZnKS8xCw0dF4YrE0SGdDiAR279ILELAuIjXyIs" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) APTN [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20025.ts
+#EXTINF:-1 tvg-id="" tvg-name="✶⋆✶LES ENFANTS✶⋆✶ " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19ENTmAZBqYLajdLfVlpTJX197wzuK%2BzEY%2Fh5iNMVRVWqfIXcpLrS7s" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",✶⋆✶LES ENFANTS✶⋆✶ 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20026.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TELE QUEBEC [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX199k5cfPlQk%2FLrsDdeYCjD3e0hNaDOtB69ssWnnjHNFaUxnFyMdqsT4" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TELE QUEBEC [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20027.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TELEMAGINO [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18SltEZdcWkgx9vFp6PVAht5wMM1%2FX0ExaohUfAUAUPct521kDiBa1o" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TELEMAGINO [720p] 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20028.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TELETOON [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FLdRNCBCs9HguBvPGY4Zjw4BMpkLnLE8tg8V5WhA6qP7Zyie%2FWTTJA" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TELETOON [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20029.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) DISNEY LA CHAINE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FcVQBKXiPhYYU%2BGggroeicwqj4MIYUzuqyojxjAK1kvqBczaSTZJYq" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) DISNEY LA CHAINE [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20030.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) DISNEY JUNIOR" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX195kCMPwfyak8NppyMA7faa914ciNR%2Fxw%2FVSNL5AA6hcyLcT8HLFbOEhQGGQRoluhEgdog0FnRL9A%3D%3D" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) DISNEY JUNIOR
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20031.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI Radio Canada Tele Moncton [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B%2BpxaFfv37J4RbZB627LNckhnzS2Fh13Am910VMa3fSjRcvRIWP3A2UoHfPaUvAXgccb4WK7oLiw%3D%3D" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) ICI Radio Canada Tele Moncton [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20032.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO-CANADA TELE MONTREAL [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BYrgPTYg%2F%2Fv6eCl37h%2FGZoCLSWnpXZlL3ZdHiKQkI0hVQwhOw82vFc" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) ICI RADIO-CANADA TELE MONTREAL [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20033.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TFO [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FxE%2BRbRFCbu8sgWkhtmjLkXJ7%2FiArcytYIVmHaVEgaXsTf5mArTg0o" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TFO [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20034.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) BABY TV" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FXMi9EuPTFK0dLsD4I0GSrw%2FZSf9awNgk%2BEYDkrUxc5DMny2urVzYF" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) BABY TV
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20035.ts
+#EXTINF:-1 tvg-id="" tvg-name="✶⋆✶DES SPORTS✶⋆✶ " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FIdmyZsSP0wvh2F0k%2FzSRplrLmDkqLGyucAfeVrzVeiysbex%2FDDAGg" group-title="AM | CANADA FRANÇAIS SPORT",✶⋆✶DES SPORTS✶⋆✶ 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20001.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) LCN [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18ModkPLnmlq%2BHhxt5%2Bq%2Fks4vRm%2FifwUiXaGC%2B%2FlH2REyQM7Mil9lnB" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) LCN [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20002.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) LCN [720p] [back-up]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FSC6r9uMOsh%2BhU6YhLY5w4KwOlTJiNXOAtu%2Bd1bc40dvzJMV05Rm72" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) LCN [720p] [back-up]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20003.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) LCN [480p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18raAaag74YONp9C39L1gzhWKTl%2BEAFlpX1eaIBdT8ZaKJSqme0x1Bt" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) LCN [480p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20004.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SPORTS [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FDlVSMDKGbJ8O5r39Tiu3a2Dn6xYIZqtSDOrainpQRLyeg1hDsli%2FIW%2BSZJlFJOQkYJHb2hdjtWQ%3D%3D" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) TVA SPORTS [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20005.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SPORTS 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BNB%2FTptqK7Gwr2722bkD80Txg%2B4pqhuwhBAj51X1IL2mXpmZnBzJC5C1aTAS9ORDn6vfZVD3k8ow%3D%3D" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) TVA SPORTS 2 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20006.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FGBh9MQQ1y92UacqUwHSl8S4ndGEJRRt6wCY%2BfNfS%2FWJcRnzIcmn2T" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FnUEV8NLio0ksTynzuM%2BOyXJi8dZGf0WjDkHuv9RE1gCT2QJ0g9FMZ" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS1 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20008.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS2 [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BokSUWFFWel8BJNjdfnh0eQuhUSP8N8WRMERHl4lecnhRUpRokUb%2BN" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS2 [720p] 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20009.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FOZSx%2FAoJXRTTkk6xDXOrqapX6Ix1WlsnAQdt%2FYT69qm%2Bts6WNsxIe" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS SPORTS
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20010.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19SSQsQZQ4wBBM3ZH3SeVDjB3rdepWTwkVo5gmLpRoHEZmciHmdrp6F" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS (LQ)  (R)
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20011.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS INFO " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BZpnMvGUzR7jYjICbfjqLAJPZzEqvHE9urMhU9uDbLN4KNeYWrbsvZ" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS INFO 
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20012.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RDI [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19vIGQVZ%2BtCBe5%2BjlcijzK7gOJBtp%2Fm4NHHfiJcXTCOH%2BWPDUJPBmD3" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) ICI RDI [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20013.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BFaKqhOlEOIyvvCkPeUsL4ZirY8h7I1Q1COaMVR93hWXWsBOjTFRePoBYIPI03VdInU9ec0CDR1g%3D%3D" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) ICI TELE [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20014.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19DWNK1%2Bx%2Bf2MC8Hx%2BzRvUUgl%2FU4VgPu3ne370dWkuiyk5FGtbj5M3E2vQCzvuIJVoGcNXQSVmFjw%3D%3D" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) ICI TELE 2 [720p]
+https://freeiptv.ottc.xyz:443/live/353937280931/939884556715/20015.ts
