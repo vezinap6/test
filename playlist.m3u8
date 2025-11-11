@@ -39,10 +39,6 @@ https://hls.savoir.media/live/stream.m3u8
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-ca.png" group-title="General", TVA SPORTS
 http://cord-cutter.net:8080/k4Svp2/645504/57498?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-2-ca.png?raw=true" group-title="General", TVA Sports 2
-http://cord-cutter.net:8080/k4Svp2/645504/57337?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="General", TSN 2
-https:\\a1xs.vip\6000002
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-ca.png?raw=true" group-title="General", Sportsnet East
 http://tv14s.xyz:8080/A1Jay5/362586/57298
 #EXTINF:-1 group-title="General", Hot Ones
