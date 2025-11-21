@@ -23,8 +23,6 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40609.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40765.ts
 #EXTINF:-1 tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png" group-title="General",Zeste
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
-#EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
-http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/evasion-ca.png?raw=true" group-title="General", Evasion
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40716.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/historia-ca.png?raw=true" group-title="General", Historia
@@ -41,22 +39,10 @@ https://hls.savoir.media/live/stream.m3u8
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-ca.png" group-title="General", TVA SPORTS
 http://cord-cutter.net:8080/k4Svp2/645504/57498?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-2-ca.png?raw=true" group-title="General", TVA Sports 2
-http://cord-cutter.net:8080/k4Svp2/645504/57337?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="General", TSN 2
-https:\\a1xs.vip\6000002
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-ca.png?raw=true" group-title="General", Sportsnet East
 http://tv14s.xyz:8080/A1Jay5/362586/57298
-#EXTINF:-1 group-title="General",Bein sport 4
-http://141.98.115.53:80/vibertv96/rdvewfds/6.m3u8
 #EXTINF:-1 group-title="General", National Geographic Wild
 http://cord-cutter.net:8080/k4Svp2/645504/57450?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="General",Arte
-https://livetvde.net/artefr/index.m3u8?token=3f95b0f6acaf95aa3e1117746378e3bde1548df1-36c2b070756f150f272dc69da03f7ecb-1763417548-1763406748
-#EXTINF:-1 group-title="General",TF1
-https://livetvde.net/tf1/index.m3u8?token=297ec058032a1d757ca5965f03542854deb495e2-0e2c7637f22ec51fa56ff1ae7eef27ba-1763417682-1763406882
-#EXTINF:-1 group-title="General",EXP TV
-https://usher.ttvnw.net/api/v2/channel/hls/exptv_.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNzNiMDgyZDYtYTA4Ny00MTlkLTlhOTEtMmFmYWExYTE2N2I0In0%3D&allow_source=true&browser_family=chrome&browser_version=142.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&multigroup_video=false&os_name=Linux&os_version=undefined&p=5865405&platform=web&play_session_id=33ccc9090caddfd02ee6d03f4ea9f337&player_backend=mediaplayer&player_version=1.47.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=52be0317c5d44ec8296fa3d215bd73115ad7865a&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22exptv_%22%2C%22channel_id%22%3A65596476%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%224pP6qQdPqrlRyKnn0sJDP5vpRnU1t66x%22%2C%22expires%22%3A1763413465%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2299.243.176.170%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
 
 
 
@@ -99,7 +85,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055176-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=13a0cdb7-ad38-4359-a137-634d80c1b23b
 #EXTINF:-1 group-title="Pluto FR",Pluto TV Polar+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f94-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8c0239cc-0d96-4499-b1e3-83502189015d
-#EXTINF:-1 group-title="Pluto FR,Pluto TV Retro Toons
+#EXTINF:-1 group-title="Pluto FR",Pluto TV Retro Toons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6
 #EXTINF:-1 group-title="Pluto FR",Pluto TV Sci-Fi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2
@@ -135,19 +121,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41f0c8e5-55e6-4740-a854-15ac608b8c65
 #EXTINF:-1 group-title="Pluto CA",Pluto TV Action Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
-#EXTINF:-1 group-title="Pluto CA" ,Pluto TV Adventure
+#EXTINF:-1 group-title="Pluto CA",Pluto TV Adventure
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/653bdb0fbdf3cf00089cc395/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=272950eb-6667-4241-84ba-48c0968ea09d
 #EXTINF:-1 group-title="Pluto CA",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92178946c8000079a3160/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7bb58dcf-41b0-4375-8a36-1b947b81616b
-#EXTINF:-1 group-title="Pluto CA" ,Pluto TV Comedy Movies
+#EXTINF:-1 group-title="Pluto CA",Pluto TV Comedy Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3d24b8e02600071fa296/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d24-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eac25957-ab7a-4358-b0cd-9e596b2f1a6f
 #EXTINF:-1 group-title="Pluto CA",Pluto TV Crime Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92708a7ce600007b2676a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d26-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59a15527-cb90-4bf4-90ab-ec456c5d2df2
-#EXTINF:-1 group-title="Pluto CA" ,Pluto TV Drama Movies
+#EXTINF:-1 group-title="Pluto CA",Pluto TV Drama Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb0bcd707b9000739d2e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d28-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac9b4aeb-508c-4396-8b31-dc70fc73c3ce
 #EXTINF:-1 group-title="Pluto CA",Qello Concerts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
-#EXTINF:-1 group-title="Pluto CA" ,Reno Duo
+#EXTINF:-1 group-title="Pluto CA",Reno Duo
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb61992443200008c59aef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb45-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0c1620de-10e8-43be-a702-425e955f679c
 #EXTINF:-1 group-title="Pluto CA",Reno Rehab
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6057f923fb0007eafb24/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb46-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0a7e543b-d8fd-4dc0-ab60-9d1b9583bae6
@@ -187,3 +173,69 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19tCUpwgr0nCRSKYgXQf5IihjtyR%2BBnf6IxjKePkJ75eocKX%2F3ECwvd" group-title="24HR",CA| (FR) ICI ARTV [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/19973.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BY8kIJg%2FhKybTqzg95I7mOiK%2Fob1fbb0R2viNdNABBB8weAGuQBicF" group-title="24HR",CA| (FR) ICI EXPLORA [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/19992.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FYye%2FCisWXC5dbNQvWBWHDrneu0XzvRYNINOQn1NpXQJgpU4mFql9e" group-title="24HR",CA| (FR) SUPER ECRAN 1 [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20052.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18IlKRJaUzuGG55uoobu3OQn0868Zy5apG2zH6KBSgH1Wr09KydOOqO" group-title="24HR",CA| (FR) SUPER ECRAN 2 [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20053.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 3 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18XJTxv1gOSKVYgAkr%2BeVckZA8VdBWoEl3oCY1S9Efc4rZcO8I9HWxc" group-title="24HR",CA| (FR) SUPER ECRAN 3 [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20054.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 4 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX197q6miIa3iljJi1ahFMKzh%2F5Em%2FUtILTVCmKhSoI09kiudTlZNAQF4" group-title="24HR",CA| (FR) SUPER ECRAN 4 [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20055.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) AMI-TELE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18oE%2F7LKkP2DIGK81h1gBhogwj3w6LTfv0Qbc7O%2B2Qh%2FYEHG9H8d1qY" group-title="24HR",CA| (FR) AMI-TELE [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20056.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B7FQ5Ab7S03P2CfQ0QHXmmW5YM6EpfbgP%2F2BAOUJcFFl7R7OhGXikH" group-title="24HR",CA| (FR) NOOVO [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20057.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19h9aqgpXqdLGEnwFD7437%2BE98RH5Yk4d41ALMVmL%2BHaEos1GIJ311D" group-title="24HR",CA| (FR) RDS
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FETp38pemV6c6GWJJzCSgXMpp%2Bd0zxX3B6jWu5AvBLi%2BhTC5WN0s29" group-title="24HR",CA| (FR) RDS1 [720p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20008.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS2 [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BKXjQHTFclyQJqiAYM1KuCjhMjA5u6Z7TJIYrk%2F9h492vaeg6s3eIn" group-title="24HR",CA| (FR) RDS2 [720p] 
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20009.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Ba9YS%2B4eSDGn09plnPwNLE3Xc0lx9ly3GnuPRLg7E%2BAFZ1Owkpuh%2BY" group-title="24HR",CA| (FR) RDS SPORTS
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20010.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BjztqOOUzKKAgHrcsyXYNbRatS%2BNH4ap5eUrFcQRs8GP0wQ%2B4kYuDU" group-title="24HR",CA| (FR) RDS (LQ)  (R)
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20011.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS INFO " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18Fn24RszmTqGS6EIPxPHbzwQndR3RArfpJXIwrTjpZFyNIMXhNPQCj" group-title="24HR",CA| (FR) RDS INFO 
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/20012.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18wSXKVEnOXcF7peY9pmACVMhqIyFSx030k9cfhNs5P4h3A0G%2BQ2qFN" group-title="24HR",FR| CANAL+ [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5010.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ CINEMA [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19XIUdu1gdyIs01pIlkJsdat8ktUDD3ejxyVpO2aWSHISwJxSdc8CDi" group-title="24HR",FR| CANAL+ CINEMA [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5011.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ GRAND ECRAN [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BOyyNvXRyeAoHHgVkBruYN4p2N98WgGyepXs7gvS52Y4v4vq70qWds" group-title="24HR",FR| CANAL+ GRAND ECRAN [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5014.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BeBJqwSJtctrFdVjwhYCZU%2FMcxeTnfJ6ktFYSPo69QiHgst9ZWCeWv" group-title="24HR",FR| CANAL+ BOX OFFICE [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5015.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18hlB7%2B2f0O3%2Fcjx%2FCgh56gMemKaDY%2FFhcONUxYrS7DL83q075Z9PPm" group-title="24HR",FR| CINE+ PREMIER [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5016.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ EMOTION [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fp4crugdNjI2IlC9LZjVHS2xn2xYYlxapIm8M6kWtW%2FLcaNl98QSRe" group-title="24HR",FR| CINE+ EMOTION [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5017.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ FAMIZ [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19yZMO%2Fze2W4KPknx0GNhHJgOUNfh%2FfD9DxAVi8GOmzcITHn693S03S" group-title="24HR",FR| CINE+ FAMIZ [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5018.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ FRISSON [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Bsum66MDQ925qApWq9S7%2Fq8qMMFCs7UtHZJjBnY0pa1r%2B1mKQogV8K" group-title="24HR",FR| CINE+ FRISSON [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5019.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ CLASSIC [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Ff7G12P1jgI1nQ7%2BaJ4Ggi8hOgkpR1aRGHZlQy7Yhtolq2t%2BMMTa%2F4" group-title="24HR",FR| CINE+ CLASSIC [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5020.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ CLUB [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18lam2JwK6rT%2FWMtEi8z7autgOZ%2Bo6mMURkm%2Bz4ftvSBxUlW4taTjPX" group-title="24HR",FR| CINE+ CLUB [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5021.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| ACTION [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BvSATMC7EjVIRvi60EM6DOagklIVu%2B%2Bayp67uenurOVOdlbNII6KjtWOS2VUQGUq9gvpYBr21frg%3D%3D" group-title="24HR",FR| ACTION [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5027.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| TCM CINÉMA [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FeTnICpiv5NsKTYybt2%2F%2BGwAFDwSaYUNFnNoC1HisMP3zcShtC%2FG2%2B" group-title="24HR",FR| TCM CINÉMA [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5028.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18TSBDxM66Kziw5jsLoowS4fOJvUJygNTJgh5gtmgWYOrY3Cq94futo" group-title="24HR",FR| PARAMOUNT CHANNEL [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5029.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT DÉCALÉ [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Bbq3b%2F2j6wggD03iN5LoDke5SXn5mVK1oA6Xix5Z%2FxnEokjd%2F91jrX" group-title="24HR",FR| PARAMOUNT DÉCALÉ [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5030.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| NOLLYWOOD [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18zrrfnw5G9RZ3OTcsWqJes1Sw2Lmck%2F9rszeo6bnsZpOnFwQX8X1wt" group-title="24HR",FR| NOLLYWOOD [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5032.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| WARNER TV [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18OmvxKfwJVRt1EzB%2BTDpavgsXEPISmPerSToOgcTM728%2Fnp0J6VldD" group-title="24HR",FR| WARNER TV [1080p]
+http://freeiptv.ottc.xyz:80/live/824719309172/269964053179/5033.ts
