@@ -7,8 +7,6 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1  tvg-id="CFJP.ca2" tvg-logo="https://5600k.ca/client/tele-quebec/" group-title="General",Tele Québec
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40606.ts
-#EXTINF:-1  tvg-id="CFJP.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" group-title="General",Noovo CA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium835%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 #EXTINF:-1 tvg-id="vie.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Canal_Vie_2016_logo.png" group-title="General",Vie
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40673.ts
 #EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-1-ca.png" group-title="General",Super Ecran 1
@@ -37,24 +35,20 @@ http://cord-cutter.net:8080/k4Svp2/645504/57288?checkedby:alliptvlinks.com
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
 https://tvpass.org/live/HGTVEast/hd
-#EXTINF:-1 group-title="General", RDS CA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium839%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxSZWZlcmVyPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZC98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDQuMA%3D%3D
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="General", TSN 2
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
+http://nocable.cc:8080/91161088/91161088/47442
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="General", RDS info
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
+#EXTINF:-1 group-title="General", CA (FR) RDS2
+http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-ca.png" group-title="General", TVA SPORTS
-http://cord-cutter.net:8080/k4Svp2/645504/57498?checkedby:alliptvlinks.com
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40645.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-ca.png?raw=true" group-title="General", Sportsnet East
 http://tv14s.xyz:8080/A1Jay5/362586/57298
 #EXTINF:-1 group-title="General", National Geographic Wild
 http://cord-cutter.net:8080/k4Svp2/645504/57450?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="General", EXP TV
-http://192.168.4.55:8409/iptv/channel/1.m3u8?mode=segmenter
-#EXTINF:-1 group-title="General", Hot Ones Québec
-http://192.168.4.55:8409/iptv/channel/2.m3u8?mode=segmenter
-#EXTINF:-1 group-title="General", Curb
-http://192.168.4.55:8409/iptv/channel/3.m3u8?mode=segmenter
+
+
 
 #EXTINF:-1 group-title="Pluto FR",Dossiers FBI
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057883-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a243842a-2a92-4ca0-bdea-73f35b29bf5c
