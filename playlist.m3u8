@@ -5,6 +5,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1   group-title="General",Noovo
+http://drewlive2423.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium835%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxSZWZlcmVyPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZC98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDQ%3D
 #EXTINF:-1  tvg-id="CFJP.ca2" tvg-logo="https://5600k.ca/client/tele-quebec/" group-title="General",Tele Québec
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40606.ts
 #EXTINF:-1 tvg-id="vie.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Canal_Vie_2016_logo.png" group-title="General",Vie
@@ -36,7 +38,9 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
 https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="General", TSN 2
-http://nocable.cc:8080/91161088/91161088/47442
+http://cord-cutter.net:8080/30550113/30550113/47442
+#EXTINF:-1 group-title="General", CA (FR) RDS
+http://drewlive2423.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium839%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxSZWZlcmVyPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZC98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDQ%3D
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="General", RDS info
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
 #EXTINF:-1 group-title="General", CA (FR) RDS2
@@ -45,8 +49,11 @@ http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40645.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-ca.png?raw=true" group-title="General", Sportsnet East
 http://tv14s.xyz:8080/A1Jay5/362586/57298
-#EXTINF:-1 group-title="General", Cogeco NousTV TR
+#EXTINF:-1  group-title="General", TSN the Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/7f1a7452-6cfd-44d7-8cca-735c3d09d3eb/3.m3u8
+#EXTINF:-1  group-title="General", Cogeco NousTV
 https://ntvweb1.nous.tv:8088/NTVTR/index.m3u8
+
 
 
 
@@ -144,6 +151,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501
 #EXTINF:-1 group-title="Pluto CA",South Park En Français
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb919d36cbd0007e6ab8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0254-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3779233e-781d-466c-a70d-0dbdb22e3f67
+
+
+#EXTINF:-1 group-title="Crave",Crave 1
+https://fl7.moveonjoy.com/CRAVE_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Crave",Crave 2
+https://fl61.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Crave",Crave 2
+https://fl7.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title="Crave",Crave 4
+https://fl61.moveonjoy.com/CRAVE_4/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 group-title="Pluto US",MovieSphere by Lionsgate
