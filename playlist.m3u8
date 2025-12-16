@@ -223,3 +223,84 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19tyb5uModknEWFrpQXbdhN1Bs5TzO6gMRHlfCmzb8l9W4zDfICFxj5" group-title="24hr",CA| (FR) RDS
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FaUPZVCM2WrDdts7bG2adUJriFxiwZ9lm%2BOm5RMx2Uv7BAdaJNoLLh" group-title="24hr",CA| (FR) RDS1 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20008.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS2 [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BIb8wAYJ6m650QWGeJvAO9znO%2BtAgP%2BFVFDBvBI1DkiY5GGp0yLsS7" group-title="24hr",CA| (FR) RDS2 [720p] 
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20009.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18J7L7ZvC3iYcu0oJEHNHe9pdSUeDm%2Fl9rkipmaTPri2Kt1B5lpMdwB" group-title="24hr",CA| (FR) RDS SPORTS
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20010.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B6wPWBH8ZFXNmTeXpOfj6x4Y3iAsmfaeygzVAQHekZ8hntsBxqEDc9" group-title="24hr",CA| (FR) RDS (LQ)  (R)
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20011.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19%2FAT9qNZzWdw7PGf9%2F5DdTb156rFf4dlLfGhTsXkEzVQedmunwdL1I" group-title="24hr",CA| TSN 2 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20131.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 2 [720p] [BACK-UP]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FxTAaO1IIEFHWNBmWydN1mD2y5U2sgE%2F0%2FCw29wsCHxYSR5RD5Blut" group-title="24hr",CA| TSN 2 [720p] [BACK-UP]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20132.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX197CKJt4kW87JY3TfH2m0tJ1FkYE%2B1AGql50%2F10keaSRmS2Y%2F9G04nO" group-title="24hr",CA| (FR) ICI ARTV [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/19973.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18TBoHDVQYPO8aFoHX5QgK2yYUwjGZDBSUpoftSBBr4nHFcv%2FUM6g1x" group-title="24hr",CA| (FR) ICI EXPLORA [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/19992.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FJY2iuNQsxzoAN3g%2BfaAqJxlGWrBGKxNYPBoYHYHpxAP4pTKWKQrGn" group-title="24hr",CA| (FR) A LA CARTE 1 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20065.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19AlNlYDkT2DIr4G20J2Fzl0uX5jApti%2FcWRlM%2F%2B%2BP5bHhldwR8FJOs" group-title="24hr",CA| (FR) A LA CARTE 2 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20066.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 3 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19kCQeeKkSfcJqMfge4P%2Fs17xJvmo%2BdCqz%2F8KDbB3po1QWxONDtLpSD" group-title="24hr",CA| (FR) A LA CARTE 3 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20067.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 4 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18bT6MZ15qqW%2F%2BrZhGiR9rLn34KEH8PiEnfNioAH4wjR1EaH5%2Fs5CLj" group-title="24hr",CA| (FR) A LA CARTE 4 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20068.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 5 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19TnIcUKjXU0JV1jH6WgGPXKvsSYZ5uqmv0lzI%2FXnGRzUQILSCLGB%2Bt" group-title="24hr",CA| (FR) A LA CARTE 5 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20069.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 6 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B1uYQujYX72Smy0i36%2FVsmzBdN72jJGYmgG5MNmf6VpeGie7rzR7hS" group-title="24hr",CA| (FR) A LA CARTE 6 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20070.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 7 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19GYNymJP6OP%2FiKho%2FhS5fGu1jDBLM4dMaIfJSuxrwvI30%2Fobk5iHXy" group-title="24hr",CA| (FR) A LA CARTE 7 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20071.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 8 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19yHDtwUUbBvgPoCWl3XDwOnxEfnxNfrY8mIhX2RLURN9%2BJhgMhS8oG" group-title="24hr",CA| (FR) A LA CARTE 8 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20072.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 9 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FlBO5Mr5W49kMzazOozeSZsfMRgWcWasj82uOZU438WwQz5KmEEhjQ" group-title="24hr",CA| (FR) A LA CARTE 9 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20073.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 10 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18HbzZ03nbz8fsEPQJhrn7ywxz0L58B3j4vi9ZGupu4Uvwf2jTvBjb7" group-title="24hr",CA| (FR) A LA CARTE 10 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20074.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 11 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19o99Hmegk1kY9Zf1ykm%2Fohtd7dIJx%2FQZ%2FlCTNLwvCCT5tkMJQltuhv" group-title="24hr",CA| (FR) A LA CARTE 11 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20075.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 12 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BDiUajfSvu1S5c7awgQzZXidtCBKaMpDkl7jEiz%2BjUUXQ7UBeTto2K" group-title="24hr",CA| (FR) A LA CARTE 12 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20076.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 13 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18P2SlisftGvuQsiDcRF9cqPWnC0G12mKFwuV5h963CNAioTI4vekAr" group-title="24hr",CA| (FR) A LA CARTE 13 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20077.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 14 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18ROaNMYO5WQ4E%2F2%2BPof9gnN7KZA0Uv4XaRF9Fw9iQg5PErSLFMvNXU" group-title="24hr",CA| (FR) A LA CARTE 14 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20078.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 15 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FgpbGT3zvW3M3wdB7wmYJbxFCGBjr4syOmsut8zXGeYskNs6J%2BU6Kp" group-title="24hr",CA| (FR) A LA CARTE 15 [720p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/20079.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BJge7moeZLXM20wkDll1dFR2g19%2BpTU9tYSRAh5XbvjNF%2FneHkKeWq" group-title="24hr",FR| CANAL+ [1080p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/5010.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ CINEMA [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Bvnng0CO63%2FIjnXNVahZ%2FNVl%2FWx5n54bZp%2BzUzc%2BRMlQIyYEu7fAux" group-title="24hr",FR| CANAL+ CINEMA [1080p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/5011.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ GRAND ECRAN [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19RlXZ3isvIG5yUC4eFnzl2ii1JJTg78zrWbi%2BJ0VFe5HmYVP5QH%2B0H" group-title="24hr",FR| CANAL+ GRAND ECRAN [1080p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/5014.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BP%2FbaY0h02idgs%2F781EzBwYLI8mcrdRCU0QP7KiERx4YAmpwrW0kn6" group-title="24hr",FR| CANAL+ BOX OFFICE [1080p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/5015.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER [1080p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2F4GAVEF9lUZEvYbEHsTbs%2FxpwnCDJVyMbkHEcya84bNCaIlotothOY" group-title="24hr",FR| CINE+ PREMIER [1080p]
+http://freeiptv.ottc.xyz:80/live/521501933457/249025625142/5016.ts
+
+
+
+
+
+
+
+
+
+
+
