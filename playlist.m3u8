@@ -230,6 +230,50 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SPORTS [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19vtdJU1%2BxaCdLcFPA0q698XZ2FFYHefAFxf8ktTHrb0%2Fg5K%2BxpRSy108l8JuWhfgkjfOWnsYTgCg%3D%3D" group-title="hockey",CA| (FR) TVA SPORTS [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20005.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SPORTS 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18Wce%2FUOD71QnOQauRtP%2F%2BgoQCFufZVzB2%2BJkQSeF6ygJgobIqbqOV71RqN77KKV63t87Ff4xy4dQ%3D%3D" group-title="hockey",CA| (FR) TVA SPORTS 2 [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20006.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EAST [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19y78LKmwQpH31GMHLcSo%2BwrGAigdUquKjzIwS0ASVUHmKq6fezB%2FI8" group-title="hockey",CA| SPORTSNET EAST [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20154.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| CITYTV MONTREAL [720p] " tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18gPCyKQ%2BOQUgP8FbLSGKV9PsJJdj4eVSbI6zc7NY0Wk6S4xMuU%2FYfa" group-title="hockey",CA| CITYTV MONTREAL [720p] 
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20645.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL CENTER ICE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B7ycXK6qakrFKaxkJwpFVMl0v8iXgic6e6ASCq%2FKNV1%2Bp%2Fho17xH0e" group-title="hockey",US| NHL CENTER ICE [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19463.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL ALTERNATE [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19xayHknz7aaq5xYi1tsRxf6T0Kbq1nLphWZPZFi1nuRO1%2BdG8VELSR" group-title="hockey",US| NHL ALTERNATE [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19464.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 01 - 12:30pm Flyers @ Rangers" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18oEDL5km1YytXf%2FRovqhLUHMQrhE3fOIqEe89p7mO8qRYRBT99Oy6K" group-title="hockey",US| NHL LIVE 01 - 12:30pm Flyers @ Rangers
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19465.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 02 - 12:30pm Red Wings @ Capitals" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Fp2%2B%2BRYfdN9MaylSckh3olX9X2BqM4%2FUL5jegl9ibXXPBhb%2FSUGY%2BK" group-title="hockey",US| NHL LIVE 02 - 12:30pm Red Wings @ Capitals
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19466.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 03 - 3pm Blackhawks @ Senators" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FzXD8Or7%2FQ9wNWhOiyADhAA2JPSMB%2BG2VnSlO%2FYdfNaA%2B04nqcAuwl" group-title="hockey",US| NHL LIVE 03 - 3pm Blackhawks @ Senators
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19467.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 04 - 3pm Oilers @ Wild" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18gUtIRdy1st4qqTc1MW4Bj7ygvL4hJmXCbY%2FtjKuZyDnzy07PkTayq" group-title="hockey",US| NHL LIVE 04 - 3pm Oilers @ Wild
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19468.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 05 - 5pm Islanders @ Sabres" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19DL2KP6ZPMoY%2F0TqZd5hp574F6%2FSM%2BxN1iadkZqgvFjLyErHd25%2BGp" group-title="hockey",US| NHL LIVE 05 - 5pm Islanders @ Sabres
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19469.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 06 - 6pm Blues @ Panthers" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B5RJISIDdwuWVYvbDYIzmMLLszxNAW%2Bs%2FkvKtdcdFVQo6fhT4a5q8F" group-title="hockey",US| NHL LIVE 06 - 6pm Blues @ Panthers
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19470.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 07 - 7pm Canucks @ Bruins" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FzoLCJ2yfkf6zhA1RI2fFUCVmxPhwsjWRkpEIaJGF8WEQVk79XSnkd" group-title="hockey",US| NHL LIVE 07 - 7pm Canucks @ Bruins
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19471.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 08 - 7pm Penguins @ Canadiens" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18dWrD1Hgeo3iB2UWW6oTIuYpEKMLNmnMhxG2KIupssRclWI1vncD4Q" group-title="hockey",US| NHL LIVE 08 - 7pm Penguins @ Canadiens
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19472.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 09 - 7pm Hurricanes @ Lightning" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18aTaB6z%2BxMPp8omGrh2OVxJazyyrz1UtUj%2BvRgCksF4RuqcQnnVYjH" group-title="hockey",US| NHL LIVE 09 - 7pm Hurricanes @ Lightning
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19473.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 10 - 7pm Maple Leafs @ Predators" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2By21JvgsgN5DGxnmMticoGajVI3hXOpAd718tOv8tc0guyXC21XJhv" group-title="hockey",US| NHL LIVE 10 - 7pm Maple Leafs @ Predators
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19474.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 11 - 10pm Golden Knights @ Flames" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B2s7qvXND9eoY%2BqYA17EzjMKxy%2FoVJwRzOZBLk5DOwHj8DL9EkuqLD" group-title="hockey",US| NHL LIVE 11 - 10pm Golden Knights @ Flames
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19475.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 12 - 10pm Blue Jackets @ Ducks" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18Cqzqj5uKSL496o5z%2FRi8Po3une2rMauSs9M0VfwofzfWjT0WyMJqW" group-title="hockey",US| NHL LIVE 12 - 10pm Blue Jackets @ Ducks
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19476.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL LIVE 13 - 10pm Kraken @ Sharks" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18bSsg7JvV9cTU4YmyHdpmqEBA%2FZXqQcKX8s7vBVxBY3ZMcJYalz37L" group-title="hockey",US| NHL LIVE 13 - 10pm Kraken @ Sharks
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19477.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| NHL MONTRÉAL CANADIENS [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2BbEJgnltSRu0%2FDVYBTgR2pjuqgdH3jXXHKrCx20gjFlKDxpGY2VrHI" group-title="hockey",US| NHL MONTRÉAL CANADIENS [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19498.ts
+
+
+
+
 
 
 
