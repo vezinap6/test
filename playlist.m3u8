@@ -274,7 +274,16 @@ http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19498.ts
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX181ghZA36j34HYX%2BniNnyPm2FdoXI55CHHKWMbGxvvo2ytBgVR1kklj" group-title="24hr",CA| (FR) ICI ARTV [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/19973.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 1 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FMpSLISj8dkIKohVq9tCSVmjv9Z484uWyuuWo4yFvCKE0SgDjEi0jz" group-title="24hr CINEMA",CA| (FR) SUPER ECRAN 1 [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20052.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 2 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2FVw4HZ3%2FCGX6XY84oNAqtHMlb2LuydUh6ziGfyT2T1wQxwBKEGZlfD" group-title="24hr CINEMA",CA| (FR) SUPER ECRAN 2 [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20053.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 3 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2B%2BIcK%2FwwLKpkf5IzqqHhfu%2BRmGHLXFKOqfLP7jhRUow8zAVmI1N%2F1%2B" group-title="24hr CINEMA",CA| (FR) SUPER ECRAN 3 [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20054.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SUPER ECRAN 4 [720p]" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX18t6x4cfcgIY1wIFQtagFODcCB309lLcQbyfwDI0metRmHVGZUD67FR" group-title="24hr CINEMA",CA| (FR) SUPER ECRAN 4 [720p]
+http://freeiptv.ottc.xyz:80/live/831166744399/319171250314/20055.ts
 
 
 
