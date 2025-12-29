@@ -7,6 +7,8 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cinepop.ca/assets/images/logo-cinepop.png" group-title="General", CinePOP
 http://tv14s.xyz:8080/A1Jay5/362586/57480?checkedby:alliptvlinks.com
+#EXTINF:-1, Canal Vie
+http://tv14s.xyz:8080/A1Jay5/362586/116947?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1708008.gif" group-title="General", TV5
 http://cord-cutter.net:8080/k4Svp2/645504/57288?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
