@@ -9,6 +9,8 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 http://tv14s.xyz:8080/A1Jay5/362586/57480?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="General", Canal Vie
 http://tv14s.xyz:8080/A1Jay5/362586/116947?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="General",Historia
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40612.ts
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1708008.gif" group-title="General", TV5
 http://cord-cutter.net:8080/k4Svp2/645504/57288?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
@@ -19,6 +21,30 @@ https://tvpass.org/live/HGTVEast/hd
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
 
+
+
+
+
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 1
+http://fl1.moveonjoy.com/NHL_1/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 2
+http://fl1.moveonjoy.com/NHL_2/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 4
+http://fl1.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 5
+http://fl1.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 6
+http://fl1.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 7
+http://fl1.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 8
+http://fl1.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 9
+http://fl1.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 10
+http://fl1.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 group-title="Center Ice,NHL Centre Ice 11
+http://fl1.moveonjoy.com/NHL_11/index.m3u8
 
 
 #EXTINF:-1 group-title="Pluto FR",Dossiers FBI
