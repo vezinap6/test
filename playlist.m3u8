@@ -386,3 +386,66 @@ https://amg01076-amg01076c24-rakuten-fr-8816.playouts.now.amagi.tv/playlist/amg0
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="canald.ca" tvg-name="CA (FR) Canal D SD (P)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="Canada French",CA (FR) Canal D SD (P)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA (FR) CinePOP SD (P)" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Cin%C3%A9Pop.png" group-title="Canada French",CA (FR) CinePOP SD (P)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57480
+#EXTINF:-1 tvg-id="canalevasion.ca" tvg-name="CA (FR) Evasion SD (P)" tvg-logo="https://m1.quebecormedia.com/static/evasion_logo-7c49c3a9c47d4091914548733608e3c4.png" group-title="Canada French",CA (FR) Evasion SD (P)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57482
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="Canada French",CA (FR) Historia HD 
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Montreal HD (D) " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="Canada French",CA (FR) ICI Tele Montreal HD (D) 
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57484
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Quebec HD (D) " tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9.png" group-title="Canada French",CA (FR) ICI Tele Quebec HD (D) 
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57493
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA-FR | ICI VANCOUVER FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="Canada French",CA-FR | ICI VANCOUVER FR
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57485
+#EXTINF:-1 tvg-id="lachainedisney.ca" tvg-name="CA (FR) Disney La Chaine (R)" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Disney-La-chaine.png" group-title="Canada French",CA (FR) Disney La Chaine (R)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57481
+#EXTINF:-1 tvg-id="lecanalnouvelles.ca" tvg-name="CA (FR) LCN (E)" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/lcn_sept2020.png" group-title="Canada French",CA (FR) LCN (E)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57968
+#EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA-FR | METEO" tvg-logo="https://www.pelmorex.com/wp-content/uploads/2015/02/Brand_MMLogo-1-300x149.png" group-title="Canada French",CA-FR | METEO
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57486
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="Canada French",CA-FR | MOI ET CIE
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
+#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA (FR) Prise  (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png" group-title="Canada French",CA (FR) Prise  (P)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Canada French",CA (FR) RDS2 HD (B)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
+#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="CA-FR | RDS INFO" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Canada French",CA-FR | RDS INFO
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57491
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA (FR) Super Ecran 1 (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Canada French",CA (FR) Super Ecran 1 (E)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66363
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA (FR) Super Ecran 2 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Canada French",CA (FR) Super Ecran 2 SD (P)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66364
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CA (FR) Super Ecran 3 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Canada French",CA (FR) Super Ecran 3 SD (P)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66365
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CA (FR) Super Ecran 4 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="Canada French",CA (FR) Super Ecran 4 SD (P)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66366
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="Canada French",CA (FR) TFO HD (R)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
+#EXTINF:-1 tvg-id="tva.ca" tvg-name="CA (FR) TVA Montreal FHD (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Montreal FHD (B)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57497
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA-FR | TVA SPORTS 1
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
+#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="Canada French",CA (FR) NOOVO (D)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="Canada French",CA (FR) Zeste HD  (B)
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57502
+
+
