@@ -183,12 +183,3 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 #EXTINF:-1 group-title="Pluto US",Vevo Retro Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX1%2Ffk6n0qZzmWd8WyYyy%2FvxjMn%2BE0uT3EP2JcCUnUI8jVDJca9oqEx2n" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS
-http://freeiptv.ottc.xyz:80/live/137231754333/198343058144/29113.ts
