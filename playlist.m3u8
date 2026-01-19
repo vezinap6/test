@@ -9,6 +9,8 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
 #EXTINF:-1 group-title="General", Canal Vie
 http://tv14s.xyz:8080/A1Jay5/362586/116947
+#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie backup
+http://fortv.cc:8080/yhW1wX/013165/116947
 #EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA (FR) Super Ecran 1 (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="General",CA (FR) Super Ecran 1 (E)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66363
 #EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA (FR) Super Ecran 2 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="General",CA (FR) Super Ecran 2 SD (P)
@@ -39,10 +41,18 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",TVA Sports 2
+http://fortv.cc:8080/yhW1wX/013165/57337
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS
+http://xxip25.top:8080/pU3Mes/259845/57325
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",RDS backup
+http://fortv.cc:8080/yhW1wX/013165/57387
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA (FR) RDS2 HD (B)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 #EXTINF:-1  tvg-name="TSN2 HD" tvg-id="tsn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="General",TSN2 HD
 https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup
+http://fortv.cc:8080/yhW1wX/013165/47442
 #EXTINF:-1  tvg-name="Sportsnet 360 HD" tvg-id="sportsnet-360" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-ca.png?raw=true" group-title="General",Sportsnet 360 HD
 https://tvpass.org/live/sportsnet-360/hd
 
