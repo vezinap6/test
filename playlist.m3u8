@@ -39,6 +39,10 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
 #EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="General",CA (FR) TFO HD (R)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
+#EXTINF:-1 group-title="General",Cine Pop
+http://tv.zapping.life:8080/EPIF5SOTM3/B8RkkdZ2vF/166426
+#EXTINF:-1 group-title="General",Teletoon
+http://tv.zapping.life:8080/EPIF5SOTM3/B8RkkdZ2vF/45867
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",TVA Sports 2
