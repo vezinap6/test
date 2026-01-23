@@ -27,9 +27,9 @@ https://hls.savoir.media/live/stream.m3u8
 https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 group-title="General",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA (FR) CASA SD (P)" tvg-logo="" group-title="Canada French",CA (FR) CASA SD (P)
+#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA (FR) CASA SD (P)" tvg-logo="" group-title="General",CA (FR) CASA SD (P)
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/116948
-#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="Canada French",CA (FR) TV5 
+#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="General",CA (FR) TV5 
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57288
 #EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="General",CA (FR) Zeste HD  (B)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57502
@@ -46,7 +46,7 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
 #EXTINF:-1 group-title="General",Cine Pop
 http://tv.zapping.life:8080/EPIF5SOTM3/B8RkkdZ2vF/166426
 #EXTINF:-1 group-title="General",Teletoon
-http://tv.zapping.life:8080/EPIF5SOTM3/B8RkkdZ2vF/45867
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57372
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",TVA Sports 2
@@ -55,7 +55,7 @@ http://fortv.cc:8080/yhW1wX/013165/57337
 http://xxip25.top:8080/pU3Mes/259845/57325
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",RDS backup
 http://fortv.cc:8080/yhW1wX/013165/57387
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Canada French",RDS backup 2
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS backup 2
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA (FR) RDS2 HD (B)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
@@ -80,8 +80,7 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57376
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57377
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="CA: Bravo" tvg-logo="" group-title="CANADA EN",CA: Bravo
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57379
-#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network " tvg-logo="" group-title="KIDS ZONE",CA Cartoon Network 
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57380
+
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="CANADA EN",CA CBC Montreal HD (D) 
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 #EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA City TV Toronto (D)" tvg-logo="" group-title="CANADA EN",CA City TV Toronto (D)
@@ -198,8 +197,6 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57300
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/75675
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="CA CTV SCI-FI " tvg-logo="" group-title="CANADA EN",CA CTV SCI-FI 
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57464
-#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA Teletoon East (E)" tvg-logo="" group-title="KIDS ZONE",CA Teletoon East (E)
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57372
 #EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA TLC " tvg-logo="" group-title="CANADA EN",CA TLC 
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57290
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA EN",CA TSN 1 (E)
