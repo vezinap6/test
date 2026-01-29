@@ -7,6 +7,8 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",CA (FR) NOOVO (D)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
+#EXTINF:-1 group-title="General",Télé Québec (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44243
 #EXTINF:-1 group-title="General", Canal Vie
 http://tv14s.xyz:8080/A1Jay5/362586/116947
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie backup
@@ -27,6 +29,26 @@ https://hls.savoir.media/live/stream.m3u8
 https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 group-title="General",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="General",Action (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44280
+#EXTINF:-1 group-title="General",Addik TV (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44279
+#EXTINF:-1 group-title="General",Evasion (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44264
+#EXTINF:-1 group-title="General",Frissons TV HD (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44263
+#EXTINF:-1 group-title="General",ICI ARTV (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44261
+#EXTINF:-1 group-title="General",LCN (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44256
+#EXTINF:-1 group-title="General",CinePOP (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44269
+#EXTINF:-1 group-title="General",Elle Fictions (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44253
+#EXTINF:-1 group-title="General",Unis TV (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44234
+#EXTINF:-1 group-title="General",Zeste (FR) CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44229
 #EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA (FR) CASA SD (P)" tvg-logo="" group-title="General",CA (FR) CASA SD (P)
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/116948
 #EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="General",CA (FR) TV5 
@@ -57,6 +79,8 @@ http://xxip25.top:8080/pU3Mes/259845/57325
 http://fortv.cc:8080/yhW1wX/013165/57387
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS backup 2
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
+#EXTINF:-1 group-title="General",RDS BACKUP 3
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44251
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA (FR) RDS2 HD (B)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 #EXTINF:-1  tvg-name="TSN2 HD" tvg-id="tsn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="General",TSN2 HD
@@ -68,6 +92,96 @@ https://tvpass.org/live/sportsnet-360/hd
 
 
 
+#EXTINF:-1 group-title="HBO",HBO 1 CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/45451
+#EXTINF:-1 group-title="HBO",HBO 2 CA
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/45450
+#EXTINF:-1 group-title="HBO",HBO MAX 2020-2022 CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118677
+#EXTINF:-1 group-title="HBO",HBO MAX ACTION CRIME CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118676
+#EXTINF:-1 group-title="HBO",HBO MAX ACTION THRILLER CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118675
+#EXTINF:-1 group-title="HBO",HBO MAX ADVENTURE CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118674
+#EXTINF:-1 group-title="HBO",HBO MAX ANIMATION ADVENTURE CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118673
+#EXTINF:-1 group-title="HBO",HBO MAX BIOGRAPHY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118672
+#EXTINF:-1 group-title="HBO",HBO MAX CINEMA 1 HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118671
+#EXTINF:-1 group-title="HBO",HBO MAX CINEMA 2 HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118670
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION ADVENTURE CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118669
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118668
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION CRIME CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118667
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION THRILLER CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118666
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ADVENTURE CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118665
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ANIMATED ADVENTURE CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118664
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC BIOGRAPHY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118663
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC CINEMA 1 HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118662
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC CINEMA 2 HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118661
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC COMEDY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118660
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC CRIME CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118659
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC DOCUMENTARY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118658
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC DRAMA CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118657
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC FAMILY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118656
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC FANTASY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118655
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC HISTORY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118654
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC HORROR CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118653
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC MYSTERY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118652
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ROMANCE CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118651
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC SCIFI CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118650
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC SPORT CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118649
+#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC THRILLER 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118648
+#EXTINF:-1 group-title="HBO",HBO MAX COMEDY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118647
+#EXTINF:-1 group-title="HBO",HBO MAX CRIME CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118646
+#EXTINF:-1 group-title="HBO",HBO MAX DOCUMENTARY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118645
+#EXTINF:-1 group-title="HBO",HBO MAX DRAMA CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118644
+#EXTINF:-1 group-title="HBO",HBO MAX FAMILY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118643
+#EXTINF:-1 group-title="HBO",HBO MAX FANTASY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118642
+#EXTINF:-1 group-title="HBO",HBO MAX HISTORY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118641
+#EXTINF:-1 group-title="HBO",HBO MAX HORROR CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118640
+#EXTINF:-1 group-title="HBO",HBO MAX MYSTERY CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118639
+#EXTINF:-1 group-title="HBO",HBO MAX ROMANCE CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118638
+#EXTINF:-1 group-title="HBO",HBO MAX SCIFI CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118637
+#EXTINF:-1 group-title="HBO",HBO MAX SPORTS CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118636
+#EXTINF:-1 group-title="HBO",HBO MAX THRILLER CINEMA HD 24/7 VIP UK
+http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118635
 
 
 #EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="" group-title="CANADA EN",CA: A&E
