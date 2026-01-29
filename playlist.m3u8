@@ -480,3 +480,20 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 #EXTINF:-1 group-title="Pluto US",Vevo Retro Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX1%2FXv3FEeRno7vHIrjxTBYajZjQGhX%2F0EX%2B%2Bs6t5Fu2FJ89Mqpnl1o%2FU" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS
+http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29113.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS1 [720p]" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX1%2F9KxLEColq0KEldQjxdvTPZ113m6xZ8JGP9QAJvJLkMtDHrwO8Exsz" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS1 [720p]
+http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29121.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX19MjdTQALttYawhI9Ym0d3NqBppxqWO9Vo48aw4bpbZ4kUl6zM9c3Er" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS SPORTS
+http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29125.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX1%2BzHhDvSJ3k501IzyyN0jaf8jTZj8SQvrWtF%2FWB31%2FGs65CN0ghR1Ue" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS (LQ)  (R)
+http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29114.ts
