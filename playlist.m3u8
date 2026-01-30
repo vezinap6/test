@@ -69,6 +69,8 @@ http://xxip25.top:8080/pU3Mes/259845/57325
 http://fortv.cc:8080/yhW1wX/013165/57387
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS - backup 2
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS - backup 3
+http://cord-cutter.net:8080/wefarrow@comcast.net/cywt7KR782/57325
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",RDS2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 #EXTINF:-1  tvg-name="TSN2 HD" tvg-id="tsn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="General",TSN2 HD
