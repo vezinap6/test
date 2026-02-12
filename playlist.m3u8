@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI 2
+http://xxip43.top:8080/derek@otto/derek@2023/126723
+#EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI 3
+http://xxip43.top:8080/derek@otto/derek@2023/164369
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",Ici Radio-Canada Télé Mauricie/Centre-du-Québec
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA
@@ -29,14 +33,10 @@ https://tvpass.org/live/HGTVEast/hd
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="General",Addik TV (FR) CA
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44279
-#EXTINF:-1 group-title="General",Evasion (FR) CA
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44264
 #EXTINF:-1 group-title="General",Frissons TV HD (FR) CA
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44263
 #EXTINF:-1 group-title="General",LCN (FR) CA
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44256
-#EXTINF:-1 group-title="General",Elle Fictions (FR) CA
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44253
 #EXTINF:-1 group-title="General",Unis TV (FR) CA
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44234
 #EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA (FR) CASA SD (P)" tvg-logo="" group-title="General",CA (FR) CASA SD (P)
@@ -56,7 +56,7 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
 #EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="General",CA (FR) TFO HD (R)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
 #EXTINF:-1 group-title="General",Cine Pop
-http://tv.zapping.life:8080/EPIF5SOTM3/B8RkkdZ2vF/166426
+http://xxip43.top:8080/derek@otto/derek@2023/57480
 #EXTINF:-1 group-title="General",Teletoon
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57372
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
