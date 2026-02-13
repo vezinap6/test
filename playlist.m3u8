@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI 2
-http://xxip43.top:8080/derek@otto/derek@2023/126723
-#EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI 3
 http://xxip43.top:8080/derek@otto/derek@2023/164369
+#EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI backup
+http://fortv.cc:8080/Zk9hJ68/894658/126723
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",Ici Radio-Canada Télé Mauricie/Centre-du-Québec
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA
@@ -57,6 +55,8 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
 #EXTINF:-1 group-title="General",Cine Pop
 http://xxip43.top:8080/derek@otto/derek@2023/57480
+#EXTINF:-1 group-title="General",Cine Pop backup
+http://fortv.cc:8080/Zk9hJ68/894658/57480
 #EXTINF:-1 group-title="General",Teletoon
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57372
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
@@ -239,118 +239,167 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57295
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 FHD" tvg-logo="" group-title="France",FR: FRANCE 2 FHD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160297
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 FHD" tvg-logo="" group-title="France",FR: FRANCE 3 FHD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160298
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4 FHD" tvg-logo="" group-title="France",FR: FRANCE 4 FHD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160299
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 FHD" tvg-logo="" group-title="France",FR: FRANCE 5 FHD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160300
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="France",FR: AB3 HD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160302
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="" group-title="France",FR: MCM
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160303
-#EXTINF:-1 tvg-id="" tvg-name="FR: C8 FHD" tvg-logo="" group-title="France",FR: C8 FHD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160305
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ DECALE FHD" tvg-logo="" group-title="France",FR: CANAL+ DECALE FHD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/160306
+#EXTINF:-1 group-title="France",FR: FRANCE 24
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11779
+#EXTINF:-1 group-title="France",FR: FRANCE 0
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11780
+#EXTINF:-1 group-title="France",FR: France 2 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11781
+#EXTINF:-1 group-title="France",FR: France 3 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11783
+#EXTINF:-1 group-title="France",FR: France 4 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11784
+#EXTINF:-1 group-title="France",FR: FRANCE 5 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11785
+#EXTINF:-1 group-title="France",FR: TF1 4k 
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11786
+#EXTINF:-1 group-title="France",FR: TF1 SERIES FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11787
+#EXTINF:-1 group-title="France",FR: AB1 HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11788
+#EXTINF:-1 group-title="France",FR: M6 MUSIC FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11789
+#EXTINF:-1 group-title="France",FR: ACTION FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11790
+#EXTINF:-1 group-title="France",FR: ANIMAUX FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11791
+#EXTINF:-1 group-title="France",FR: Arte  HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11792
+#EXTINF:-1 group-title="France",FR: BFMTV
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11793
+#EXTINF:-1 group-title="France",FR: BOOMERANG
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11795
+#EXTINF:-1 group-title="France",FR: C8 HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11796
+#EXTINF:-1 group-title="France",FR: MEZZO
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11797
+#EXTINF:-1 group-title="France",FR: MEZZO LIVE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194521
+#EXTINF:-1 group-title="France",FR: CANAL J
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11798
+#EXTINF:-1 group-title="France",FR: Canal+ FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11799
+#EXTINF:-1 group-title="France",FR: Paramount Decale
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11800
+#EXTINF:-1 group-title="France",FR: Canal+ Family
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11801
+#EXTINF:-1 group-title="France",FR: CANAL+ SPORTS
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11802
+#EXTINF:-1 group-title="France",FR: Cartoon Network FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11803
+#EXTINF:-1 group-title="France",FR: CHASSE E PECHE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11804
+#EXTINF:-1 group-title="France",FR: PARIS  PREMIER HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11805
+#EXTINF:-1 group-title="France",FR: CINE Emotion
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11806
+#EXTINF:-1 group-title="France",FR: CINE FRISSON FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11807
+#EXTINF:-1 group-title="France",FR: CINE POLAR FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11808
+#EXTINF:-1 group-title="France",FR: CINE+CLASSIC
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11809
+#EXTINF:-1 group-title="France",FR: DISCOVERY SCIENCE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11810
+#EXTINF:-1 group-title="France",FR: DISNEY CHANNEL
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11811
+#EXTINF:-1 group-title="France",FR: DISNEY JR
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11812
+#EXTINF:-1 group-title="France",FR: TELETOON+
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194514
+#EXTINF:-1 group-title="France",FR: EUROSPORTS HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11814
+#EXTINF:-1 group-title="France",FR: EUROSPORTS 2 HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11815
+#EXTINF:-1 group-title="France",FR: FOOT+ FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11816
+#EXTINF:-1 group-title="France",FR: GULLI
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11817
+#EXTINF:-1 group-title="France",FR: HISTOIRE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11818
+#EXTINF:-1 group-title="France",FR: INFOSPORTS +
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11819
+#EXTINF:-1 group-title="France",FR: L Equippe 21
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11820
+#EXTINF:-1 group-title="France",FR: LCI
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11821
+#EXTINF:-1 group-title="France",FR: MANGAS
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11822
+#EXTINF:-1 group-title="France",FR: NAT GEO
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11823
+#EXTINF:-1 group-title="France",FR: NAT GEO WILD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11824
+#EXTINF:-1 group-title="France",FR: OCS MAX FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11825
+#EXTINF:-1 group-title="France",FR: PIWI FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11826
+#EXTINF:-1 group-title="France",FR: PLANET A&E
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11827
+#EXTINF:-1 group-title="France",FR: PLANET
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11828
+#EXTINF:-1 group-title="France",FR: SERIE CLUB
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11829
+#EXTINF:-1 group-title="France",FR: SYFY FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11830
+#EXTINF:-1 group-title="France",FR: TCM CINEMA
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11831
+#EXTINF:-1 group-title="France",FR: TOUTE L HISTOIRE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11832
+#EXTINF:-1 group-title="France",FR: USHUAIA TV FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11833
+#EXTINF:-1 group-title="France",FR: W9
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11834
+#EXTINF:-1 group-title="France",FR: CANAL + CINEMA
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11835
+#EXTINF:-1 group-title="France",FR: TMC
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/184629
+#EXTINF:-1 group-title="France",FR: TEVA
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194512
+#EXTINF:-1 group-title="France",FR: C NEWS
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194513
+#EXTINF:-1 group-title="France",FR: TFX
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194515
+#EXTINF:-1 group-title="France",FR: 6TER
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194517
+#EXTINF:-1 group-title="France",FR: CHERIE 25
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194520
+#EXTINF:-1 group-title="France",FR: RMC STORY
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194518
+#EXTINF:-1 group-title="France",FR: RMC DECOVERTE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194519
+#EXTINF:-1 group-title="France",FR: RMC SPORTS 1 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11836
+#EXTINF:-1 group-title="France",FR: RMC SPORTS 1 FHD B
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194510
+#EXTINF:-1 group-title="France",FR: RMC SPORTS 2 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11837
+#EXTINF:-1 group-title="France",FR: RMC SPORTS 3 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11838
+#EXTINF:-1 group-title="France",FR: RMC SPORTS 4 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11842
+#EXTINF:-1 group-title="France",FR: RMC SPORTS 5 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194574
+#EXTINF:-1 group-title="France",FR: RMC SPORTS 7 FHD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194575
+#EXTINF:-1 group-title="France",FR: BEIN SPORTS 1 HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11839
+#EXTINF:-1 group-title="France",FR: BEIN SPORTS 2 HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11840
+#EXTINF:-1 group-title="France",FR: BEIN SPORTS 3 HD
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/11841
+#EXTINF:-1 group-title="France",FR: TV5 MONDE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194580
+#EXTINF:-1 group-title="France",FR: 13 EME RUE
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194581
+#EXTINF:-1 group-title="France",FR: OCS GEANTS
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194582
+#EXTINF:-1 group-title="France",FR: OCS CITY
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194583
+#EXTINF:-1 group-title="France",FR: CINE + CLUB
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194584
+#EXTINF:-1 group-title="France",FR: COMEDIE+
+http://xc.tvset.top:80/994974681013/nH5GEkuOxJ/194585
 
-
-#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA: HBO 1 " tvg-logo="" group-title="HBO",CA: HBO 1 
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57437
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA HBO 2 (R)" tvg-logo="" group-title="HBO",CA HBO 2 (R)
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57438
-#EXTINF:-1 group-title="HBO",HBO 1 CA
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/45451
-#EXTINF:-1 group-title="HBO",HBO 2 CA
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/45450
-#EXTINF:-1 group-title="HBO",HBO MAX 2020-2022 CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118677
-#EXTINF:-1 group-title="HBO",HBO MAX ACTION CRIME CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118676
-#EXTINF:-1 group-title="HBO",HBO MAX ACTION THRILLER CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118675
-#EXTINF:-1 group-title="HBO",HBO MAX ADVENTURE CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118674
-#EXTINF:-1 group-title="HBO",HBO MAX ANIMATION ADVENTURE CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118673
-#EXTINF:-1 group-title="HBO",HBO MAX BIOGRAPHY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118672
-#EXTINF:-1 group-title="HBO",HBO MAX CINEMA 1 HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118671
-#EXTINF:-1 group-title="HBO",HBO MAX CINEMA 2 HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118670
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION ADVENTURE CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118669
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118668
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION CRIME CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118667
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ACTION THRILLER CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118666
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ADVENTURE CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118665
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ANIMATED ADVENTURE CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118664
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC BIOGRAPHY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118663
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC CINEMA 1 HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118662
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC CINEMA 2 HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118661
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC COMEDY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118660
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC CRIME CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118659
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC DOCUMENTARY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118658
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC DRAMA CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118657
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC FAMILY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118656
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC FANTASY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118655
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC HISTORY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118654
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC HORROR CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118653
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC MYSTERY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118652
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC ROMANCE CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118651
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC SCIFI CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118650
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC SPORT CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118649
-#EXTINF:-1 group-title="HBO",HBO MAX CLASSIC THRILLER 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118648
-#EXTINF:-1 group-title="HBO",HBO MAX COMEDY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118647
-#EXTINF:-1 group-title="HBO",HBO MAX CRIME CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118646
-#EXTINF:-1 group-title="HBO",HBO MAX DOCUMENTARY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118645
-#EXTINF:-1 group-title="HBO",HBO MAX DRAMA CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118644
-#EXTINF:-1 group-title="HBO",HBO MAX FAMILY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118643
-#EXTINF:-1 group-title="HBO",HBO MAX FANTASY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118642
-#EXTINF:-1 group-title="HBO",HBO MAX HISTORY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118641
-#EXTINF:-1 group-title="HBO",HBO MAX HORROR CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118640
-#EXTINF:-1 group-title="HBO",HBO MAX MYSTERY CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118639
-#EXTINF:-1 group-title="HBO",HBO MAX ROMANCE CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118638
-#EXTINF:-1 group-title="HBO",HBO MAX SCIFI CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118637
-#EXTINF:-1 group-title="HBO",HBO MAX SPORTS CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118636
-#EXTINF:-1 group-title="HBO",HBO MAX THRILLER CINEMA HD 24/7 VIP UK
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/118635
 
 #EXTINF:-1 group-title="Pluto FR",Dossiers FBI
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057883-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a243842a-2a92-4ca0-bdea-73f35b29bf5c
@@ -478,19 +527,3 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 group-title="Pluto US",Vevo Retro Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX1%2FXv3FEeRno7vHIrjxTBYajZjQGhX%2F0EX%2B%2Bs6t5Fu2FJ89Mqpnl1o%2FU" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS
-http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29113.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS1 [720p]" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX1%2F9KxLEColq0KEldQjxdvTPZ113m6xZ8JGP9QAJvJLkMtDHrwO8Exsz" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS1 [720p]
-http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29121.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX19MjdTQALttYawhI9Ym0d3NqBppxqWO9Vo48aw4bpbZ4kUl6zM9c3Er" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS SPORTS
-http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29125.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://assets.javatis.xyz/channel-logo.php?k=U2FsdGVkX1%2BzHhDvSJ3k501IzyyN0jaf8jTZj8SQvrWtF%2FWB31%2FGs65CN0ghR1Ue" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS (LQ)  (R)
-http://freeiptv.ottc.xyz:80/live/469983651159/223892909980/29114.ts
