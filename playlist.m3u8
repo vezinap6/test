@@ -5,8 +5,6 @@ http://fortv.cc:8080/Zk9hJ68/894658/126723
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 group-title="General",ICI Tele Montreal HD
 http://xxip43.top:8080/TeM1zy/615083/57484
-#EXTINF:-1 group-title="General",ICI Tele Quebec HD
-http://xxip43.top:8080/TeM1zy/615083/57493
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",CA (FR) NOOVO (D)
@@ -85,6 +83,472 @@ http://fortv.cc:8080/yhW1wX/013165/47442
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="France"||FR|| TF1
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/64237.ts
+#EXTINF:-1 group-title="France"||FR|| TF1 SERIES & FILMS HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/392.ts
+#EXTINF:-1 group-title="France"||FR|| FRANCE 2 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/9.ts
+#EXTINF:-1 group-title="France"||FR|| FRANCE 3 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/10.ts
+#EXTINF:-1 group-title="France"||FR|| FRANCE 4 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/11.ts
+#EXTINF:-1 group-title="France"||FR|| FRANCE 5 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/13.ts
+#EXTINF:-1 group-title="France"||FR|| FRANCE O HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/14.ts
+#EXTINF:-1 group-title="France"||FR|| M6 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/15.ts
+#EXTINF:-1 group-title="France"||FR|| W9 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/55.ts
+#EXTINF:-1 group-title="France"||FR|| TMC HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/56.ts
+#EXTINF:-1 group-title="France"||FR|| TFX FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/414.ts
+#EXTINF:-1 group-title="France"||FR|| L'équipe TV HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/89846.ts
+#EXTINF:-1 group-title="France"||FR|| RTS UN HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/4837.ts
+#EXTINF:-1 group-title="France"||FR|| RTS DEUX HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/4838.ts
+#EXTINF:-1 group-title="France"||FR|| RMC STORY HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/61.ts
+#EXTINF:-1 group-title="France"||FR|| RT FRANCE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/4839.ts
+#EXTINF:-1 group-title="France"||FR|| ROUGE TV HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/7034.ts
+#EXTINF:-1 group-title="France"||FR|| ARTE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/16.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ CINEMA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/18.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ SERIES HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/20.ts
+#EXTINF:-1 group-title="France"||FR|| CINE+ PREMIER HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/23.ts
+#EXTINF:-1 group-title="France"||FR|| CINE+ FRISSON HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/24.ts
+#EXTINF:-1 group-title="France"||FR|| CINE+ EMOTION HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/25.ts
+#EXTINF:-1 group-title="France"||FR|| CINE+ CLASSIC HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/27.ts
+#EXTINF:-1 group-title="France"||FR|| CINE+ CLUB HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1996.ts
+#EXTINF:-1 group-title="France"||FR|| OCS GEANTS HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/31.ts
+#EXTINF:-1 group-title="France"||FR|| OCS CITY HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/29.ts
+#EXTINF:-1 group-title="France"||FR|| OCS CHOC HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/30.ts
+#EXTINF:-1 group-title="France"||FR|| OCS MAX HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/28.ts
+#EXTINF:-1 group-title="France"||FR|| ACTION HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/36.ts
+#EXTINF:-1 group-title="France"||FR|| PARAMOUNT DECALE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/156.ts
+#EXTINF:-1 group-title="France"||FR|| TCM CINEMA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/34.ts
+#EXTINF:-1 group-title="France"||FR|| PARAMOUNT CHANNEL HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/35.ts
+#EXTINF:-1 group-title="France"||FR|| TEVA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/51.ts
+#EXTINF:-1 group-title="France"||FR|| POLAR+ HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/37.ts
+#EXTINF:-1 group-title="France"||FR|| WARNER HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/155.ts
+#EXTINF:-1 group-title="France"||FR|| AB1 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/48.ts
+#EXTINF:-1 group-title="France"||FR|| AB3 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/49.ts
+#EXTINF:-1 group-title="France"||FR|| AB3 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/410.ts
+#EXTINF:-1 group-title="France"||FR|| 6TER HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/60.ts
+#EXTINF:-1 group-title="France"||FR|| 6TER FHD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/11027.ts
+#EXTINF:-1 group-title="France"||FR|| 6TER FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/415.ts
+#EXTINF:-1 group-title="France"||FR|| C8 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/54.ts
+#EXTINF:-1 group-title="France"||FR|| C8 FHD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/11014.ts
+#EXTINF:-1 group-title="France"||FR|| C8 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/412.ts
+#EXTINF:-1 group-title="France"||FR|| RTL 9 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/53.ts
+#EXTINF:-1 group-title="France"||FR|| RTL9 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2002.ts
+#EXTINF:-1 group-title="France"||FR|| CSTAR FHD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/11023.ts
+#EXTINF:-1 group-title="France"||FR|| CSTAR FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/413.ts
+#EXTINF:-1 group-title="France"||FR|| C STAR HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/59.ts
+#EXTINF:-1 group-title="France"||FR|| CSTAR HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/491.ts
+#EXTINF:-1 group-title="France"||FR|| 13EME RUE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/40.ts
+#EXTINF:-1 group-title="France"||FR|| 13EME RUE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/421.ts
+#EXTINF:-1 group-title="France"||FR|| SYFY HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/41.ts
+#EXTINF:-1 group-title="France"||FR|| SYFY FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/422.ts
+#EXTINF:-1 group-title="France"||FR|| NOVELAS FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1989.ts
+#EXTINF:-1 group-title="France"||FR|| NOVELAS HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1990.ts
+#EXTINF:-1 group-title="France"||FR|| MCM HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/147.ts
+#EXTINF:-1 group-title="France" ||FR|| MCM  FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2000.ts
+#EXTINF:-1 group-title="France"||FR|| FASHION TV HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/84.ts
+#EXTINF:-1 group-title="France" ||FR|| FASHION FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2003.ts
+#EXTINF:-1 group-title="France"||FR|| BET HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/158.ts
+#EXTINF:-1 group-title="France"||FR|| E! ENTERTAINMENT HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/44.ts
+#EXTINF:-1 group-title="France" ||FR|| E! ENTERTAINMENT FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1999.ts
+#EXTINF:-1 group-title="France"||FR|| TV BREIZH HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/50.ts
+#EXTINF:-1 group-title="France" ||FR|| TV BREIZH  FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2001.ts
+#EXTINF:-1 group-title="France"||FR|| SERIE CLUB HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/42.ts
+#EXTINF:-1 group-title="France"||FR|| SERIE CLUB FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/423.ts
+#EXTINF:-1 group-title="France"||FR|| GAME ONE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/45.ts
+#EXTINF:-1 group-title="France"||FR|| J-ONE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/46.ts
+#EXTINF:-1 group-title="France"||FR|| PARIS PREMIERE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/52.ts
+#EXTINF:-1 group-title="France"||FR|| PARIS PREMIERE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2666.ts
+#EXTINF:-1 group-title="France"||FR|| CHERIE 25 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/62.ts
+#EXTINF:-1 group-title="France"||FR|| CHERIE 25 FHD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/11030.ts
+#EXTINF:-1 group-title="France"||FR|| CHERIE 25 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/417.ts
+#EXTINF:-1 group-title="France"||FR|| NOLLYWOOD HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2760.ts
+#EXTINF:-1 group-title="France"||FR|| NOLLYWOOD FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2762.ts
+#EXTINF:-1 group-title="France"||FR|| COMEDIE+ FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2763.ts
+#EXTINF:-1 group-title="France"||FR|| COMEDIE+ HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2764.ts
+#EXTINF:-1 group-title="France"||FR|| COMEDIE+ HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/39.ts
+#EXTINF:-1 group-title="France"||FR|| MTV FRANCE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2761.ts
+#EXTINF:-1 group-title="France"||FR|| COMEDY CENTRAL HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/5385.ts
+#EXTINF:-1 group-title="France"||FR|| GONG MAX HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/481.ts
+#EXTINF:-1 group-title="France"||FR|| POLAR+ FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/492.ts
+#EXTINF:-1 group-title="France"||FR|| NRJ HITS HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/438.ts
+#EXTINF:-1 group-title="France"||FR|| NRJ 12 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/58.ts
+#EXTINF:-1 group-title="France"||FR|| NRJ 12 FHD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/11018.ts
+#EXTINF:-1 group-title="France"||FR|| NRJ 12 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/416.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE URBAN HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/128.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE TROPICAL HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/439.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE AFRICA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/440.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE TOCA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/441.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE GOSPEL HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2668.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE NAIJA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/442.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE KITOKO HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/443.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE MZIKI HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/444.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE AYITI HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/445.ts
+#EXTINF:-1 group-title="France"||FR|| TRACE LATINA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/446.ts
+#EXTINF:-1 group-title="France"||FR|| MCM TOP HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/449.ts
+#EXTINF:-1 group-title="France"||FR|| MTV BASE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/4799.ts
+#EXTINF:-1 group-title="France"||FR|| MTV MUSIC
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2276.ts
+#EXTINF:-1 group-title="France"||FR|| MTV HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/43.ts
+#EXTINF:-1 group-title="France" ||FR|| MTV HITS HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1966.ts
+#EXTINF:-1 group-title="France"||FR|| MTV DANCE
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1967.ts
+#EXTINF:-1 group-title="France"||FR|| RFM TV HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/452.ts
+#EXTINF:-1 group-title="France"||FR|| BRAVA HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/455.ts
+#EXTINF:-1 group-title="France"||FR|| M6 MUSIC
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/148.ts
+#EXTINF:-1 group-title="France"||FR|| MEZZO LIVE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/495.ts
+#EXTINF:-1 group-title="France"||FR|| MEZZO LIVE  FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1962.ts
+#EXTINF:-1 group-title="France"||FR|| VH1 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1963.ts
+#EXTINF:-1 group-title="France" ||FR|| VH1 CLASSIC HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1964.ts
+#EXTINF:-1 group-title="France"||FR|| DJAZZ HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2765.ts
+#EXTINF:-1 group-title="France"||FR|| CHASSE ET PECHE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/82.ts
+#EXTINF:-1 group-title="France"||FR|| CHASSE ET PECHE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2012.ts
+#EXTINF:-1 group-title="France"||FR|| ANIMAUX HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/79.ts
+#EXTINF:-1 group-title="France"||FR|| ANIMAUX FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2011.ts
+#EXTINF:-1 group-title="France"||FR|| USHUAIA TV HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/75.ts
+#EXTINF:-1 group-title="France"||FR|| USHUAIA TV FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/436.ts
+#EXTINF:-1 group-title="France" ||FR|| LA CHAINE METEO HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2005.ts
+#EXTINF:-1 group-title="France"||FR|| SEASONS FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2013.ts
+#EXTINF:-1 group-title="France"||FR|| SEASONS HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/81.ts
+#EXTINF:-1 group-title="France"||FR|| TOUTE L'HISTOIRE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/77.ts
+#EXTINF:-1 group-title="France"||FR|| TOUTE L'HISTOIRE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2014.ts
+#EXTINF:-1 group-title="France"||FR|| TREK FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/435.ts
+#EXTINF:-1 group-title="France"||FR|| TREK HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/80.ts
+#EXTINF:-1 group-title="France"||FR|| RMC DECOUVERTE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/431.ts
+#EXTINF:-1 group-title="France"||FR|| RMC DECOUVERTE FHD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/11029.ts
+#EXTINF:-1 group-title="France"||FR|| RMC DECOUVERTE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/83.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE+ HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/64.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE+ FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2015.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/426.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE+ A&E HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/66.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE+ CI HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/65.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE+ CI FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/427.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE A&E HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/935.ts
+#EXTINF:-1 group-title="France"||FR|| PLANETE A&E FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/428.ts
+#EXTINF:-1 group-title="France"||FR|| NATIONAL GEOGRAPHIE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/67.ts
+#EXTINF:-1 group-title="France"||FR|| NATIONAL GEOGRAPHIE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/432.ts
+#EXTINF:-1 group-title="France"||FR|| NATIONAL GEOGRAPHIE WILD HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/68.ts
+#EXTINF:-1 group-title="France"||FR|| NATIONAL GEOGRAPHIE WILD FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/433.ts
+#EXTINF:-1 group-title="France"||FR|| LA CHAINE METEO FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2004.ts
+#EXTINF:-1 group-title="France"||FR|| VOYAGE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/74.ts
+#EXTINF:-1 group-title="France"||FR|| VOYAGE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/437.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY CHANNEL HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/69.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/429.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/494.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY HD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/66758.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY SCIENCE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/70.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY SCIENCE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/430.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY FAMILY HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/71.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY FAMILY FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2758.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY INVESTIGATION HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/72.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY INVESTIGATION FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2010.ts
+#EXTINF:-1 group-title="France"||FR|| DISCOVERY INVESTIGATION FHD+
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/74031.ts
+#EXTINF:-1 group-title="France"||FR|| SUNDANCE TV HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2281.ts
+#EXTINF:-1 group-title="France"||FR|| VICELAND  FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2006.ts
+#EXTINF:-1 group-title="France"||FR|| VICELAND  HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2007.ts
+#EXTINF:-1 group-title="France"||FR|| CRIME DISTRICT HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/38.ts
+#EXTINF:-1 group-title="France"||FR|| CRIME DISTRICT FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/2009.ts
+#EXTINF:-1 group-title="France"||FR|| SCIENCES ET VIE FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/434.ts
+#EXTINF:-1 group-title="France"||FR|| SCIENCE ET VIE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/78.ts
+#EXTINF:-1 group-title="France"||FR|| HISTOIRE HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/76.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 1 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101533.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 1 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95447.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 2 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101534.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 2 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95448.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 3 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101535.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 3 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95449.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 4 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101536.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 4 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95450.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 5 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101537.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 5 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95451.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 6 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101538.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 6 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95452.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 7 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101539.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 7 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95453.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 8 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101540.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 8 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95454.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 9 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101541.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 9 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95455.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 10 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101542.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL+ LIVE 10 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95456.ts
+#EXTINF:-1 group-title="France"||FR|| Canal+ Docs FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101600.ts
+#EXTINF:-1 group-title="France"||FR|| Canal+ Docs HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/101599.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 1 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1882.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 2 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1883.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 3 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1884.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 4 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1885.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 5 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1886.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 6 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1887.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 7 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1888.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 8 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1889.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 9 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1890.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 10 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1891.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 11 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1892.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 12 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1893.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 13 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1894.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 14 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1895.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 15 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1896.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 16 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1897.ts
+#EXTINF:-1 group-title="France"||FR|| CANAL PLAY 18 FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1899.ts
+#EXTINF:-1 group-title="France"||FR|| OCS  GO  CINE 1 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1682.ts
+#EXTINF:-1 group-title="France"||FR|| OCS  GO  CINE 2
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1683.ts
+#EXTINF:-1 group-title="France"||FR|| OCS  GO  CINE 3
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1684.ts
+#EXTINF:-1 group-title="France"||FR|| OCS  GO  CINE 4
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1685.ts
+#EXTINF:-1 group-title="France"||FR|| ORANGE CINE 1
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1687.ts
+#EXTINF:-1 group-title="France"||FR|| ORANGE CINE 2
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1688.ts
+#EXTINF:-1 group-title="France"||FR|| ORANGE CINE 3
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1689.ts
+#EXTINF:-1 group-title="France"||FR|| ORANGE CINE 4
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1690.ts
+#EXTINF:-1 group-title="France"||FR|| ORANGE CINE 5
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/1691.ts
+#EXTINF:-1 group-title="France"||FR|| NETFLIX HORROR HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/7030.ts
+#EXTINF:-1 group-title="France"||FR|| NETFLIX FILM 1 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/7045.ts
+#EXTINF:-1 group-title="France"||FR|| NETFLIX FILM 8 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/7052.ts
+#EXTINF:-1 group-title="France"||FR|| AMAZON PRIME MULTIPLEX FHD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/89844.ts
+#EXTINF:-1 group-title="France"||FR|| AMAZON PRIME DIMANCHE SOIR HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/89845.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 1 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95437.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 5 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95441.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 6 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95442.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 7 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95443.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 9 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95445.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 10 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95446.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 2 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95438.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 3 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95439.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 4 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95440.ts
+#EXTINF:-1 group-title="France"||FR|| Canalplay 8 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/95444.ts
+#EXTINF:-1 group-title="France"||FR|| HBOX MAX 1 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/98506.ts
+#EXTINF:-1 group-title="France"||FR|| HBO MAX 2 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/98507.ts
+#EXTINF:-1 group-title="France"||FR|| HBO MAX 3 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/98508.ts
+#EXTINF:-1 group-title="France"||FR|| HBOX MAX 4 HD
+http://goldiptvofficiel.tv:25461/live/cyroo42/GaBWXNZXjdj/98509.ts
+
 
 
 
