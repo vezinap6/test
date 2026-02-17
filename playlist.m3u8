@@ -80,7 +80,20 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
 
-
+#EXTINF:-1 group-title="France",FRANCE 2 FHD
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/160297
+#EXTINF:-1 group-title="France",FRANCE 3 FHD
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/160298
+#EXTINF:-1 group-title="France",FRANCE 4 FHD
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/160299
+#EXTINF:-1 group-title="France",FRANCE 5 FHD
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/160300
+#EXTINF:-1 group-title="France",AB3 HD
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/160302
+#EXTINF:-1 group-title="France",MCM
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/160303
+#EXTINF:-1 group-title="France",C8 FHD
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/160305
 
 
 
