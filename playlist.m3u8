@@ -31,8 +31,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 group-title="General",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1,CA (FR) Evasion SD (P)
-http://xxip43.top:8080/TeM1zy/615083/57493
 #EXTINF:-1 group-title="General",Addik TV (FR) CA
 http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44279
 #EXTINF:-1 group-title="General",Frissons TV HD (FR) CA
@@ -45,8 +43,6 @@ http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44234
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/116948
 #EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="General",CA (FR) TV5 
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57288
-#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="General",CA (FR) Zeste HD  (B)
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57502
 #EXTINF:-1 tvg-id="canald.ca" tvg-name="CA (FR) Canal D SD (P)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="General",CA (FR) Canal D SD (P)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
 #EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="General",CA (FR) Historia HD 
@@ -61,8 +57,6 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
 http://xxip43.top:8080/derek@otto/derek@2023/57480
 #EXTINF:-1 group-title="General",Cine Pop backup
 http://fortv.cc:8080/Zk9hJ68/894658/57480
-#EXTINF:-1 group-title="General",Teletoon
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57372
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",TVA Sports 2
