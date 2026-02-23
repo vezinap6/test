@@ -47,6 +47,14 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57288
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
 #EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="General",CA (FR) Historia HD 
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
+#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",CA Evasion (FR)
+http://supersonictv.live:8080/Pat123/Pat123/21915
+#EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",CA Teletoon (FR)
+http://supersonictv.live:8080/Pat123/Pat123/22002
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="General",CA (FR) Zeste HD  (B)
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/57502
+#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",CA (FR) Investigation HD (B)
+https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",CA-FR | MOI ET CIE
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
 #EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA (FR) Prise  (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png" group-title="General",CA (FR) Prise  (P)
@@ -79,6 +87,20 @@ http://fortv.cc:8080/yhW1wX/013165/47442
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",CA Evasion (FR)
+http://supersonictv.live:8080/Pat123/Pat123/21915
+#EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",CA Teletoon (FR)
+http://supersonictv.live:8080/Pat123/Pat123/22002
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="General",CA (FR) Zeste HD  (B)
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/57502
+#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",CA (FR) Investigation HD (B)
+https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
 
 #EXTINF:-1 group-title="France",FRANCE 2 FHD
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/160297
