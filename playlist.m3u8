@@ -91,11 +91,12 @@ http://fortv.cc:8080/yhW1wX/013165/47442
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
-#EXTINF:-1 tvg-id="" tvg-name="CA-FR: CTV Montreal (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/ctv.png" group-title="General",CA-FR: CTV Montreal (FR)(TV)
+#EXTINF:-1 tvg-id="" tvg-name="CA-FR: CTV Montreal (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/ctv.png" group-title="General",CTV Montreal
 http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166427
-#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="CANADA EN",CA CBC Montreal HD (D) 
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",CBC Montreal HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
-
+#EXTINF:-1 group-title="General",Global Montreal HD
+http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
 
 
 
