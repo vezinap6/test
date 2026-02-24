@@ -25,6 +25,8 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66365
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66366
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1708008.gif" group-title="General", TV5
 http://cord-cutter.net:8080/k4Svp2/645504/57288?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TV 5 Quebec (M)(720)" tvg-logo="" group-title="General",CAN-TV 5 Quebec (M)(720)
+http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/45869
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
@@ -49,10 +51,12 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
 #EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",CA Evasion (FR)
 http://supersonictv.live:8080/Pat123/Pat123/21915
+#EXTINF:-1 tvg-id="" tvg-name="CA-FR: Zeste (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/zeste.png" group-title="General",CA-FR: Zeste (FR)(TV)
+http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166445
+#EXTINF:-1 tvg-id="" tvg-name="CA: Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Zeste_HD.png" group-title="General",CA: Zeste
+http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166421
 #EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",CA Teletoon (FR)
 http://supersonictv.live:8080/Pat123/Pat123/22002
-#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="General",CA (FR) Zeste HD  (B)
-http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/57502
 #EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",CA (FR) Investigation HD (B)
 https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",CA-FR | MOI ET CIE
@@ -87,20 +91,20 @@ http://fortv.cc:8080/yhW1wX/013165/47442
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
+#EXTINF:-1 tvg-id="" tvg-name="CA-FR: CTV Montreal (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/ctv.png" group-title="General",CA-FR: CTV Montreal (FR)(TV)
+http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166427
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="CANADA EN",CA CBC Montreal HD (D) 
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",CA Evasion (FR)
-http://supersonictv.live:8080/Pat123/Pat123/21915
-#EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",CA Teletoon (FR)
-http://supersonictv.live:8080/Pat123/Pat123/22002
-#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA (FR) Zeste HD  (B)" tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="General",CA (FR) Zeste HD  (B)
-http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/57502
-#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",CA (FR) Investigation HD (B)
-https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
+
+
+
+
 
 #EXTINF:-1 group-title="France",FRANCE 2 FHD
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/160297
@@ -197,7 +201,6 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57444
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47324
 #EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA: MAKEFUL" tvg-logo="" group-title="CANADA EN",CA: MAKEFUL
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57270
-
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="CA MSNBC (R)" tvg-logo="" group-title="CANADA EN",CA MSNBC (R)
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47332
 #EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA: MTV" tvg-logo="" group-title="CANADA EN",CA: MTV
