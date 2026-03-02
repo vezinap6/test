@@ -11,6 +11,8 @@ http://xxip43.top:8080/TeM1zy/615083/57493
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",CA (FR) NOOVO (D)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
+#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General ENTRTENMENT",CA| (FR) TELE QUEBEC HD
+http://vpns365.xyz:80/0451933520/0364224542/31413
 #EXTINF:-1 group-title="General", Canal Vie
 http://tv14s.xyz:8080/A1Jay5/362586/116947
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie backup
@@ -23,6 +25,14 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66364
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66365
 #EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CA (FR) Super Ecran 4 SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png" group-title="General",CA (FR) Super Ecran 4 SD (P)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66366
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ HD" tvg-logo="https://lo1.in/ca/ztl.png" group-title="General",CA| (FR) ZTÉLÉ HD
+http://vpns365.xyz:80/0451933520/0364224542/50687
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV HD" tvg-logo="https://lo1.in/ca/iciartv.png" group-title="General",CA| (FR) ICI ARTV HD
+http://vpns365.xyz:80/0451933520/0364224542/31386
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA HD" tvg-logo="https://lo1.in/ca/EXPLORA.png" group-title="General",CA| (FR) ICI EXPLORA HD
+http://vpns365.xyz:80/0451933520/0364224542/29305
+#EXTINF:-1 tvg-id="max.ca" tvg-name="CA| (FR) MAX HD " tvg-logo="https://lo1.in/ca/max.png" group-title="General ENTRTENMENT",CA| (FR) MAX HD 
+http://vpns365.xyz:80/0451933520/0364224542/31369
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1708008.gif" group-title="General", TV5
 http://cord-cutter.net:8080/k4Svp2/645504/57288?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="" tvg-name="CAN-TV 5 Quebec (M)(720)" tvg-logo="" group-title="General",CAN-TV 5 Quebec (M)(720)
@@ -56,7 +66,7 @@ http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166445
 #EXTINF:-1 tvg-id="" tvg-name="CA: Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Zeste_HD.png" group-title="General",CA: Zeste
 http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166421
 #EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",CA Teletoon (FR)
-http://supersonictv.live:8080/Pat123/Pat123/22002
+http://vpns365.xyz:80/0451933520/0364224542/31414
 #EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",CA (FR) Investigation HD (B)
 https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",CA-FR | MOI ET CIE
@@ -99,6 +109,37 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 1 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 1 HD
+http://vpns365.xyz:80/0451933520/0364224542/95147
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 2 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 2 HD
+http://vpns365.xyz:80/0451933520/0364224542/95148
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 3 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 3 HD
+http://vpns365.xyz:80/0451933520/0364224542/95149
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 4 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 4 HD
+http://vpns365.xyz:80/0451933520/0364224542/95150
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 5 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 5 HD
+http://vpns365.xyz:80/0451933520/0364224542/95151
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 6 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 6 HD
+http://vpns365.xyz:80/0451933520/0364224542/95152
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 7 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 7 HD
+http://vpns365.xyz:80/0451933520/0364224542/95153
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 8 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 8 HD
+http://vpns365.xyz:80/0451933520/0364224542/95154
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 9 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 9 HD
+http://vpns365.xyz:80/0451933520/0364224542/95155
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 10 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 10 HD
+http://vpns365.xyz:80/0451933520/0364224542/95156
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 11 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 11 HD
+http://vpns365.xyz:80/0451933520/0364224542/95157
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 12 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 12 HD
+http://vpns365.xyz:80/0451933520/0364224542/95143
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 13 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 13 HD
+http://vpns365.xyz:80/0451933520/0364224542/95144
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 14 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 14 HD
+http://vpns365.xyz:80/0451933520/0364224542/95145
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 15 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="Film FR CINEMA",CA| (FR) A LA CARTE 15 HD
+http://vpns365.xyz:80/0451933520/0364224542/95146
 
 
 
