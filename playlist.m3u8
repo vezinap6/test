@@ -11,8 +11,10 @@ http://xxip43.top:8080/TeM1zy/615083/57493
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",CA (FR) NOOVO (D)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
-#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General ENTRTENMENT",CA| (FR) TELE QUEBEC HD
+#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC
 http://vpns365.xyz:80/0451933520/0364224542/31413
+#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/599406.ts
 #EXTINF:-1 group-title="General", Canal Vie
 http://tv14s.xyz:8080/A1Jay5/362586/116947
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie backup
@@ -27,11 +29,14 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66365
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/66366
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ HD" tvg-logo="https://lo1.in/ca/ztl.png" group-title="General",CA| (FR) ZTÉLÉ HD
 http://vpns365.xyz:80/0451933520/0364224542/50687
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Z Tele" tvg-logo="" group-title="General",CA (F) Z Tele 2
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597723.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV HD" tvg-logo="https://lo1.in/ca/iciartv.png" group-title="General",CA| (FR) ICI ARTV HD
 http://vpns365.xyz:80/0451933520/0364224542/31386
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA HD" tvg-logo="https://lo1.in/ca/EXPLORA.png" group-title="General",CA| (FR) ICI EXPLORA HD
 http://vpns365.xyz:80/0451933520/0364224542/29305
-#EXTINF:-1 tvg-id="max.ca" tvg-name="CA| (FR) MAX HD " tvg-logo="https://lo1.in/ca/max.png" group-title="General ENTRTENMENT",CA| (FR) MAX HD 
+#EXTINF:-1 tvg-id="max.ca" tvg-name="CA| (FR) MAX HD " tvg-logo="https://lo1.in/ca/max.png" group-title="General",CA| (FR) MAX HD 
 http://vpns365.xyz:80/0451933520/0364224542/31369
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1708008.gif" group-title="General", TV5
 http://cord-cutter.net:8080/k4Svp2/645504/57288?checkedby:alliptvlinks.com
@@ -59,12 +64,16 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57288
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
 #EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="General",CA (FR) Historia HD 
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
-#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",CA Evasion (FR)
+#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",CA Evasion
 http://supersonictv.live:8080/Pat123/Pat123/21915
-#EXTINF:-1 tvg-id="" tvg-name="CA-FR: Zeste (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/zeste.png" group-title="General",CA-FR: Zeste (FR)(TV)
+#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",CA Evasion 2
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597722.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA-FR: Zeste (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/zeste.png" group-title="General",CA-FR: Zeste
 http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166445
-#EXTINF:-1 tvg-id="" tvg-name="CA: Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Zeste_HD.png" group-title="General",CA: Zeste
+#EXTINF:-1 tvg-id="" tvg-name="CA: Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Zeste_HD.png" group-title="General",CA: Zeste 2
 http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166421
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Zeste" tvg-logo="" group-title="General",CA Zeste 3
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597724.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",CA Teletoon (FR)
 http://vpns365.xyz:80/0451933520/0364224542/31414
 #EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",CA (FR) Investigation HD (B)
