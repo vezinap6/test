@@ -1,263 +1,63 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="tva.ca" tvg-name="CA| (FR) TVA MONTREAL HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA MONTREAL HD
-http://vpns365.xyz:80/0451933520/0364224542/31344
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA MONTREAL HD [back-up]" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA MONTREAL HD [back-up]
-http://vpns365.xyz:80/0451933520/0364224542/194352
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA HULL HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA HULL HD
-http://vpns365.xyz:80/0451933520/0364224542/31343
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA QUEBEC CITY HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA QUEBEC CITY HD
-http://vpns365.xyz:80/0451933520/0364224542/31359
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA RIMOUSKI HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA RIMOUSKI HD
-http://vpns365.xyz:80/0451933520/0364224542/975449
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA TROIS REVIERES HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA TROIS REVIERES HD
-http://vpns365.xyz:80/0451933520/0364224542/975448
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SAGUENAY HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA SAGUENAY HD
-http://vpns365.xyz:80/0451933520/0364224542/975447
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA SHERBROOKE HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA SHERBROOKE HD
-http://vpns365.xyz:80/0451933520/0364224542/975446
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA ABITIBI-TÉMISCAMINGUE" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA ABITIBI-TÉMISCAMINGUE
-http://vpns365.xyz:80/0451933520/0364224542/1264910
-#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA| (FR) TV5 HD" tvg-logo="https://lo1.in/ca/tv500.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 HD
-http://vpns365.xyz:80/0451933520/0364224542/31347
-#EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA| (FR) METEO MEDIA MONTREAL HD" tvg-logo="https://lo1.in/ca/metomed.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) METEO MEDIA MONTREAL HD
-http://vpns365.xyz:80/0451933520/0364224542/31339
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) FRANCE 24 HD" tvg-logo="https://lo1.in/ca/fr24.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) FRANCE 24 HD
-http://vpns365.xyz:80/0451933520/0364224542/31337
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV HD" tvg-logo="https://lo1.in/ca/iciartv.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI ARTV HD
-http://vpns365.xyz:80/0451933520/0364224542/31386
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ACADIE HD " tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ACADIE HD 
-http://vpns365.xyz:80/0451933520/0364224542/31362
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ALBERTA HD " tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ALBERTA HD 
-http://vpns365.xyz:80/0451933520/0364224542/31363
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE CB-YUKON HD " tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE CB-YUKON HD 
-http://vpns365.xyz:80/0451933520/0364224542/31410
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE EST-QUEBEC HD " tvg-logo="https://lo1.in/ca/tele.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE EST-QUEBEC HD 
-http://vpns365.xyz:80/0451933520/0364224542/31327
-#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA| (FR) ICI TELE MONTREAL HD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MONTREAL HD
-http://vpns365.xyz:80/0451933520/0364224542/139812
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE QUEBEC HD
-http://vpns365.xyz:80/0451933520/0364224542/139811
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ONTARIO HD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ONTARIO HD
-http://vpns365.xyz:80/0451933520/0364224542/139815
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE MONCTON FHD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MONCTON FHD
-http://vpns365.xyz:80/0451933520/0364224542/139814
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE VANCOUVER HD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE VANCOUVER HD
-http://vpns365.xyz:80/0451933520/0364224542/139813
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE MANITOBA HD " tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MANITOBA HD 
-http://vpns365.xyz:80/0451933520/0364224542/31328
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE MAURICIE HD " tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MAURICIE HD 
-http://vpns365.xyz:80/0451933520/0364224542/31329
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE OTTAWA-GATINEAU HD " tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE OTTAWA-GATINEAU HD 
-http://vpns365.xyz:80/0451933520/0364224542/31330
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE SAGUENAY HD " tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE SAGUENAY HD 
-http://vpns365.xyz:80/0451933520/0364224542/31331
-#EXTINF:-1 tvg-id="iciradiocanadatoronto.ca" tvg-name="CA| (FR) ICI RADIO-CANADA TELE TORONTO HD" tvg-logo="https://lo1.in/ca/icirdcatoro.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO-CANADA TELE TORONTO HD
-http://vpns365.xyz:80/0451933520/0364224542/31360
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE SASKATCHEWAN HD" tvg-logo="https://lo1.in/ca/icitlsakachwn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE SASKATCHEWAN HD
-http://vpns365.xyz:80/0451933520/0364224542/31332
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO-CANADA TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/) ICI RADIO-CANADA TELE QUEBEC HD.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO-CANADA TELE QUEBEC HD
-http://vpns365.xyz:80/0451933520/0364224542/29307
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO-CANADA TELE OTTAWA HD" tvg-logo="https://lo1.in/ca/) ICI RADIO-CANADA TELE QUEBEC HD.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO-CANADA TELE OTTAWA HD
-http://vpns365.xyz:80/0451933520/0364224542/29308
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO CANADA TELE VANCOUVER HD" tvg-logo="https://lo1.in/ca/) ICI RADIO-CANADA TELE QUEBEC HD.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO CANADA TELE VANCOUVER HD
-http://vpns365.xyz:80/0451933520/0364224542/29309
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA HD" tvg-logo="https://lo1.in/ca/EXPLORA.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI EXPLORA HD
-http://vpns365.xyz:80/0451933520/0364224542/29305
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ESTRIE" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ESTRIE
-http://vpns365.xyz:80/0451933520/0364224542/29306
-#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA| (FR) WEATHER NETWORK MONTREAL HD" tvg-logo="https://lo1.in/ca/weathnwm.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) WEATHER NETWORK MONTREAL HD
-http://vpns365.xyz:80/0451933520/0364224542/31340
-#EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA| (FR) METEO MEDIA HD" tvg-logo="https://lo1.in/ca/metomed.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) METEO MEDIA HD
-http://vpns365.xyz:80/0451933520/0364224542/31342
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) AFRICA TV HD" tvg-logo="https://lo1.in/ca/afri.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) AFRICA TV HD
-http://vpns365.xyz:80/0451933520/0364224542/31348
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE STYLE" tvg-logo="https://lo1.in/ca/TV5 MONDE.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE STYLE
-http://vpns365.xyz:80/0451933520/0364224542/29302
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE INFO" tvg-logo="https://lo1.in/ca/TV5 MONDE INFO.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE INFO
-http://vpns365.xyz:80/0451933520/0364224542/29303
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE" tvg-logo="https://lo1.in/ca/tv500.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE
-http://vpns365.xyz:80/0451933520/0364224542/29304
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TÉMOIN HD" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) TÉMOIN HD
-http://vpns365.xyz:80/0451933520/0364224542/1067274
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦DES SPORTS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS SPORT",✦●✦DES SPORTS✦●✦ 
-http://vpns365.xyz:80/0451933520/0364224542/31356
-#EXTINF:-1 tvg-id="lecanalnouvelles.ca" tvg-name="CA| (FR) LCN HD" tvg-logo="https://lo1.in/ca/lcn10.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) LCN HD
-http://vpns365.xyz:80/0451933520/0364224542/31338
-#EXTINF:-1 tvg-id="lecanalnouvelles.ca" tvg-name="CA| (FR) LCN HD [back-up]" tvg-logo="https://lo1.in/ca/lcn10.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) LCN HD [back-up]
-http://vpns365.xyz:80/0451933520/0364224542/194351
-#EXTINF:-1 tvg-id="lecanalnouvelles.ca" tvg-name="CA| (FR) LCN SD" tvg-logo="https://lo1.in/ca/lcn10.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) LCN SD
-http://vpns365.xyz:80/0451933520/0364224542/96734
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA| (FR) TVA SPORTS HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) TVA SPORTS HD
-http://vpns365.xyz:80/0451933520/0364224542/31355
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA| (FR) TVA SPORTS 2 HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) TVA SPORTS 2 HD
-http://vpns365.xyz:80/0451933520/0364224542/31354
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA| (FR) RDS" tvg-logo="https://lo1.in/ca/rds0.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS
-http://vpns365.xyz:80/0451933520/0364224542/29297
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA| (FR) RDS1 HD" tvg-logo="https://lo1.in/ca/rds.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS1 HD
-http://vpns365.xyz:80/0451933520/0364224542/31353
-#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA| (FR) RDS2 HD " tvg-logo="https://lo1.in/ca/rds2.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS2 HD 
-http://vpns365.xyz:80/0451933520/0364224542/31352
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://lo1.in/ca/rds.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS SPORTS
-http://vpns365.xyz:80/0451933520/0364224542/50689
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://lo1.in/ca/rds.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS (LQ)  (R)
-http://vpns365.xyz:80/0451933520/0364224542/29298
-#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="CA| (FR) RDS INFO " tvg-logo="https://lo1.in/ca/rds0.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) RDS INFO 
-http://vpns365.xyz:80/0451933520/0364224542/31351
-#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CA| (FR) ICI RDI HD" tvg-logo="https://lo1.in/ca/icirdi.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) ICI RDI HD
-http://vpns365.xyz:80/0451933520/0364224542/31345
-#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA| (FR) ICI TELE HD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) ICI TELE HD
-http://vpns365.xyz:80/0451933520/0364224542/31346
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE 2 HD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS SPORT",CA| (FR) ICI TELE 2 HD
-http://vpns365.xyz:80/0451933520/0364224542/31341
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦DIVERTISSEMENT✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",✦●✦DIVERTISSEMENT✦●✦ 
-http://vpns365.xyz:80/0451933520/0364224542/31370
-#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA| (FR) CASA HD" tvg-logo="https://lo1.in/ca/(FR) CASA.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) CASA HD
-http://vpns365.xyz:80/0451933520/0364224542/31357
-#EXTINF:-1 tvg-id="max.ca" tvg-name="CA| (FR) MAX HD " tvg-logo="https://lo1.in/ca/max.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) MAX HD 
-http://vpns365.xyz:80/0451933520/0364224542/31369
-#EXTINF:-1 tvg-id="canalevasion.ca" tvg-name="CA| (FR) EVASION HD" tvg-logo="https://lo1.in/ca/evas.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) EVASION HD
-http://vpns365.xyz:80/0451933520/0364224542/31367
-#EXTINF:-1 tvg-id="frissonstv.ca" tvg-name="CA| (FR) FRISSONS TV HD " tvg-logo="https://lo1.in/ca/frson.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) FRISSONS TV HD 
-http://vpns365.xyz:80/0451933520/0364224542/31368
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA RIVIERE-DU-LOUP HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TVA RIVIERE-DU-LOUP HD
-http://vpns365.xyz:80/0451933520/0364224542/31365
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CGTN FRANÇAIS HD" tvg-logo="https://lo1.in/ca/cgtnfr.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) CGTN FRANÇAIS HD
-http://vpns365.xyz:80/0451933520/0364224542/31358
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV ROGERS OTTAWA " tvg-logo="https://lo1.in/ca/roger.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TV ROGERS OTTAWA 
-http://vpns365.xyz:80/0451933520/0364224542/31364
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELEVISION HD" tvg-logo="https://lo1.in/ca/(FR) ICI TELEVISION.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) ICI TELEVISION HD
-http://vpns365.xyz:80/0451933520/0364224542/31361
-#EXTINF:-1 tvg-id="aptn.ca" tvg-name="CA| (FR) APTN HD" tvg-logo="https://lo1.in/ca/aptn.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) APTN HD
-http://vpns365.xyz:80/0451933520/0364224542/31366
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦LES ENFANTS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",✦●✦LES ENFANTS✦●✦ 
-http://vpns365.xyz:80/0451933520/0364224542/31417
-#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TELE QUEBEC HD
-http://vpns365.xyz:80/0451933520/0364224542/31413
-#EXTINF:-1 tvg-id="telemagino.ca" tvg-name="CA| (FR) TELEMAGINO HD " tvg-logo="https://lo1.in/ca/tlmegino.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TELEMAGINO HD 
-http://vpns365.xyz:80/0451933520/0364224542/31412
-#EXTINF:-1 tvg-id="teletoonfrench.ca" tvg-name="CA| (FR) TELETOON HD" tvg-logo="https://lo1.in/ca/tltns.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TELETOON HD
-http://vpns365.xyz:80/0451933520/0364224542/31414
-#EXTINF:-1 tvg-id="lachainedisney.ca" tvg-name="CA| (FR) DISNEY LA CHAINE HD" tvg-logo="https://lo1.in/ca/disnch.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) DISNEY LA CHAINE HD
-http://vpns365.xyz:80/0451933520/0364224542/31416
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) DISNEY JUNIOR" tvg-logo="https://lo1.in/ca/Disney  HD.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) DISNEY JUNIOR
-http://vpns365.xyz:80/0451933520/0364224542/29310
-#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CA| (FR) ICI Radio Canada Tele Moncton HD" tvg-logo="https://lo1.in/ca/TELE ESTRIE.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) ICI Radio Canada Tele Moncton HD
-http://vpns365.xyz:80/0451933520/0364224542/31409
-#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CA| (FR) ICI RADIO-CANADA TELE MONTREAL HD" tvg-logo="https://lo1.in/ca/icirdi.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) ICI RADIO-CANADA TELE MONTREAL HD
-http://vpns365.xyz:80/0451933520/0364224542/31411
-#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA| (FR) TFO HD" tvg-logo="https://lo1.in/ca/tfo0.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TFO HD
-http://vpns365.xyz:80/0451933520/0364224542/31415
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) BABY TV" tvg-logo="https://lo1.in/ca/Baby TV.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) BABY TV
-http://vpns365.xyz:80/0451933520/0364224542/29301
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦LA MUSIQUE✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",✦●✦LA MUSIQUE✦●✦ 
-http://vpns365.xyz:80/0451933520/0364224542/31408
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) MEZZO LIVE HD" tvg-logo="https://lo1.in/ca/mezlv.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) MEZZO LIVE HD
-http://vpns365.xyz:80/0451933520/0364224542/31402
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) STINGRAY CLASSICA HD" tvg-logo="https://lo1.in/ca/stinclas.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) STINGRAY CLASSICA HD
-http://vpns365.xyz:80/0451933520/0364224542/31403
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE AFRICA HD" tvg-logo="https://lo1.in/ca/trcaf.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TRACE AFRICA HD
-http://vpns365.xyz:80/0451933520/0364224542/31404
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE NAIJA HD" tvg-logo="https://lo1.in/ca/trcnaija.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TRACE NAIJA HD
-http://vpns365.xyz:80/0451933520/0364224542/31405
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE TOCA HD" tvg-logo="https://lo1.in/ca/trctoca.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TRACE TOCA HD
-http://vpns365.xyz:80/0451933520/0364224542/31406
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE URBAN HD" tvg-logo="https://lo1.in/ca/trcurbn.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TRACE URBAN HD
-http://vpns365.xyz:80/0451933520/0364224542/31407
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE MZIKI" tvg-logo="https://lo1.in/ca/TRACE MZIKI.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) TRACE MZIKI
-http://vpns365.xyz:80/0451933520/0364224542/29299
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NATYF TV HD" tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS ENTRTENMENT",CA| (FR) NATYF TV HD
-http://vpns365.xyz:80/0451933520/0364224542/1068169
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦FILMS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS CINEMA",✦●✦FILMS✦●✦ 
-http://vpns365.xyz:80/0451933520/0364224542/31387
-#EXTINF:-1 tvg-id="addiktv.ca" tvg-name="CA| (FR) ADDIK TV HD" tvg-logo="https://lo1.in/ca/adik.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) ADDIK TV HD
-http://vpns365.xyz:80/0451933520/0364224542/31371
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE HD  " tvg-logo="https://lo1.in/ca/prise2.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) PRISE HD  
-http://vpns365.xyz:80/0451933520/0364224542/31397
-#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA| (FR) PRISE2 HD" tvg-logo="https://lo1.in/ca/(FR) PRISE2.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) PRISE2 HD
-http://vpns365.xyz:80/0451933520/0364224542/31374
-#EXTINF:-1 tvg-id="ellefictions.ca" tvg-name="CA| (FR) ELLE HD" tvg-logo="https://lo1.in/ca/elle.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) ELLE HD
-http://vpns365.xyz:80/0451933520/0364224542/31373
-#EXTINF:-1 tvg-id="seriesplus.ca" tvg-name="CA| (FR) SERIES+ HD" tvg-logo="https://lo1.in/ca/serpls.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SERIES+ HD
-http://vpns365.xyz:80/0451933520/0364224542/31375
-#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA| (FR) CINE POP HD" tvg-logo="https://lo1.in/ca/cinpop.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) CINE POP HD
-http://vpns365.xyz:80/0451933520/0364224542/31372
-#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA| (FR) SUPER ECRAN 1 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 1 HD
-http://vpns365.xyz:80/0451933520/0364224542/31376
-#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA| (FR) SUPER ECRAN 2 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 2 HD
-http://vpns365.xyz:80/0451933520/0364224542/31377
-#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CA| (FR) SUPER ECRAN 3 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 3 HD
-http://vpns365.xyz:80/0451933520/0364224542/31378
-#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CA| (FR) SUPER ECRAN 4 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) SUPER ECRAN 4 HD
-http://vpns365.xyz:80/0451933520/0364224542/31379
-#EXTINF:-1 tvg-id="amitele.ca" tvg-name="CA| (FR) AMI-TELE HD" tvg-logo="https://lo1.in/ca/amitele.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) AMI-TELE HD
-http://vpns365.xyz:80/0451933520/0364224542/31385
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO HD" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO HD
-http://vpns365.xyz:80/0451933520/0364224542/31384
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO CFTF" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO CFTF
-http://vpns365.xyz:80/0451933520/0364224542/50690
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO V-TELE HD" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO V-TELE HD
-http://vpns365.xyz:80/0451933520/0364224542/31398
-#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA| (FR) NOOVO MONTREAL HD (CFJP TV)" tvg-logo="https://lo1.in/ca/novomntreal.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO MONTREAL HD (CFJP TV)
-http://vpns365.xyz:80/0451933520/0364224542/31380
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO QUEBEC CITY (CFAP-TV) HD" tvg-logo="https://lo1.in/ca/novoqbc.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO QUEBEC CITY (CFAP-TV) HD
-http://vpns365.xyz:80/0451933520/0364224542/31381
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO SHERBROOKE HD (CFKS-TV) " tvg-logo="https://lo1.in/ca/novoshrbrk.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO SHERBROOKE HD (CFKS-TV) 
-http://vpns365.xyz:80/0451933520/0364224542/31382
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO TROIS-RIVIERES (CFKM-TV) HD" tvg-logo="https://lo1.in/ca/novo3serv.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO TROIS-RIVIERES (CFKM-TV) HD
-http://vpns365.xyz:80/0451933520/0364224542/31383
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO ABITIBI-TÉMISCAMINGUE (CFVS-TV)" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) NOOVO ABITIBI-TÉMISCAMINGUE (CFVS-TV)
-http://vpns365.xyz:80/0451933520/0364224542/139810
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 1 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 1 HD
-http://vpns365.xyz:80/0451933520/0364224542/95147
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 2 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 2 HD
-http://vpns365.xyz:80/0451933520/0364224542/95148
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 3 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 3 HD
-http://vpns365.xyz:80/0451933520/0364224542/95149
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 4 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 4 HD
-http://vpns365.xyz:80/0451933520/0364224542/95150
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 5 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 5 HD
-http://vpns365.xyz:80/0451933520/0364224542/95151
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 6 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 6 HD
-http://vpns365.xyz:80/0451933520/0364224542/95152
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 7 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 7 HD
-http://vpns365.xyz:80/0451933520/0364224542/95153
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 8 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 8 HD
-http://vpns365.xyz:80/0451933520/0364224542/95154
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 9 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 9 HD
-http://vpns365.xyz:80/0451933520/0364224542/95155
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 10 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 10 HD
-http://vpns365.xyz:80/0451933520/0364224542/95156
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 11 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 11 HD
-http://vpns365.xyz:80/0451933520/0364224542/95157
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 12 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 12 HD
-http://vpns365.xyz:80/0451933520/0364224542/95143
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 13 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 13 HD
-http://vpns365.xyz:80/0451933520/0364224542/95144
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 14 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 14 HD
-http://vpns365.xyz:80/0451933520/0364224542/95145
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 15 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS CINEMA",CA| (FR) A LA CARTE 15 HD
-http://vpns365.xyz:80/0451933520/0364224542/95146
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦DOCUMENTAIRE✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",✦●✦DOCUMENTAIRE✦●✦ 
-http://vpns365.xyz:80/0451933520/0364224542/31401
-#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA| (FR) HISTORIA HD" tvg-logo="https://lo1.in/ca/hisch.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) HISTORIA HD
-http://vpns365.xyz:80/0451933520/0364224542/31400
-#EXTINF:-1 tvg-id="canald.ca" tvg-name="CA| (FR) CANAL D HD" tvg-logo="https://lo1.in/ca/cnld.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) CANAL D HD
-http://vpns365.xyz:80/0451933520/0364224542/31388
-#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA| (FR) CANAL VIE HD" tvg-logo="https://lo1.in/ca/cnllv.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) CANAL VIE HD
-http://vpns365.xyz:80/0451933520/0364224542/31389
-#EXTINF:-1 tvg-id="z.ca" tvg-name="CA| (FR) CANAL Z SD" tvg-logo="https://lo1.in/ca/cnlz.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) CANAL Z SD
-http://vpns365.xyz:80/0451933520/0364224542/31390
-#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA| (FR) ZESTE HD" tvg-logo="https://lo1.in/ca/zndespet.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) ZESTE HD
-http://vpns365.xyz:80/0451933520/0364224542/31394
-#EXTINF:-1 tvg-id="unistv.ca" tvg-name="CA| (FR) UNIS TV HD" tvg-logo="https://lo1.in/ca/unis.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) UNIS TV HD
-http://vpns365.xyz:80/0451933520/0364224542/31396
-#EXTINF:-1 tvg-id="planeteplus.ca" tvg-name="CA| (FR) PLANETE+ HD" tvg-logo="https://lo1.in/ca/plntpls.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) PLANETE+ HD
-http://vpns365.xyz:80/0451933520/0364224542/31399
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SEASONS HD" tvg-logo="https://lo1.in/ca/season.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) SEASONS HD
-http://vpns365.xyz:80/0451933520/0364224542/31393
-#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA| (FR) INVESTIGATION HD " tvg-logo="https://lo1.in/ca/invesdis.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) INVESTIGATION HD 
-http://vpns365.xyz:80/0451933520/0364224542/31391
-#EXTINF:-1 tvg-id="canalsavoir.ca" tvg-name="CA| (FR) SAVOIR MEDIA HD" tvg-logo="https://lo1.in/ca/svrmed.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA| (FR) SAVOIR MEDIA HD
-http://vpns365.xyz:80/0451933520/0364224542/31392
-#EXTINF:-1 tvg-id="" tvg-name="CA|(FR) PALMARESADISQ PAR STINGRAY FHD" tvg-logo="https://lo1.in/ca/palmaps.png" group-title="AM | CANADA FRANÇAIS DOCUMENTARY",CA|(FR) PALMARESADISQ PAR STINGRAY FHD
-http://vpns365.xyz:80/0451933520/0364224542/31395
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) TVA Montreal" tvg-logo="" group-title="CANADA - FRENCH",CA (F) TVA Montreal
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597721.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) EVASION" tvg-logo="" group-title="CANADA - FRENCH",CA (F) EVASION
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597722.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Z Tele" tvg-logo="" group-title="CANADA - FRENCH",CA (F) Z Tele
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597723.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Zeste" tvg-logo="" group-title="CANADA - FRENCH",CA (F) Zeste
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597724.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) TV5 Quebec" tvg-logo="" group-title="CANADA - FRENCH",CA (F) TV5 Quebec
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597725.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) TVO" tvg-logo="" group-title="CANADA - FRENCH",CA (F) TVO
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597726.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 1" tvg-logo="" group-title="CANADA - FRENCH",CA (F) Super Ecran 1
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597727.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 2" tvg-logo="" group-title="CANADA - FRENCH",CA (F) Super Ecran 2
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597728.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 3" tvg-logo="" group-title="CANADA - FRENCH",CA (F) Super Ecran 3
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597729.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 4" tvg-logo="" group-title="CANADA - FRENCH",CA (F) Super Ecran 4
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597730.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) RDS" tvg-logo="" group-title="CANADA - FRENCH",CA (F) RDS
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597731.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) RDS2" tvg-logo="" group-title="CANADA - FRENCH",CA (F) RDS2
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597732.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) RDS INFO" tvg-logo="" group-title="CANADA - FRENCH",CA (F) RDS INFO
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597733.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) TVA Sports" tvg-logo="" group-title="CANADA - FRENCH",CA (F) TVA Sports
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597734.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) TVA Sports 2" tvg-logo="" group-title="CANADA - FRENCH",CA (F) TVA Sports 2
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597735.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) CASA" tvg-logo="" group-title="CANADA - FRENCH",CA (F) CASA
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597736.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) CANALD" tvg-logo="" group-title="CANADA - FRENCH",CA (F) CANALD
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597737.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) VIE" tvg-logo="https://i.ibb.co/q398CL9b/Canal-Vie-svg.png" group-title="CANADA - FRENCH",CA (F) VIE
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597738.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Addik TV" tvg-logo="" group-title="CANADA - FRENCH",CA (F) Addik TV
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597739.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) PRISE 2" tvg-logo="https://i.ibb.co/FbVyW2MS/latest-1.png" group-title="CANADA - FRENCH",CA (F) PRISE 2
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597741.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) DISNEY JR" tvg-logo="" group-title="CANADA - FRENCH",CA (F) DISNEY JR
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597742.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) ICI RDI" tvg-logo="" group-title="CANADA - FRENCH",CA (F) ICI RDI
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597743.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) ICI TV" tvg-logo="" group-title="CANADA - FRENCH",CA (F) ICI TV
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597744.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) FRISSONS TV" tvg-logo="https://frissonstv.com/wp-content/uploads/2025/06/Logo_frissons_tv.png" group-title="CANADA - FRENCH",CA (F) FRISSONS TV
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597745.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) CINEPOP" tvg-logo="https://i.ibb.co/gLNHQhDF/Cinepop-2016.png" group-title="CANADA - FRENCH",CA (F) CINEPOP
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597746.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) AMI Tele" tvg-logo="" group-title="CANADA - FRENCH",CA (F) AMI Tele
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597747.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) MAX" tvg-logo="" group-title="CANADA - FRENCH",CA (F) MAX
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597748.ts
+#EXTINF:-1 tvg-id="Savoir média" tvg-name="CA (F) SAVIOR MEDIA" tvg-logo="" group-title="CANADA - FRENCH",CA (F) SAVIOR MEDIA
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597749.ts
+#EXTINF:-1 tvg-id="" tvg-name="ICI Radio Canada Montreal" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/66/CBC_Radio-Canada_T%C3%A9l%C3%A9vision.svg/revision/latest/scale-to-width-down/1000?cb=20231215174709" group-title="CANADA - FRENCH",ICI Radio Canada Montreal
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Télé Québec HD (FR)" tvg-logo="https://i.postimg.cc/qvhDBH9D/T-l-Qu-bec-logo.png" group-title="CANADA - FRENCH",Télé Québec HD (FR)
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/599406.ts
+#EXTINF:-1 tvg-id="" tvg-name="Curiosity Chanell" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO9FnZWbsBhSawl-7VCbqYk6yWRUxwK0ftXw&s" group-title="✈CULTURA✈",Curiosity Chanell
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/665188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canada: LCN (FR)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5b898be60d107905eb95ec871659c922.png" group-title="CANADA - FRENCH",Canada: LCN (FR)
