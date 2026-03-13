@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tf1.fr" tvg-name="|FR| TF1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="FR | Général",|FR| TF1 ᵁᴴᴰ
 http://195.128.27.185:80/Blaine1/Blaine1/723519
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="FR | Général",|FR| TF1 HD
