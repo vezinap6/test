@@ -1,0 +1,528 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tf1.fr" tvg-name="|FR| TF1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="FR | Général",|FR| TF1 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723519
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="FR | Général",|FR| TF1 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723518
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 HD +4" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HD+4.png" group-title="FR | Général",|FR| TF1 HD +4
+http://195.128.27.185:80/Blaine1/Blaine1/723517
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="FR | Général",|FR| TF1 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723516
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HD.png" group-title="FR | Général",|FR| TF1 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723515
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1  1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="FR | Général",|FR| TF1  1 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723514
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="FR | Général",|FR| FRANCE 2 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723513
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| France 2 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="FR | Général",|FR| France 2 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723512
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| France 2 HD +4" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="FR | Général",|FR| France 2 HD +4
+http://195.128.27.185:80/Blaine1/Blaine1/723511
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="FR | Général",|FR| FRANCE 2 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723510
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 2 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="FR | Général",|FR| FRANCE 2 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723509
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 2 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="FR | Général",|FR| FRANCE 2 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723508
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| FRANCE 3 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| France 3 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| France 3 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723506
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| FRANCE 3 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723505
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 3 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| FRANCE 3 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723504
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 3 NOA HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| FRANCE 3 NOA HD
+http://195.128.27.185:80/Blaine1/Blaine1/723503
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| FRANCE 3 GRAND EST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="FR | Général",FR| FRANCE 3 GRAND EST HD
+http://195.128.27.185:80/Blaine1/Blaine1/723502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5054.png" group-title="FR | Général",|FR| FRANCE 4 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| France 4 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5054.png" group-title="FR | Général",|FR| France 4 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5054.png" group-title="FR | Général",|FR| FRANCE 4 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 4 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5054.png" group-title="FR | Général",|FR| FRANCE 4 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5096.png" group-title="FR | Général",|FR| FRANCE 5 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723497
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| France 5 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5096.png" group-title="FR | Général",|FR| France 5 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5096.png" group-title="FR | Général",|FR| FRANCE 5 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 5 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5096.png" group-title="FR | Général",|FR| FRANCE 5 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ARTE HD" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="FR | Général",|FR| ARTE HD
+http://195.128.27.185:80/Blaine1/Blaine1/723493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ARTE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="FR | Général",|FR| ARTE ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723492
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ARTE ˢᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="FR | Général",|FR| ARTE ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723491
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| M6 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="FR | Général",|FR| M6 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="FR | Général",|FR| M6 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723489
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| M6 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="FR | Général",|FR| M6 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723488
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| M6 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="FR | Général",|FR| M6 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723487
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| M6 HD +3" tvg-logo="http://138.199.27.237:8080/FRANCE/M6%2B3.png" group-title="FR | Général",|FR| M6 HD +3
+http://195.128.27.185:80/Blaine1/Blaine1/723486
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 6TER ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5089.png" group-title="FR | Général",|FR| 6TER ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723485
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 6TER HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5089.png" group-title="FR | Général",|FR| 6TER HD
+http://195.128.27.185:80/Blaine1/Blaine1/723484
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 6TER ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5089.png" group-title="FR | Général",|FR| 6TER ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723483
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 6TER ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5089.png" group-title="FR | Général",|FR| 6TER ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723482
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| W9 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="FR | Général",|FR| W9 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| W9 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="FR | Général",|FR| W9 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| W9 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="FR | Général",|FR| W9 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| W9 HD +6" tvg-logo="http://138.199.27.237:8080/FRANCE/W9%2B6.png" group-title="FR | Général",|FR| W9 HD +6
+http://195.128.27.185:80/Blaine1/Blaine1/723478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| W9 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="FR | Général",|FR| W9 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NRJ 12 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5056.png" group-title="FR | Général",|FR| NRJ 12 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NRJ 12 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5056.png" group-title="FR | Général",|FR| NRJ 12 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NRJ12 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5056.png" group-title="FR | Général",|FR| NRJ12 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NRJ 12 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5056.png" group-title="FR | Général",|FR| NRJ 12 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| OLYMPIA TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/OLYMPIATV.png" group-title="FR | Général",|FR| OLYMPIA TV ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Olympia TV" tvg-logo="http://138.199.27.237:8080/FRANCE/OLYMPIATV.png" group-title="FR | Général",|FR| Olympia TV
+http://195.128.27.185:80/Blaine1/Blaine1/723471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| OLYMPIA TV ᵁᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXypFtLyxjv8qHAKMdBw09SvpP0h3UTk6T3Vx4A3uuMscT.png" group-title="FR | Général",|FR| OLYMPIA TV ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TFX ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TFX.png" group-title="FR | Général",|FR| TFX ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TFX HD" tvg-logo="http://138.199.27.237:8080/FRANCE/TFX.png" group-title="FR | Général",|FR| TFX HD
+http://195.128.27.185:80/Blaine1/Blaine1/723468
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TFX ᵁᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEH265/TFX.png" group-title="FR | Général",|FR| TFX ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723467
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TFX ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/TFX.png" group-title="FR | Général",|FR| TFX ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723466
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| C8 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5093.png" group-title="FR | Général",|FR| C8 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| C8 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5093.png" group-title="FR | Général",|FR| C8 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723464
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| C8 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5093.png" group-title="FR | Général",|FR| C8 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723463
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| C8 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5093.png" group-title="FR | Général",|FR| C8 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723462
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CSTAR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5094.png" group-title="FR | Général",|FR| CSTAR ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723461
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CStar HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5094.png" group-title="FR | Général",|FR| CStar HD
+http://195.128.27.185:80/Blaine1/Blaine1/723460
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CSTAR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5094.png" group-title="FR | Général",|FR| CSTAR ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723459
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CSTAR ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5094.png" group-title="FR | Général",|FR| CSTAR ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723458
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TMC ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="FR | Général",|FR| TMC ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723457
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TMC HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="FR | Général",|FR| TMC HD
+http://195.128.27.185:80/Blaine1/Blaine1/723456
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TMC ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="FR | Général",|FR| TMC ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723455
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TMC ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="FR | Général",|FR| TMC ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723454
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TMC  1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="FR | Général",|FR| TMC  1 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723453
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TMC +1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="FR | Général",|FR| TMC +1 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723452
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 SERIES ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HDFILMSERIES.png" group-title="FR | Général",|FR| TF1 SERIES ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723451
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 SIERES HD" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HDFILMSERIES.png" group-title="FR | Général",|FR| TF1 SIERES HD
+http://195.128.27.185:80/Blaine1/Blaine1/723450
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL+  ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="FR | Général",|FR| CANAL+  ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723449
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  CANAL+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="FR | Général",|FR|  CANAL+ ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723448
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 SIERES" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HDFILMSERIES.png" group-title="FR | Général",|FR| TF1 SIERES
+http://195.128.27.185:80/Blaine1/Blaine1/723447
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 SERIES FILMS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HDFILMSERIES.png" group-title="FR | Général",|FR| TF1 SERIES FILMS ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723446
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 SERIES / FILMS ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HDFILMSERIES.png" group-title="FR | Général",|FR| TF1 SERIES / FILMS ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723445
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RMC Story HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSTORY.png" group-title="FR | Général",|FR| RMC Story HD
+http://195.128.27.185:80/Blaine1/Blaine1/723444
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RMC STORY ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSTORY.png" group-title="FR | Général",|FR| RMC STORY ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723443
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RMC STORY ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSTORY.png" group-title="FR | Général",|FR| RMC STORY ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723442
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  TREK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TREKFHD.png" group-title="FR | Général",|FR|  TREK ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723441
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RMC DECOUVERTE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5058.png" group-title="FR | Général",|FR| RMC DECOUVERTE ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723440
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CHERIE 25 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5092.png" group-title="FR | Général",|FR| CHERIE 25 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723439
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Cherie 25 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5092.png" group-title="FR | Général",|FR| Cherie 25 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723438
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CHERIE 25 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5092.png" group-title="FR | Général",|FR| CHERIE 25 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723437
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CHERIE 25 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5092.png" group-title="FR | Général",|FR| CHERIE 25 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723436
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  SQOOL TV HD" tvg-logo="http://138.199.27.237:8080/FRANCE/SQOOL.png" group-title="FR | Général",|FR|  SQOOL TV HD
+http://195.128.27.185:80/Blaine1/Blaine1/723435
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RTS 1 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTS1.png" group-title="FR | Général",|FR| RTS 1 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723434
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RTS 2 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTS2.png" group-title="FR | Général",|FR| RTS 2 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723433
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 24 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE24.png" group-title="FR | Général",|FR| FRANCE 24 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723432
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 24 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE24.png" group-title="FR | Général",|FR| FRANCE 24 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723431
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 24 ᵁᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEH265/FRANCE24.png" group-title="FR | Général",|FR| FRANCE 24 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723430
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| France's Got Talent" tvg-logo="http://138.199.27.237:8080/FRANCE/FGT.png" group-title="FR | Général",|FR| France's Got Talent
+http://195.128.27.185:80/Blaine1/Blaine1/723429
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Master Chef HD" tvg-logo="http://138.199.27.237:8080/ARABE/MASTERCHEF.png" group-title="FR | Général",|FR| Master Chef HD
+http://195.128.27.185:80/Blaine1/Blaine1/723428
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Savoureux.tv" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Savoureux.jpg" group-title="FR | Général",|FR| Savoureux.tv
+http://195.128.27.185:80/Blaine1/Blaine1/723427
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Gastronogeek HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/1666100336757.jpeg" group-title="FR | Général",|FR| Gastronogeek HD
+http://195.128.27.185:80/Blaine1/Blaine1/723426
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Chef Philippe Etchebest" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/philippe-etchebest.jpg" group-title="FR | Général",|FR| Chef Philippe Etchebest
+http://195.128.27.185:80/Blaine1/Blaine1/723425
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="| FR | Luxe TV" tvg-logo="http://138.199.27.237:8080/FRANCE/LUXETV.png" group-title="FR | Général",| FR | Luxe TV
+http://195.128.27.185:80/Blaine1/Blaine1/723424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| 6PLAY FHD" tvg-logo="https://s9.gifyu.com/images/SCXGM.png" group-title="FR | Général",FR| 6PLAY FHD
+http://195.128.27.185:80/Blaine1/Blaine1/723423
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| 6PLAY MAX FHD" tvg-logo="https://s9.gifyu.com/images/SZb0V.webp" group-title="FR | Général",FR| 6PLAY MAX FHD
+http://195.128.27.185:80/Blaine1/Blaine1/723422
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ES1" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/es12.png" group-title="FR | Général",|FR| ES1
+http://195.128.27.185:80/Blaine1/Blaine1/723421
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="| FR | ES1" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/es12.png" group-title="FR | Général",| FR | ES1
+http://195.128.27.185:80/Blaine1/Blaine1/723420
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| SyFy HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5068.png" group-title="FR | Général",|FR| SyFy HD
+http://195.128.27.185:80/Blaine1/Blaine1/723419
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| SYFY ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5068.png" group-title="FR | Général",|FR| SYFY ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723418
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 13eme Rue HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/13-EME-RUE.png" group-title="FR | Général",|FR| 13eme Rue HD
+http://195.128.27.185:80/Blaine1/Blaine1/723417
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 13EME RUE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/13-EME-RUE.png" group-title="FR | Général",|FR| 13EME RUE ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723416
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 13EME RUE ˢᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/13-EME-RUE.png" group-title="FR | Général",|FR| 13EME RUE ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723415
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| E HD France" tvg-logo="http://138.199.27.237:8080/FRANCE/E!ENTERTAINMENTHD.png" group-title="FR | Général",|FR| E HD France
+http://195.128.27.185:80/Blaine1/Blaine1/723414
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| E ENTERTAINMENT ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/E!ENTERTAINMENTHD.png" group-title="FR | Général",|FR| E ENTERTAINMENT ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723413
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TEVA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TEVAHD.png" group-title="FR | Général",|FR| TEVA ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723412
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Teva HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TEVAHD.png" group-title="FR | Général",|FR| Teva HD
+http://195.128.27.185:80/Blaine1/Blaine1/723411
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TEVA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TEVAHD.png" group-title="FR | Général",|FR| TEVA ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723410
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TEVA ˢᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TEVAHD.png" group-title="FR | Général",|FR| TEVA ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723409
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RTL 9 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTL9.png" group-title="FR | Général",|FR| RTL 9 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723408
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RTL9 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RTL9.png" group-title="FR | Général",|FR| RTL9 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723407
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RTL9 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RTL9.png" group-title="FR | Général",|FR| RTL9 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723406
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| AB1 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/AB1HD.png" group-title="FR | Général",|FR| AB1 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723405
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| AB1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/AB1HD.png" group-title="FR | Général",|FR| AB1 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723404
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| AB1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/AB1HD.png" group-title="FR | Général",|FR| AB1 ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723403
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| AB3 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/AB3.png" group-title="FR | Général",|FR| AB3 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723402
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| AB3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/AB3.png" group-title="FR | Général",|FR| AB3 ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| SERIE CLUB ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5069.png" group-title="FR | Général",|FR| SERIE CLUB ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Serie Club HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5069.png" group-title="FR | Général",|FR| Serie Club HD
+http://195.128.27.185:80/Blaine1/Blaine1/723399
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| SERIE CLUB ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5069.png" group-title="FR | Général",|FR| SERIE CLUB ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723398
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| SERIE CLUB ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5069.png" group-title="FR | Général",|FR| SERIE CLUB ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723397
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| PARIS PREMIERE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARISPREMIERE.png" group-title="FR | Général",|FR| PARIS PREMIERE ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723396
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Paris Premiere HD" tvg-logo="http://138.199.27.237:8080/FRANCE/PARISPREMIERE.png" group-title="FR | Général",|FR| Paris Premiere HD
+http://195.128.27.185:80/Blaine1/Blaine1/723395
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| PARIS PREMIERE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARISPREMIERE.png" group-title="FR | Général",|FR| PARIS PREMIERE ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723394
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| PARIS PREMIERE ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARISPREMIERE.png" group-title="FR | Général",|FR| PARIS PREMIERE ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723393
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV BREIZH ᵁᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynOEfQR7Q-NE1GiKFZkCiCFRYBgEwukGuyCmdGbs13mG.png" group-title="FR | Général",|FR| TV BREIZH ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723392
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV BREIZH HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynOEfQR7Q-NE1GiKFZkCiCFRYBgEwukGuyCmdGbs13mG.png" group-title="FR | Général",|FR| TV BREIZH HD
+http://195.128.27.185:80/Blaine1/Blaine1/723391
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV BREIZH ᵁᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynOEfQR7Q-NE1GiKFZkCiCFRYBgEwukGuyCmdGbs13mG.png" group-title="FR | Général",|FR| TV BREIZH ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723390
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV BREIZH ˢᴰ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynOEfQR7Q-NE1GiKFZkCiCFRYBgEwukGuyCmdGbs13mG.png" group-title="FR | Général",|FR| TV BREIZH ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723389
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| BET HD" tvg-logo="http://138.199.27.237:8080/FRANCE/BETHD.png" group-title="FR | Général",|FR| BET HD
+http://195.128.27.185:80/Blaine1/Blaine1/723388
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| BET ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BETHD.png" group-title="FR | Général",|FR| BET ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723387
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| BET ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BETHD.png" group-title="FR | Général",|FR| BET ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723386
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="| FR | ONE TV HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/One_TV_Logo.png" group-title="FR | Général",| FR | ONE TV HD
+http://195.128.27.185:80/Blaine1/Blaine1/723385
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  ONE TV ᵁᴴᴰ" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/57/32/21/57322106-6a5b-9cbf-f8f4-07bd3dde6f5e/source/256x256bb.jpg" group-title="FR | Général",|FR|  ONE TV ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL 31 HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/IDF-1.png" group-title="FR | Général",|FR| CANAL 31 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723383
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| IDF1 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/IDF1.png" group-title="FR | Général",|FR| IDF1 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Télé Grenoble" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/télegrenoble.png" group-title="FR | Général",|FR| Télé Grenoble
+http://195.128.27.185:80/Blaine1/Blaine1/723381
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Télé nantes" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Télénantes_logo-1.png" group-title="FR | Général",|FR| Télé nantes
+http://195.128.27.185:80/Blaine1/Blaine1/723380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Télé Paese" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/télepaes.jpg" group-title="FR | Général",|FR| Télé Paese
+http://195.128.27.185:80/Blaine1/Blaine1/723379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 7 A LIMOGES" tvg-logo="" group-title="FR | Général",|FR| 7 A LIMOGES
+http://195.128.27.185:80/Blaine1/Blaine1/723378
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 8 Mont Blanc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDclexG4Qz0wSd_gA8DGfxIFbOR30V3wssMP9bZ9U8KHazCEmj" group-title="FR | Général",|FR| 8 Mont Blanc
+http://195.128.27.185:80/Blaine1/Blaine1/723377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 20 Minutes TV" tvg-logo="" group-title="FR | Général",|FR| 20 Minutes TV
+http://195.128.27.185:80/Blaine1/Blaine1/723376
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ASTV" tvg-logo="" group-title="FR | Général",|FR| ASTV
+http://195.128.27.185:80/Blaine1/Blaine1/723375
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Canal 21" tvg-logo="" group-title="FR | Général",|FR| Canal 21
+http://195.128.27.185:80/Blaine1/Blaine1/723374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Figaro TV IDF" tvg-logo="https://s13.gifyu.com/images/SCGn9.png" group-title="FR | Général",|FR| Figaro TV IDF
+http://195.128.27.185:80/Blaine1/Blaine1/723373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| IL TV" tvg-logo="" group-title="FR | Général",|FR| IL TV
+http://195.128.27.185:80/Blaine1/Blaine1/723372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TELEGOHELLE" tvg-logo="" group-title="FR | Général",|FR| TELEGOHELLE
+http://195.128.27.185:80/Blaine1/Blaine1/723371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TL7" tvg-logo="" group-title="FR | Général",|FR| TL7
+http://195.128.27.185:80/Blaine1/Blaine1/723370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV7 Bordeaux" tvg-logo="https://s9.gifyu.com/images/SCX6F.png" group-title="FR | Général",|FR| TV7 Bordeaux
+http://195.128.27.185:80/Blaine1/Blaine1/723369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV78" tvg-logo="" group-title="FR | Général",|FR| TV78
+http://195.128.27.185:80/Blaine1/Blaine1/723368
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Télé Bocal" tvg-logo="" group-title="FR | Général",|FR| Télé Bocal
+http://195.128.27.185:80/Blaine1/Blaine1/723367
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Télé Grenoble" tvg-logo="" group-title="FR | Général",|FR| Télé Grenoble
+http://195.128.27.185:80/Blaine1/Blaine1/723366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| vià30" tvg-logo="" group-title="FR | Général",|FR| vià30
+http://195.128.27.185:80/Blaine1/Blaine1/723365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| vià31" tvg-logo="" group-title="FR | Général",|FR| vià31
+http://195.128.27.185:80/Blaine1/Blaine1/723364
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| vià34" tvg-logo="" group-title="FR | Général",|FR| vià34
+http://195.128.27.185:80/Blaine1/Blaine1/723363
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| vià66" tvg-logo="" group-title="FR | Général",|FR| vià66
+http://195.128.27.185:80/Blaine1/Blaine1/723362
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Vià MATÉLÉ" tvg-logo="" group-title="FR | Général",|FR| Vià MATÉLÉ
+http://195.128.27.185:80/Blaine1/Blaine1/723361
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Wéo Picardie" tvg-logo="" group-title="FR | Général",|FR| Wéo Picardie
+http://195.128.27.185:80/Blaine1/Blaine1/723360
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La voix du nord" tvg-logo="" group-title="FR TNT HD",|FR| Wéo TV, La voix du nord" tvg-logo="" group-title="FR | Général",La voix du nord" tvg-logo="" group-title="FR TNT HD",|FR| Wéo TV, La voix du nord
+http://195.128.27.185:80/Blaine1/Blaine1/723359
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| BFM Grands Reportages" tvg-logo="" group-title="FR | Général",FR| BFM Grands Reportages
+http://195.128.27.185:80/Blaine1/Blaine1/723358
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Museum Channel HD" tvg-logo="http://138.199.27.237:8080/FRANCE/MUSEUM.png" group-title="FR | Général",|FR| Museum Channel HD
+http://195.128.27.185:80/Blaine1/Blaine1/723357
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Museum" tvg-logo="http://138.199.27.237:8080/FRANCE/MUSEUM.png" group-title="FR | Général",|FR| Museum
+http://195.128.27.185:80/Blaine1/Blaine1/723356
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MUSEUM ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/MUSEUM.png" group-title="FR | Général",|FR| MUSEUM ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723355
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LCP-AN 24" tvg-logo="http://138.199.27.237:8080/FRANCE/LCP.png" group-title="FR | Général",|FR| LCP-AN 24
+http://195.128.27.185:80/Blaine1/Blaine1/723354
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| PUBLIC SÉNAT ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/public-senat.png" group-title="FR | Général",|FR| PUBLIC SÉNAT ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723353
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| KTO TV" tvg-logo="http://138.199.27.237:8080/FRANCE/KTOHD.png" group-title="FR | Général",|FR| KTO TV
+http://195.128.27.185:80/Blaine1/Blaine1/723352
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| KTO ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/KTOHD.png" group-title="FR | Général",|FR| KTO ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TREK HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TREKFHD.png" group-title="FR | Général",|FR| TREK HD
+http://195.128.27.185:80/Blaine1/Blaine1/723350
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| RMC DECOUVERTE ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5058.png" group-title="FR | Général",|FR| RMC DECOUVERTE ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723349
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| La Chains Parlementaire HD" tvg-logo="http://138.199.27.237:8080/FRANCE/LCP.png" group-title="FR | Général",|FR| La Chains Parlementaire HD
+http://195.128.27.185:80/Blaine1/Blaine1/723348
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LFM TV HD" tvg-logo="http://138.199.27.237:8080/FRANCE/LFMTV.png" group-title="FR | Général",|FR| LFM TV HD
+http://195.128.27.185:80/Blaine1/Blaine1/723347
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  LFM TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LFMTV.png" group-title="FR | Général",|FR|  LFM TV ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723346
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV5 Monde maghreb orient HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDE.png" group-title="FR | Général",|FR| TV5 Monde maghreb orient HD
+http://195.128.27.185:80/Blaine1/Blaine1/723345
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV5 MONDE ˢᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDE.png" group-title="FR | Général",|FR| TV5 MONDE ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723344
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|TV VENDÉE" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logotype_TV_vendée.png" group-title="FR | Général",|FR|TV VENDÉE
+http://195.128.27.185:80/Blaine1/Blaine1/723343
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MANDARIN TV HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/MANDARIN TV.png" group-title="FR | Général",|FR| MANDARIN TV HD
+http://195.128.27.185:80/Blaine1/Blaine1/723342
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TVM3 Full HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TVM3.png" group-title="FR | Général",|FR| TVM3 Full HD
+http://195.128.27.185:80/Blaine1/Blaine1/723341
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL ALPHA JU HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/canal_alpha_ju-2.png" group-title="FR | Général",|FR| CANAL ALPHA JU HD
+http://195.128.27.185:80/Blaine1/Blaine1/723340
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ROUGE TV Full HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ROUGETVTV.png" group-title="FR | Général",|FR| ROUGE TV Full HD
+http://195.128.27.185:80/Blaine1/Blaine1/723339
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MAISON & TRAVAUX TV HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/maison-et-travaux-tv(1).png" group-title="FR | Général",|FR| MAISON & TRAVAUX TV HD
+http://195.128.27.185:80/Blaine1/Blaine1/723338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 01 TV Full HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/01tv.png" group-title="FR | Général",|FR| 01 TV Full HD
+http://195.128.27.185:80/Blaine1/Blaine1/723337
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LYON CAPITALE TV" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/lyon-capitale-tv-1.png" group-title="FR | Général",|FR| LYON CAPITALE TV
+http://195.128.27.185:80/Blaine1/Blaine1/723336
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ANGERS TÉLÉ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/AngersTélé.png" group-title="FR | Général",|FR| ANGERS TÉLÉ
+http://195.128.27.185:80/Blaine1/Blaine1/723335
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL 21" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/21.png" group-title="FR | Général",|FR| CANAL 21
+http://195.128.27.185:80/Blaine1/Blaine1/723334
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV2COM" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV2COM.png" group-title="FR | Général",|FR| TV2COM
+http://195.128.27.185:80/Blaine1/Blaine1/723333
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MEN'S UP" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/MENSUP.png" group-title="FR | Général",|FR| MEN'S UP
+http://195.128.27.185:80/Blaine1/Blaine1/723332
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm alpes" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm alpes
+http://195.128.27.185:80/Blaine1/Blaine1/723331
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm alsace" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm alsace
+http://195.128.27.185:80/Blaine1/Blaine1/723330
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm grand lille" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm grand lille
+http://195.128.27.185:80/Blaine1/Blaine1/723329
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm grand littoral" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm grand littoral
+http://195.128.27.185:80/Blaine1/Blaine1/723328
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm haute provence" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm haute provence
+http://195.128.27.185:80/Blaine1/Blaine1/723327
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm lyon" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm lyon
+http://195.128.27.185:80/Blaine1/Blaine1/723326
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm marseille provence" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm marseille provence
+http://195.128.27.185:80/Blaine1/Blaine1/723325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm normandie" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm normandie
+http://195.128.27.185:80/Blaine1/Blaine1/723324
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Bfm paris" tvg-logo="https://m.media-amazon.com/images/I/51-U6hhTf1L.png" group-title="FR | Général",|FR| Bfm paris
+http://195.128.27.185:80/Blaine1/Blaine1/723323
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV7 Bordeaux" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV7_Bordeaux.png" group-title="FR | Général",|FR| TV7 Bordeaux
+http://195.128.27.185:80/Blaine1/Blaine1/723322
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TL7 Saint etienne" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/LOGO_TL7(1).png" group-title="FR | Général",|FR| TL7 Saint etienne
+http://195.128.27.185:80/Blaine1/Blaine1/723321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV5 Monde Maghreb HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDE.png" group-title="FR | Général",|FR| TV5 Monde Maghreb HD
+http://195.128.27.185:80/Blaine1/Blaine1/723320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| EuroNews HD" tvg-logo="http://138.199.27.237:8080/FRANCE/EURONEWS(FRENCH).png" group-title="FR | Général",|FR| EuroNews HD
+http://195.128.27.185:80/Blaine1/Blaine1/723319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FASHION TV ˢᴰ" tvg-logo="http://logodmtv.ddns.net/LOGO%20DREAMTV%204K/OSNFashionTVHD.png" group-title="FR | Général",|FR| FASHION TV ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LUCKY JACK ˢᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/LUCKY-JACK.jpg" group-title="FR | Général",|FR| LUCKY JACK ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TOP SANTÉ TV ˢᴰ" tvg-logo="https://www.skeelbox.com/wp-content/uploads/2014/12/topsante.png" group-title="FR | Général",|FR| TOP SANTÉ TV ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723316
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LCI HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5100.png" group-title="FR | Général",|FR| LCI HD
+http://195.128.27.185:80/Blaine1/Blaine1/723315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LCP Public Sénat HD" tvg-logo="http://138.199.27.237:8080/FRANCE/LCP.png" group-title="FR | Général",|FR| LCP Public Sénat HD
+http://195.128.27.185:80/Blaine1/Blaine1/723314
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LCP HD" tvg-logo="http://138.199.27.237:8080/FRANCE/LCP.png" group-title="FR | Général",|FR| LCP HD
+http://195.128.27.185:80/Blaine1/Blaine1/723313
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| LCP ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LCP.png" group-title="FR | Général",|FR| LCP ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV5  Style HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDESTYLE.png" group-title="FR | Général",|FR| TV5  Style HD
+http://195.128.27.185:80/Blaine1/Blaine1/723311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV5 MONDE HD" tvg-logo="http://138.199.27.237:8080/FRANCE/TV5MONDE.png" group-title="FR | Général",|FR| TV5 MONDE HD
+http://195.128.27.185:80/Blaine1/Blaine1/723310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TF1 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="FR | Général",|FR| TF1 HD
+http://195.128.27.185:80/Blaine1/Blaine1/723309
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 2" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="FR | Général",|FR| FRANCE 2
+http://195.128.27.185:80/Blaine1/Blaine1/723308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 3" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| FRANCE 3
+http://195.128.27.185:80/Blaine1/Blaine1/723307
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 4" tvg-logo="http://138.199.27.237:8080/0tv_logo/5054.png" group-title="FR | Général",|FR| FRANCE 4
+http://195.128.27.185:80/Blaine1/Blaine1/723306
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE 5" tvg-logo="http://138.199.27.237:8080/0tv_logo/5096.png" group-title="FR | Général",|FR| FRANCE 5
+http://195.128.27.185:80/Blaine1/Blaine1/723305
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 ALPES" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 ALPES
+http://195.128.27.185:80/Blaine1/Blaine1/723304
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 ALSACE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 ALSACE
+http://195.128.27.185:80/Blaine1/Blaine1/723303
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 AQUITAINE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 AQUITAINE
+http://195.128.27.185:80/Blaine1/Blaine1/723302
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 AUVERGNE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 AUVERGNE
+http://195.128.27.185:80/Blaine1/Blaine1/723301
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 BNORMANDIE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 BNORMANDIE
+http://195.128.27.185:80/Blaine1/Blaine1/723300
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 BOURGOGNE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 BOURGOGNE
+http://195.128.27.185:80/Blaine1/Blaine1/723299
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 BRETAGNE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 BRETAGNE
+http://195.128.27.185:80/Blaine1/Blaine1/723298
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 CENTRE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 CENTRE
+http://195.128.27.185:80/Blaine1/Blaine1/723297
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 COTE D'AZUR" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 COTE D'AZUR
+http://195.128.27.185:80/Blaine1/Blaine1/723296
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 CHAMP ARDENNE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 CHAMP ARDENNE
+http://195.128.27.185:80/Blaine1/Blaine1/723295
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 CORSEVIASTELLA" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 CORSEVIASTELLA
+http://195.128.27.185:80/Blaine1/Blaine1/723294
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 FRANCHE COMTE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 FRANCHE COMTE
+http://195.128.27.185:80/Blaine1/Blaine1/723293
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  F3 FRANCHE COMTE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCE3HD.png" group-title="FR | Général",|FR|  F3 FRANCHE COMTE ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723292
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 LANGUEDOCROU" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 LANGUEDOCROU
+http://195.128.27.185:80/Blaine1/Blaine1/723291
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 LIMOUSIN" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 LIMOUSIN
+http://195.128.27.185:80/Blaine1/Blaine1/723290
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 LORRAINE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 LORRAINE
+http://195.128.27.185:80/Blaine1/Blaine1/723289
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 MIDI PYRENEES" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 MIDI PYRENEES
+http://195.128.27.185:80/Blaine1/Blaine1/723288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 NORD PDC" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 NORD PDC
+http://195.128.27.185:80/Blaine1/Blaine1/723287
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 NORMANDIE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 NORMANDIE
+http://195.128.27.185:80/Blaine1/Blaine1/723286
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 PARIS IDF" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 PARIS IDF
+http://195.128.27.185:80/Blaine1/Blaine1/723285
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 PAYS DE LA LOIRE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 PAYS DE LA LOIRE
+http://195.128.27.185:80/Blaine1/Blaine1/723284
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 PICARDIE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 PICARDIE
+http://195.128.27.185:80/Blaine1/Blaine1/723283
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 POITOUCHAR" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 POITOUCHAR
+http://195.128.27.185:80/Blaine1/Blaine1/723282
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 PROV ALPES" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 PROV ALPES
+http://195.128.27.185:80/Blaine1/Blaine1/723281
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| F3 RHONE ALPES" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="FR | Général",|FR| F3 RHONE ALPES
+http://195.128.27.185:80/Blaine1/Blaine1/723280
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TFX" tvg-logo="http://138.199.27.237:8080/FRANCE/TFX.png" group-title="FR | Général",|FR| TFX
+http://195.128.27.185:80/Blaine1/Blaine1/723279
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| W9" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="FR | Général",|FR| W9
+http://195.128.27.185:80/Blaine1/Blaine1/723278
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| 6ter" tvg-logo="http://138.199.27.237:8080/0tv_logo/5089.png" group-title="FR | Général",|FR| 6ter
+http://195.128.27.185:80/Blaine1/Blaine1/723277
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TMC" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="FR | Général",|FR| TMC
+http://195.128.27.185:80/Blaine1/Blaine1/723276
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ARTE" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="FR | Général",|FR| ARTE
+http://195.128.27.185:80/Blaine1/Blaine1/723275
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| E ENTERTAINMENT" tvg-logo="http://138.199.27.237:8080/FRANCE/E!ENTERTAINMENTHD.png" group-title="FR | Général",|FR| E ENTERTAINMENT
+http://195.128.27.185:80/Blaine1/Blaine1/723274
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| E! ENTERTAINMENT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5067.png" group-title="FR | Général",|FR| E! ENTERTAINMENT ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| BFM DiCi HAUTE PROVENCE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5091.png" group-title="FR | Général",|FR| BFM DiCi HAUTE PROVENCE ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723272
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| HISTOIRE" tvg-logo="http://138.199.27.237:8080/FRANCE/HISTOIRE.png" group-title="FR | Général",|FR| HISTOIRE
+http://195.128.27.185:80/Blaine1/Blaine1/723271
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| EURONEWS ALL" tvg-logo="http://138.199.27.237:8080/FRANCE/EURONEWS(FRENCH).png" group-title="FR | Général",|FR| EURONEWS ALL
+http://195.128.27.185:80/Blaine1/Blaine1/723270
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NHK WORLD-JAPAN" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/NHK_World.png" group-title="FR | Général",|FR| NHK WORLD-JAPAN
+http://195.128.27.185:80/Blaine1/Blaine1/723269
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV8 MOSELLE" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV8MOSELLE.png" group-title="FR | Général",|FR| TV8 MOSELLE
+http://195.128.27.185:80/Blaine1/Blaine1/723268
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="| FR | Trace Sport Stars HD" tvg-logo="https://i.imgur.com/XLVAsqz.png" group-title="FR | Général",| FR | Trace Sport Stars HD
+http://195.128.27.185:80/Blaine1/Blaine1/723267
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| BBLACK CARIBBEAN" tvg-logo="http://138.199.27.237:8080/FRANCE/BBLACK.png" group-title="FR | Général",|FR| BBLACK CARIBBEAN
+http://195.128.27.185:80/Blaine1/Blaine1/723266
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NAUTICAL CHANNEL ˢᴰ" tvg-logo="http://138.199.27.237:8080/AMERICA/USA/NAUTICALCHANNEL.png" group-title="FR | Général",|FR| NAUTICAL CHANNEL ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723265
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ANTENNE REUNION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_antenne_reunion_hd.jpg" group-title="FR | Général",|FR| ANTENNE REUNION
+http://195.128.27.185:80/Blaine1/Blaine1/723264
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR|| SECRET STORY FHD" tvg-logo="https://images.pluto.tv/channels/62f216abc4a6540007d26b2e/colorLogoPNG.png" group-title="FR | Général",FR|| SECRET STORY FHD
+http://195.128.27.185:80/Blaine1/Blaine1/723263
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NRJ HITS" tvg-logo="http://138.199.27.237:8080/FRANCE/NRJHITS.png" group-title="FR | Général",|FR| NRJ HITS
+http://195.128.27.185:80/Blaine1/Blaine1/723262
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NRJ HITS TV ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NRJHITS.png" group-title="FR | Général",|FR| NRJ HITS TV ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723261
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| A+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/A+.png" group-title="FR | Général",|FR| A+ ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723260
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  A+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/A+.png" group-title="FR | Général",|FR|  A+ ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723259
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| A+ INTERNATIONAL ˢᴰ FR" tvg-logo="http://138.199.27.237:8080/FRANCE/A+.png" group-title="FR | Général",|FR| A+ INTERNATIONAL ˢᴰ FR
+http://195.128.27.185:80/Blaine1/Blaine1/723258
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| GRAND LILLE TV ˢᴰ" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/FRANCE%20TNT/grandlilletv.png" group-title="FR | Général",|FR| GRAND LILLE TV ˢᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| TV5 MONDE FBS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDE.png" group-title="FR | Général",|FR| TV5 MONDE FBS ᵁᴴᴰ
+http://195.128.27.185:80/Blaine1/Blaine1/723256
