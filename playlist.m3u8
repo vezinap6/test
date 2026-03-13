@@ -25,12 +25,20 @@ http://tv14s.xyz:8080/A1Jay5/362586/116947
 http://fortv.cc:8080/yhW1wX/013165/116947
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA-FR Super Ecran 1
 http://195.128.27.185:80/Blaine1/Blaine1/4008
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 1" tvg-logo="" group-title="General",CA (F) Super Ecran 1 (back)
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597727.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",CA-FR Super Ecran 2
 http://195.128.27.185:80/Blaine1/Blaine1/4006
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 2" tvg-logo="" group-title="General",CA (F) Super Ecran 2 (back)
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597728.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
 http://195.128.27.185:80/Blaine1/Blaine1/4005
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 3" tvg-logo="" group-title="General",CA (F) Super Ecran 3 (back)
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597729.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",CA-FR Super Ecran 4
 http://195.128.27.185:80/Blaine1/Blaine1/4004
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 4" tvg-logo="" group-title="General",CA (F) Super Ecran 4 (back)
+http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597730.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ HD" tvg-logo="https://lo1.in/ca/ztl.png" group-title="General",CA| (FR) ZTÉLÉ HD
 http://vpns365.xyz:80/0451933520/0364224542/50687
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Z Tele" tvg-logo="" group-title="General",CA (F) Z Tele 2
