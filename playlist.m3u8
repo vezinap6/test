@@ -24,19 +24,19 @@ http://tv14s.xyz:8080/A1Jay5/362586/116947
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie backup
 http://fortv.cc:8080/yhW1wX/013165/116947
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA-FR Super Ecran 1
-http://195.128.27.185:80/Blaine1/Blaine1/4008
+http://xxip9.top:8080/101961565/101961565/66363
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 1" tvg-logo="" group-title="General",CA (F) Super Ecran 1 (back)
 http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66363
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",CA-FR Super Ecran 2
 http://195.128.27.185:80/Blaine1/Blaine1/4006
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 2" tvg-logo="" group-title="General",CA (F) Super Ecran 2 (back)
-http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66364
+http://xxip9.top:8080/101961565/101961565/66364
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
-http://195.128.27.185:80/Blaine1/Blaine1/4005
+http://xxip9.top:8080/101961565/101961565/66365
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 3" tvg-logo="" group-title="General",CA (F) Super Ecran 3 (back)
 http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66365
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",CA-FR Super Ecran 4
-http://195.128.27.185:80/Blaine1/Blaine1/4004
+http://xxip9.top:8080/101961565/101961565/66366
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 4" tvg-logo="" group-title="General",CA (F) Super Ecran 4 (back)
 http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66366
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ HD" tvg-logo="https://lo1.in/ca/ztl.png" group-title="General",CA| (FR) ZTÉLÉ HD
@@ -109,7 +109,6 @@ http://fortv.cc:8080/Zk9hJ68/894658/57480
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",TVA Sports 2
 http://195.128.27.185:80/smaggard/2121/3906
-
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS
 http://xxip25.top:8080/pU3Mes/259845/57325
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",RDS - backup
@@ -120,6 +119,8 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
 http://cord-cutter.net:8080/wefarrow@comcast.net/cywt7KR782/57325
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 4
 http://195.128.27.185:80/Blaine1/Blaine1/4027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 5
+http://xxip9.top:8080/101961565/101961565/57325
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",RDS2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2
