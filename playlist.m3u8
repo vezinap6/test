@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
-http://fortv.cc:8080/Zk9hJ68/894658/126723
+http://195.128.27.185:80/smaggard/2121/4069
+#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) RDI (E)" tvg-logo="" group-title="General",,ICI RDI backup
+http://xxip9.top:8080/101961565/101961565/126723
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",Ici Radio-Canada Télé Mauricie/Centre-du-Québec
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA (FR) ICI Tele Mauricie 2
@@ -135,6 +137,7 @@ http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166427
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 #EXTINF:-1 group-title="General",Global Montreal HD
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
+
 
 
 
