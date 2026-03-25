@@ -16,7 +16,7 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",CA (FR) NOOVO (D)
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA (FR) NOOVO V-Tele" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Noovo_2020.svg/revision/latest/scale-to-width-down/78?cb=20220605171313" group-title="General",CA (FR) NOOVO 2
-http://195.128.27.185:80/Blaine1/Blaine1/4052
+http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/57501
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC
 http://vpns365.xyz:80/0451933520/0364224542/31413
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
@@ -123,6 +123,8 @@ http://cord-cutter.net:8080/wefarrow@comcast.net/cywt7KR782/57325
 http://195.128.27.185:80/Blaine1/Blaine1/4027
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 5
 http://xxip9.top:8080/101961565/101961565/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 6
+http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/57325
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",RDS2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2
@@ -131,6 +133,8 @@ http://fortv.cc:8080/yhW1wX/013165/47442
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup 2
 http://zerotwo.access.ly:2096/os3536/6918437205/815123
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup 3
+http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/47442
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
 #EXTINF:-1 tvg-id="" tvg-name="CA-FR: CTV Montreal (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/ctv.png" group-title="General",CTV Montreal
@@ -141,6 +145,9 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
 #EXTINF:-1 tvg-id="CityTvMontreal-CJNT.ca" tvg-name="CA: CITY MONTREAL" tvg-logo="" group-title="General",CA: CITY MONTREAL
 http://zerotwo.access.ly:2096/os3536/6918437205/761378
+
+
+
 
 
 
