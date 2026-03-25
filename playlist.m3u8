@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
 http://195.128.27.185:80/smaggard/2121/4069
-#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) RDI (E)" tvg-logo="" group-title="General",,ICI RDI backup
+#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) RDI (E)" tvg-logo="" group-title="General",ICI RDI backup
 http://xxip9.top:8080/101961565/101961565/126723
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",Ici Radio-Canada Télé Mauricie/Centre-du-Québec
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
@@ -129,15 +129,18 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 http://fortv.cc:8080/yhW1wX/013165/47442
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup 2
+http://zerotwo.access.ly:2096/os3536/6918437205/815123
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
 #EXTINF:-1 tvg-id="" tvg-name="CA-FR: CTV Montreal (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/ctv.png" group-title="General",CTV Montreal
-http://tv.diablotv.net:8080/josem9811/MssDVqFpsz/166427
+http://zerotwo.access.ly:2096/os3536/6918437205/761408
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",CBC Montreal HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 #EXTINF:-1 group-title="General",Global Montreal HD
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
-
+#EXTINF:-1 tvg-id="CityTvMontreal-CJNT.ca" tvg-name="CA: CITY MONTREAL" tvg-logo="" group-title="General",CA: CITY MONTREAL
+http://zerotwo.access.ly:2096/os3536/6918437205/761378
 
 
 
