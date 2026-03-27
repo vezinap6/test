@@ -3,10 +3,14 @@
 http://195.128.27.185:80/smaggard/2121/4069
 #EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) RDI (E)" tvg-logo="" group-title="General",ICI RDI backup
 http://xxip9.top:8080/101961565/101961565/126723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA (FR) ICI RDI HD
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4069
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",Ici Radio-Canada Télé Mauricie/Centre-du-Québec
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA (FR) ICI Tele Mauricie 2
 http://195.128.27.185:80/Blaine1/Blaine1/4062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA (FR) ICI Tele Mauricie HD
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4062
 #EXTINF:-1 group-title="General",ICI Tele Montreal HD
 http://xxip43.top:8080/TeM1zy/615083/57484
 #EXTINF:-1 group-title="General",ICI Tele Quebec HD
@@ -17,10 +21,14 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA (FR) NOOVO V-Tele" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Noovo_2020.svg/revision/latest/scale-to-width-down/78?cb=20220605171313" group-title="General",CA (FR) NOOVO 2
 http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/57501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",CA NOOVO V-Tele (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/3684
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC
 http://vpns365.xyz:80/0451933520/0364224542/31413
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
 http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/599406.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA (FR) TELE QUEBEC
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4047
 #EXTINF:-1 group-title="General", Canal Vie
 http://tv14s.xyz:8080/A1Jay5/362586/116947
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie backup
@@ -29,18 +37,26 @@ http://fortv.cc:8080/yhW1wX/013165/116947
 http://xxip9.top:8080/101961565/101961565/66363
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 1" tvg-logo="" group-title="General",CA (F) Super Ecran 1 (back)
 http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66363
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",CA-FR Super Ecran 2
+#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 1" tvg-logo="" group-title="General",CA (F) Super Ecran 1 (back 2)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",
+CA-FR Super Ecran 2
 http://195.128.27.185:80/Blaine1/Blaine1/4006
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 2" tvg-logo="" group-title="General",CA (F) Super Ecran 2 (back)
 http://xxip9.top:8080/101961565/101961565/66364
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",CA-FR Super Ecran 2
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4006
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
 http://xxip9.top:8080/101961565/101961565/66365
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 3" tvg-logo="" group-title="General",CA (F) Super Ecran 3 (back)
 http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4005
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",CA-FR Super Ecran 4
 http://xxip9.top:8080/101961565/101961565/66366
 #EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 4" tvg-logo="" group-title="General",CA (F) Super Ecran 4 (back)
 http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",CA-FR Super Ecran 4
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ HD" tvg-logo="https://lo1.in/ca/ztl.png" group-title="General",CA| (FR) ZTÉLÉ HD
 http://vpns365.xyz:80/0451933520/0364224542/50687
 #EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV HD" tvg-logo="https://lo1.in/ca/iciartv.png" group-title="General",CA| (FR) ICI ARTV HD
@@ -57,6 +73,8 @@ http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/168466
 http://195.128.27.185:80/smaggard/2121/4053
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",CA Unis_TV_(FR)
 http://195.128.27.185:80/smaggard/2121/4020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",CA Unis_TV_(FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4020
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frissonstv.ca" tvg-name="CA FRISSONS TV (FR)" tvg-logo="https://iptvboss.xyz/logos/Canada/FrissonsTV.ca.png" group-title="General",CA FRISSONS TV (FR)
 http://195.128.27.185:80/smaggard/2121/637807
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1708008.gif" group-title="General", TV5
@@ -107,6 +125,8 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
 http://xxip43.top:8080/derek@otto/derek@2023/57480
 #EXTINF:-1 group-title="General",Cine Pop backup
 http://fortv.cc:8080/Zk9hJ68/894658/57480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="max.ca" tvg-name="CA (FR) MAX" tvg-logo="http://xplatinmedia.com:8080/images/6d575b71a7e9246430bd4f66834b7ff0.png" group-title="General",CA (FR) MAX
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4053
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",TVA Sports 2
@@ -119,12 +139,14 @@ http://fortv.cc:8080/yhW1wX/013165/57387
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS - backup 3
 http://cord-cutter.net:8080/wefarrow@comcast.net/cywt7KR782/57325
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 4 non bloque
 http://195.128.27.185:80/Blaine1/Blaine1/4027
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 5
 http://xxip9.top:8080/101961565/101961565/57325
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 6
 http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 7
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4027
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",RDS2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2
@@ -200,7 +222,58 @@ http://195.128.27.185:80/smaggard/2121/644226
 http://195.128.27.185:80/smaggard/2121/644225
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 ASTERIX (FR)" tvg-logo="" group-title="FR | 24/7",24/7 ASTERIX (FR)
 http://195.128.27.185:80/smaggard/2121/644224
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 THE AVENGERS (FR)" tvg-logo="" group-title="FR | 24/7",24/7 THE AVENGERS (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644249
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 SUPERMAN (FR)" tvg-logo="" group-title="FR | 24/7",24/7 SUPERMAN (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644248
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 STAR WARS (FR)" tvg-logo="" group-title="FR | 24/7",24/7 STAR WARS (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644247
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 STAR TREK (FR)" tvg-logo="" group-title="FR | 24/7",24/7 STAR TREK (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644246
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 ROCKY (FR)" tvg-logo="" group-title="FR | 24/7",24/7 ROCKY (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644245
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 RAMBO (FR)" tvg-logo="" group-title="FR | 24/7",24/7 RAMBO (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644244
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 PREDATOR/ALIENS (FR)" tvg-logo="" group-title="FR | 24/7",24/7 PREDATOR/ALIENS (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 PIRATES OF THE CARIBBEAN (FR)" tvg-logo="" group-title="FR | 24/7",24/7 PIRATES OF THE CARIBBEAN (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644242
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 PASSE-PARTOUT (FR)" tvg-logo="" group-title="FR | 24/7",24/7 PASSE-PARTOUT (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644241
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 MARVEL (FR)" tvg-logo="" group-title="FR | 24/7",24/7 MARVEL (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644240
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 LORD OF THE RINGS (FR)" tvg-logo="" group-title="FR | 24/7",24/7 LORD OF THE RINGS (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644239
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 LETHAL WEAPON (FR)" tvg-logo="" group-title="FR | 24/7",24/7 LETHAL WEAPON (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644238
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 JURASSIC PARK (FR)" tvg-logo="" group-title="FR | 24/7",24/7 JURASSIC PARK (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644237
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 JCVD (FR)" tvg-logo="" group-title="FR | 24/7",24/7 JCVD (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644236
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 JAWS (FR)" tvg-logo="" group-title="FR | 24/7",24/7 JAWS (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644235
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 JASON BOURNE (FR)" tvg-logo="" group-title="FR | 24/7",24/7 JASON BOURNE (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644234
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 INDIANA JONES (FR)" tvg-logo="" group-title="FR | 24/7",24/7 INDIANA JONES (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644233
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 HARRY POTTER (FR)" tvg-logo="" group-title="FR | 24/7",24/7 HARRY POTTER (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644232
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 GENDARME DE SAINT-TOPEZ (FR)" tvg-logo="" group-title="FR | 24/7",24/7 GENDARME DE SAINT-TOPEZ (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644231
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 FAST & FURIOUS (FR)" tvg-logo="" group-title="FR | 24/7",24/7 FAST & FURIOUS (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644230
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 DISNEY FILMS (FR)" tvg-logo="" group-title="FR | 24/7",24/7 DISNEY FILMS (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644229
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 DIE HARD (FR)" tvg-logo="" group-title="FR | 24/7",24/7 DIE HARD (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644228
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 BRUCE LEE (FR)" tvg-logo="" group-title="FR | 24/7",24/7 BRUCE LEE (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644227
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 BLADE (FR)" tvg-logo="" group-title="FR | 24/7",24/7 BLADE (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644226
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 BATMAN (FR)" tvg-logo="" group-title="FR | 24/7",24/7 BATMAN (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644225
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 ASTERIX (FR)" tvg-logo="" group-title="FR | 24/7",24/7 ASTERIX (FR)
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/644224
 
 
 
