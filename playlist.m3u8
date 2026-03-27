@@ -127,38 +127,6 @@ http://xxip43.top:8080/derek@otto/derek@2023/57480
 http://fortv.cc:8080/Zk9hJ68/894658/57480
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="max.ca" tvg-name="CA (FR) MAX" tvg-logo="http://xplatinmedia.com:8080/images/6d575b71a7e9246430bd4f66834b7ff0.png" group-title="General",CA (FR) MAX
 http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4053
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",CA-FR | TVA SPORTS 1
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57498
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="General",TVA Sports 2
-http://195.128.27.185:80/smaggard/2121/3906
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS
-http://xxip25.top:8080/pU3Mes/259845/57325
-#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",RDS - backup
-http://fortv.cc:8080/yhW1wX/013165/57387
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS - backup 2
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="General",RDS - backup 3
-http://cord-cutter.net:8080/wefarrow@comcast.net/cywt7KR782/57325
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 4 non bloque
-http://195.128.27.185:80/Blaine1/Blaine1/4027
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 5
-http://xxip9.top:8080/101961565/101961565/57325
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 6
-http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/57325
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",CA RDS - backup 7
-http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4027
-#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="General",RDS2
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2
-http://fortv.cc:8080/yhW1wX/013165/47442
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup 2
-http://zerotwo.access.ly:2096/os3536/6918437205/815123
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="General",TSN 2 backup 3
-http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/47442
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="General",Sportsnet East HD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
 #EXTINF:-1 tvg-id="" tvg-name="CA-FR: CTV Montreal (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/ctv.png" group-title="General",CTV Montreal
 http://zerotwo.access.ly:2096/os3536/6918437205/761408
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",CBC Montreal HD
@@ -167,6 +135,53 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
 #EXTINF:-1 tvg-id="CityTvMontreal-CJNT.ca" tvg-name="CA: CITY MONTREAL" tvg-logo="" group-title="General",CA: CITY MONTREAL
 http://zerotwo.access.ly:2096/os3536/6918437205/761378
+
+
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvasports.ca" tvg-name="CA TVA Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TVA_Sports_N.svg/revision/latest/scale-to-width-down/78?cb=20220605183559" group-title="Hockey",CA TVA Sports
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/3907
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvasports2.ca" tvg-name="CA TVA Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a975.png" group-title="Hockey",CA TVA Sports 2
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/3906
+
+
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS
+http://xxip25.top:8080/pU3Mes/259845/57325
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Hockey",RDS - backup
+http://fortv.cc:8080/yhW1wX/013165/57387
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS - backup 2
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS - backup 3
+http://cord-cutter.net:8080/wefarrow@comcast.net/cywt7KR782/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",CA RDS - backup 4 non bloque
+http://195.128.27.185:80/Blaine1/Blaine1/4027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",CA RDS - backup 5
+http://xxip9.top:8080/101961565/101961565/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",CA RDS - backup 6
+http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",CA RDS - backup 7
+http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4027
+#EXTINF:-1 tvg-id="" tvg-name="CA Prime RDS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-ca.png" group-title="Hockey",RDS  - backup 8
+https://tv.extremeiptv.net/live/jason/jason/010a8590-9933-40d7-a0ff-35f02e66e9b7.m3u8
+
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",RDS2
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
+
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2
+http://fortv.cc:8080/yhW1wX/013165/47442
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2 backup
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/47442
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2 backup 2
+http://zerotwo.access.ly:2096/os3536/6918437205/815123
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2 backup 3
+http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/47442
+#EXTINF:-1 tvg-id="TSN2.ca12" tvg-name="CA: TSN 2 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a189.png" group-title="Hockey",CA: TSN 2 backup 4
+https://tv.extremeiptv.net/live/jason/jason/e3851e58-9955-4771-8bb8-f61ce40df46b.m3u8
+
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Hockey",Sportsnet East HD
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
 
 
 
