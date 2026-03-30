@@ -104,11 +104,11 @@ http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597722.ts
 http://195.128.27.185:80/Blaine1/Blaine1/4073
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="General",Zeste
 http://195.128.27.185:80/Blaine1/Blaine1/4000
-#EXTINF:-1 tvg-id="" tvg-name="CA Zeste (FR)" tvg-logo="" group-title="CANADA",Zeste 2
+#EXTINF:-1 tvg-id="" tvg-name="CA Zeste (FR)" tvg-logo="" group-title="Geneal",Zeste 2
 http://supersonictv.live:8080/Joe12345/Joe12345/22033
-#EXTINF:-1 tvg-id="CA: CASA" tvg-name="CA CASA (FR)" tvg-logo="" group-title="CANADA",CASA
+#EXTINF:-1 tvg-id="CA: CASA" tvg-name="CA CASA (FR)" tvg-logo="" group-title="General",CASA
 http://supersonictv.live:8080/Joe12345/Joe12345/21834
-#EXTINF:-1 tvg-id="" tvg-name="CA LCN (FR)" tvg-logo="" group-title="CANADA",LCN
+#EXTINF:-1 tvg-id="" tvg-name="CA LCN (FR)" tvg-logo="" group-title="General",LCN
 http://supersonictv.live:8080/Joe12345/Joe12345/21952
 #EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",Teletoon
 http://vpns365.xyz:80/0451933520/0364224542/31414
