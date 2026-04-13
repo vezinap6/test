@@ -1,132 +1,135 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
 http://195.128.27.185:80/smaggard/2121/4069
-#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) RDI (E)" tvg-logo="" group-title="General",ICI RDI 2
-http://xxip9.top:8080/101961565/101961565/126723
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI RDI 3
-http://panelguys.top:8080/25357976/33736197/126723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI RDI HD (2)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/1200px-ICI_RDI_logo.svg.png" group-title="General",ICI RDI (3)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/3717
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",ICI Tele Mauricie
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie (2)
 http://195.128.27.185:80/Blaine1/Blaine1/4062
-#EXTINF:-1 group-title="General",ICI Tele Montreal
-http://xxip43.top:8080/TeM1zy/615083/57484
-#EXTINF:-1 group-title="General",ICI Tele Quebec
-http://xxip43.top:8080/TeM1zy/615083/57493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="Canada | French",ICI Tele Mauricie (3)
+http://195.128.27.185:80/Blaine1/Blaine1/4062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie HD (4)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4062
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Montreal HD (D) " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="General",CA (FR) ICI Tele Montreal HD (D) 
+http://xxip43.top:8080/derek@otto/derek@2023/57484
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57501
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA (FR) NOOVO V-Tele" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Noovo_2020.svg/revision/latest/scale-to-width-down/78?cb=20220605171313" group-title="General",NOOVO 2
-http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/57501
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",NOOVO 3
-http://panelguys.top:8080/25357976/33736197/57501
-#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC
-http://vpns365.xyz:80/0451933520/0364224542/31413
+http://xxip43.top:8080/derek@otto/derek@2023/57501
+#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 2
+http://195.128.27.185:80/Blaine1/Blaine1/4003
+#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 3
+http://195.128.27.185:80/Blaine1/Blaine1/4022
+#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 4
+http://1tv41.icu:8080/7wXjYa/572894/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",TELE QUEBEC
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4047
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
 http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/599406.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",TELE QUEBEC 3
-http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4047
 #EXTINF:-1 group-title="General", Canal Vie
 http://tv14s.xyz:8080/A1Jay5/362586/116947
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie 2
 http://fortv.cc:8080/yhW1wX/013165/116947
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1
 http://xxip9.top:8080/101961565/101961565/66363
-#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 1" tvg-logo="" group-title="General",Super Ecran 1 (back)
-http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66363
-#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 1" tvg-logo="" group-title="General",Super Ecran 1 (back 2)
-http://panelguys.top:8080/25357976/33736197/66363
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (2)
+http://195.128.27.185:80/Blaine1/Blaine1/4008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (3)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4008
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2
-http://panelguys.top:8080/25357976/33736197/66364
-#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 2" tvg-logo="" group-title="General",Super Ecran 2 (back)
-http://xxip9.top:8080/101961565/101961565/66364
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2 (back 2)
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3
-http://xxip9.top:8080/101961565/101961565/66365
-#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 3" tvg-logo="" group-title="General",Super Ecran 3 (back)
-http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66365
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3 (back 2)
-http://panelguys.top:8080/25357976/33736197/66365
+http://195.128.27.185:80/Blaine1/Blaine1/4006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2 (2)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
+http://195.128.27.185:80/Blaine1/Blaine1/4005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3 (2)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4005
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4
-http://xxip9.top:8080/101961565/101961565/66366
-#EXTINF:-1 tvg-id="" tvg-name="CA (F) Super Ecran 4" tvg-logo="" group-title="General",Super Ecran 4 (back)
-http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/66366
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (back 2)
-http://panelguys.top:8080/25357976/33736197/66366
-
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ HD" tvg-logo="https://lo1.in/ca/ztl.png" group-title="General",ZTÉLÉ
-
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV HD" tvg-logo="https://lo1.in/ca/iciartv.png" group-title="General",ICI ARTV
-
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA HD" tvg-logo="https://lo1.in/ca/EXPLORA.png" group-title="General",ICI EXPLORA
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="max.ca" tvg-name="CA (FR) MAX" tvg-logo="http://xplatinmedia.com:8080/images/6d575b71a7e9246430bd4f66834b7ff0.png" group-title="General",MAX
-http://195.128.27.185:80/smaggard/2121/4053
-#EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="General",addikTV
-http://cord-cutter.net:8080/Gh6rj2BxVG/jUtxPd4JNP/168466
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV
-http://195.128.27.185:80/smaggard/2121/4020
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frissonstv.ca" tvg-name="CA FRISSONS TV (FR)" tvg-logo="https://iptvboss.xyz/logos/Canada/FrissonsTV.ca.png" group-title="General",FRISSONS TV
-http://195.128.27.185:80/smaggard/2121/637807
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1708008.gif" group-title="General", TV5
-http://cord-cutter.net:8080/k4Svp2/645504/57288?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="General",CA (FR) TV5 2
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57288
-#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
-https://tvpass.org/live/HGTVEast/hd
-#EXTINF:-1 group-title="General",Stingray DJAZZ
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="General",LCN (FR) CA
-http://erol-1978.gentv.to:8080/8gULQeqH3I/kbuahRdUJV/44256
-#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA (FR) CASA SD (P)" tvg-logo="" group-title="General",CASA
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/116948
-#EXTINF:-1 tvg-id="canald.ca" tvg-name="CA (FR) Canal D SD (P)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="General",Canal D
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
-#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="General",Historia
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
+http://195.128.27.185:80/Blaine1/Blaine1/4004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (2)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4004
 #EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",Evasion
 http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597722.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion (2)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4073
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion (3)
 http://195.128.27.185:80/Blaine1/Blaine1/4073
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="General",Zeste
 http://195.128.27.185:80/Blaine1/Blaine1/4000
-#EXTINF:-1 tvg-id="" tvg-name="CA Zeste (FR)" tvg-logo="" group-title="General",Zeste 2
-http://supersonictv.live:8080/Joe12345/Joe12345/22033
-#EXTINF:-1 tvg-id="CA: CASA" tvg-name="CA CASA (FR)" tvg-logo="" group-title="General",CASA
-http://supersonictv.live:8080/Joe12345/Joe12345/21834
-#EXTINF:-1 tvg-id="" tvg-name="CA LCN (FR)" tvg-logo="" group-title="General",LCN
-http://panelguys.top:8080/25357976/33736197/57968
-#EXTINF:-1 tvg-id="" tvg-name="CA Teletoon (FR)" tvg-logo="" group-title="General",Teletoon
-http://vpns365.xyz:80/0451933520/0364224542/31414
-#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",Investigation
-https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",MOI ET CIE
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
-#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA (FR) Prise  (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png" group-title="General",CA (FR) Prise 2
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
-#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="General",TFO
-http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="General",Zeste (2)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 #EXTINF:-1 group-title="General",Cine Pop
 http://xxip43.top:8080/derek@otto/derek@2023/57480
 #EXTINF:-1 group-title="General",Cine Pop 2
 http://fortv.cc:8080/Zk9hJ68/894658/57480
-#EXTINF:-1 tvg-id="" tvg-name="CA-FR: CTV Montreal (FR)(TV)" tvg-logo="http://logos.ti7an.net/logos/ENG_Canada/ctv.png" group-title="General",CTV Montreal
 
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV
+http://195.128.27.185:80/smaggard/2121/4020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV (2)
+http://195.128.27.185:80/Blaine1/Blaine1/4020
+#EXTINF:-1 tvg-id="canald.ca" tvg-name="CA (FR) Canal D SD (P)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="General",Canal D
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="General",Historia
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv5québec.ca" tvg-name="CA  (FR) TV5 Quebec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/langfr-150px-TV5_%28logo%29.svg.png" group-title="General",CA  (FR) TV5 Quebec
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4078
+#EXTINF:-1 tvg-id="" tvg-name="CA LCN (FR)" tvg-logo="" group-title="General",LCN
+http://panelguys.top:8080/25357976/33736197/57968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="addiktv.ca" tvg-name="CA Addik TV (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/2560px-Addik_TV.svg.png" group-title="General",CA Addik TV (FR)
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="max.ca" tvg-name="CA (FR) MAX" tvg-logo="http://xplatinmedia.com:8080/images/6d575b71a7e9246430bd4f66834b7ff0.png" group-title="General",MAX
+http://195.128.27.185:80/smaggard/2121/4053
+#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA (FR) Prise  (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png" group-title="General",CA (FR) Prise 2
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frissonstv.ca" tvg-name="CA FRISSONS TV (FR)" tvg-logo="https://iptvboss.xyz/logos/Canada/FrissonsTV.ca.png" group-title="General",FRISSONS TV
+http://195.128.27.185:80/smaggard/2121/637807
+#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="General",HGTV
+https://tvpass.org/live/HGTVEast/hd
+#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",Investigation
+https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="casatv.ca" tvg-name="CA-FR CASA" tvg-logo="http://xplatinmedia.com:8080/images/202447d5d44ce12531f7207cb33b6bf7.png" group-title="General",CA-FR CASA
+http://195.128.27.185:80/Blaine1/Blaine1/4017
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",MOI ET CIE
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="General",TFO
+http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="seriesplus.ca" tvg-name="CA-FR Series+" tvg-logo="http://xplatinmedia.com:8080/images/6e8f69dfdab0525302bc17f6faeaafdf.png" group-title="General",CA-FR Series+
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4010
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",CBC Montreal
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 #EXTINF:-1 group-title="General",Global Montreal HD
 http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
 #EXTINF:-1 tvg-id="CityTvMontreal-CJNT.ca" tvg-name="CA: CITY MONTREAL" tvg-logo="" group-title="General",CA: CITY MONTREAL
 http://zerotwo.access.ly:2096/os3536/6918437205/761378
+#EXTINF:-1 tvg-id="CTVMontreal-CFCF.ca" tvg-name="CA: CTV MONTREAL" tvg-logo="" group-title="General",CA: CTV MONTREAL
+http://hestiahestia.quicksytes.com:2096/JudyDammarell/4031876529/761408
+#EXTINF:-1 group-title="General",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png" group-title="General",Qello Concerts
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199/?X-Plex-Token=ED5d_NcUdFozALavLAQP
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Hockey",CA-FR | TVA SPORTS 1
 http://panelguys.top:8080/25357976/33736197/57498
+#EXTINF:-1 group-title="Hockey",CA-FR | TVA SPORTS 1 (2)
+http://xxip25.top:8080/5QdsNp/351122/57498
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Hockey",CA (FR) TVA Sports 2
 http://panelguys.top:8080/25357976/33736197/57337
+
+
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS
 http://xxip25.top:8080/pU3Mes/259845/57325
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Hockey",RDS - backup
@@ -147,14 +150,24 @@ http://proxpanel.pro:80/vhernandez48@yahoo.com/TYM3kMmqhZ/4027
 https://tv.extremeiptv.net/live/jason/jason/010a8590-9933-40d7-a0ff-35f02e66e9b7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CA RDS (FR)" tvg-logo="" group-title="Hockey",CA RDS 9
 http://supersonictv.live:8080/Joe12345/Joe12345/21983
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Canada French",RDS 10
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS 10
 http://panelguys.top:8080/25357976/33736197/57325
+#EXTINF:-1 group-title="Hockey",RDS 11
+http://1tv41.icu:8080/7wXjYa/572894/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://e7.pngegg.com/pngimages/69/459/png-clipart-reseau-des-sports-montreal-canadiens-logo-rds2-others-text-sport.png" group-title="Hockey",RDS 12
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/3667
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",RDS 13
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4027
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CA RDS 2 (FR)" tvg-logo="" group-title="Hockey",CA RDS 2 (FR)
 http://supersonictv.live:8080/Joe12345/Joe12345/21984
 #EXTINF:-1 tvg-id="" tvg-name="CA RDS INFO (FR)" tvg-logo="" group-title="Hockey",CA RDS INFO (FR)
 http://supersonictv.live:8080/Joe12345/Joe12345/21985
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",RDS2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
+
+
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2
 http://fortv.cc:8080/yhW1wX/013165/47442
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2 backup
@@ -165,8 +178,13 @@ http://zerotwo.access.ly:2096/os3536/6918437205/815123
 http://xxip9.top:8080/buttertvroyale3/JDgdK7Ug5v/47442
 #EXTINF:-1 tvg-id="TSN2.ca12" tvg-name="CA: TSN 2 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a189.png" group-title="Hockey",CA: TSN 2 backup 4
 https://tv.extremeiptv.net/live/jason/jason/e3851e58-9955-4771-8bb8-f61ce40df46b.m3u8
+#EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="Hockey",TSN2 backup 5
+https://xemzi.short.gy/6000002
+
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Hockey",Sportsnet East HD
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
+#EXTINF:-1  tvg-name="Sportsnet (East) SD" tvg-id="sportsnet-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sne-ca.png?raw=true" group-title="Hockey",Sportsnet (East) SD
+https://tvpass.org/live/sportsnet-east/sd
 
 
 
@@ -179,17 +197,13 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
 https://jmp2.uk/plu-62f3e4bc08f5ec000744f552.m3u8
 #EXTINF:-1 channel-id="60afaa535580be0007ac9ee4-fr" tvg-id="60afaa535580be0007ac9ee4-fr" tvg-logo="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/colorLogoPNG.png" group-title="PlutoTV - France",Alerte Ã  Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
-#EXTINF:-1 channel-id="6618e3037bcd8600089b62a8-fr" tvg-id="6618e3037bcd8600089b62a8-fr" tvg-logo="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/colorLogoPNG.png" group-title="PlutoTV - France",AllocinÃ©
+#EXTINF:-1 channel-id="6618e3037bcd8600089b62a8-fr" tvg-id="6618e3037bcd8600089b62a8-fr" tvg-logo="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/colorLogoPNG.png" group-title="PlutoTV - France",Allociné
 https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
-#EXTINF:-1 channel-id="686e7499e0ecf0e0cc25dbe3-fr" tvg-id="686e7499e0ecf0e0cc25dbe3-fr" tvg-logo="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/colorLogoPNG_1765805978819.png" group-title="PlutoTV - France",Barbie & Friends
-https://jmp2.uk/plu-686e7499e0ecf0e0cc25dbe3.m3u8
 #EXTINF:-1 channel-id="60d35a74c63c3c0008df6a90-fr" tvg-id="60d35a74c63c3c0008df6a90-fr" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG_1771579997925.png" group-title="PlutoTV - France",BBC Series
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
-#EXTINF:-1 channel-id="664c8ba33d173b00080ef0c8-fr" tvg-id="664c8ba33d173b00080ef0c8-fr" tvg-logo="https://images.pluto.tv/channels/664c8ba33d173b00080ef0c8/colorLogoPNG.png" group-title="PlutoTV - France",Beyblade
-https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
 #EXTINF:-1 channel-id="66f55a9a747bfa0008521859-fr" tvg-id="66f55a9a747bfa0008521859-fr" tvg-logo="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png" group-title="PlutoTV - France",Blue Bloods
 https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
-#EXTINF:-1 channel-id="5ffc8c345822750007e167de-fr" tvg-id="5ffc8c345822750007e167de-fr" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="PlutoTV - France",Bob l'Ã©ponge
+#EXTINF:-1 channel-id="5ffc8c345822750007e167de-fr" tvg-id="5ffc8c345822750007e167de-fr" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="PlutoTV - France",Bob l'éponge
 https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
 #EXTINF:-1 channel-id="5f8eb66537867f0007146953-fr" tvg-id="5f8eb66537867f0007146953-fr" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="PlutoTV - France",CATFISH TV
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
@@ -197,31 +211,29 @@ https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8
 #EXTINF:-1 channel-id="63b579961bdba100071214cb-fr" tvg-id="63b579961bdba100071214cb-fr" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" group-title="PlutoTV - France",C'est pas sorcier
 https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
-#EXTINF:-1 channel-id="60dc6937b450ad0007377e48-fr" tvg-id="60dc6937b450ad0007377e48-fr" tvg-logo="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png" group-title="PlutoTV - France",Charlotte aux Fraises
-https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
 #EXTINF:-1 channel-id="65cce14060eb870008dbd003-fr" tvg-id="65cce14060eb870008dbd003-fr" tvg-logo="https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png" group-title="PlutoTV - France",Cheers
 https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
-#EXTINF:-1 channel-id="6823648580b2665220d9e69a-fr" tvg-id="6823648580b2665220d9e69a-fr" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="PlutoTV - France",CinÃ© 666 by Pluto TV
+#EXTINF:-1 channel-id="6823648580b2665220d9e69a-fr" tvg-id="6823648580b2665220d9e69a-fr" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="PlutoTV - France",Ciné 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
-#EXTINF:-1 channel-id="5f8ed1ff5c39700007e2204a-fr" tvg-id="5f8ed1ff5c39700007e2204a-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="PlutoTV - France",CinÃ© Action by Pluto TV
+#EXTINF:-1 channel-id="5f8ed1ff5c39700007e2204a-fr" tvg-id="5f8ed1ff5c39700007e2204a-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="PlutoTV - France",Ciné Action by Pluto TV
 https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
-#EXTINF:-1 channel-id="5f8ed0f17564a300082b676a-fr" tvg-id="5f8ed0f17564a300082b676a-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="PlutoTV - France",CinÃ© by Pluto TV
+#EXTINF:-1 channel-id="5f8ed0f17564a300082b676a-fr" tvg-id="5f8ed0f17564a300082b676a-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="PlutoTV - France",Ciné by Pluto TV
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
-#EXTINF:-1 channel-id="65a69ef53af63d000825e0ee-fr" tvg-id="65a69ef53af63d000825e0ee-fr" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="PlutoTV - France",CinÃ© Catastrophe by Pluto TV
+#EXTINF:-1 channel-id="65a69ef53af63d000825e0ee-fr" tvg-id="65a69ef53af63d000825e0ee-fr" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="PlutoTV - France",Ciné Catastrophe by Pluto TV
 https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
-#EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc-fr" tvg-id="62f3e2d000418d00070f7dbc-fr" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="PlutoTV - France",CinÃ© d'Asie by Pluto TV
+#EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc-fr" tvg-id="62f3e2d000418d00070f7dbc-fr" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="PlutoTV - France",Ciné d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
-#EXTINF:-1 channel-id="66e1978babec540008ce41ac-fr" tvg-id="66e1978babec540008ce41ac-fr" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="PlutoTV - France",CinÃ© Horreur by Pluto TV
+#EXTINF:-1 channel-id="66e1978babec540008ce41ac-fr" tvg-id="66e1978babec540008ce41ac-fr" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="PlutoTV - France",Ciné Horreur by Pluto TV
 https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
-#EXTINF:-1 channel-id="60812fc8539963000707d1e1-fr" tvg-id="60812fc8539963000707d1e1-fr" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" group-title="PlutoTV - France",CinÃ© Romance by Pluto TV
+#EXTINF:-1 channel-id="60812fc8539963000707d1e1-fr" tvg-id="60812fc8539963000707d1e1-fr" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" group-title="PlutoTV - France",Ciné Romance by Pluto TV
 https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-#EXTINF:-1 channel-id="5f8ed168f72fcd0007e56269-fr" tvg-id="5f8ed168f72fcd0007e56269-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="PlutoTV - France",CinÃ© RÃ©tro by Pluto TV
+#EXTINF:-1 channel-id="5f8ed168f72fcd0007e56269-fr" tvg-id="5f8ed168f72fcd0007e56269-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="PlutoTV - France",Ciné Rétro by Pluto TV
 https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
-#EXTINF:-1 channel-id="60c34592c911890007f29a73-fr" tvg-id="60c34592c911890007f29a73-fr" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="PlutoTV - France",CinÃ© Sci-Fi by Pluto TV
+#EXTINF:-1 channel-id="60c34592c911890007f29a73-fr" tvg-id="60c34592c911890007f29a73-fr" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="PlutoTV - France",Ciné Sci-Fi by Pluto TV
 https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
-#EXTINF:-1 channel-id="60c3472a51a2050008dad272-fr" tvg-id="60c3472a51a2050008dad272-fr" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" group-title="PlutoTV - France",CinÃ© Thrillers by Pluto TV
+#EXTINF:-1 channel-id="60c3472a51a2050008dad272-fr" tvg-id="60c3472a51a2050008dad272-fr" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" group-title="PlutoTV - France",Ciné Thrillers by Pluto TV
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
-#EXTINF:-1 channel-id="65cca3e2ec452d0008af3a65-fr" tvg-id="65cca3e2ec452d0008af3a65-fr" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="PlutoTV - France",CinÃ© Western by Pluto TV
+#EXTINF:-1 channel-id="65cca3e2ec452d0008af3a65-fr" tvg-id="65cca3e2ec452d0008af3a65-fr" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="PlutoTV - France",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 channel-id="66c45b36a72e7b0008a2b291-fr" tvg-id="66c45b36a72e7b0008a2b291-fr" tvg-logo="https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/colorLogoPNG_1775159909058.png" group-title="PlutoTV - France",CNN Headlines International
 https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8
@@ -233,25 +245,19 @@ https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 channel-id="611e71322f5f180007001dde-fr" tvg-id="611e71322f5f180007001dde-fr" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png" group-title="PlutoTV - France",Degrassi
 https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
-#EXTINF:-1 channel-id="62f3e8ad2a8e8000077b013d-fr" tvg-id="62f3e8ad2a8e8000077b013d-fr" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG-1745586573083.png" group-title="PlutoTV - France",Detective Conan
-https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 channel-id="617bae1d69bca3000729561e-fr" tvg-id="617bae1d69bca3000729561e-fr" tvg-logo="https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png" group-title="PlutoTV - France",Digimon Adventure
-https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8
-#EXTINF:-1 channel-id="68b17414c23bb80b3c1d5bb5-fr" tvg-id="68b17414c23bb80b3c1d5bb5-fr" tvg-logo="https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/colorLogoPNG_1760606450398.png" group-title="PlutoTV - France",Doraemon
-https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8
 #EXTINF:-1 channel-id="5f8edad922b10b000753bc37-fr" tvg-id="5f8edad922b10b000753bc37-fr" tvg-logo="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png" group-title="PlutoTV - France",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
-#EXTINF:-1 channel-id="63b578b524f0cf00072f2a52-fr" tvg-id="63b578b524f0cf00072f2a52-fr" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" group-title="PlutoTV - France",EchappÃ©es Belles & Co
+#EXTINF:-1 channel-id="63b578b524f0cf00072f2a52-fr" tvg-id="63b578b524f0cf00072f2a52-fr" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" group-title="PlutoTV - France",Echappées Belles & Co
 https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
-#EXTINF:-1 channel-id="66f55d0b5e4a6e0008c2b920-fr" tvg-id="66f55d0b5e4a6e0008c2b920-fr" tvg-logo="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/colorLogoPNG.png" group-title="PlutoTV - France",EnquÃªtes Criminelles
+#EXTINF:-1 channel-id="66f55d0b5e4a6e0008c2b920-fr" tvg-id="66f55d0b5e4a6e0008c2b920-fr" tvg-logo="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/colorLogoPNG.png" group-title="PlutoTV - France",Enquètes Criminelles
 https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8
-#EXTINF:-1 channel-id="63921a1bf76e7d0007c998a6-fr" tvg-id="63921a1bf76e7d0007c998a6-fr" tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" group-title="PlutoTV - France",EnquÃªtes de Choc
+#EXTINF:-1 channel-id="63921a1bf76e7d0007c998a6-fr" tvg-id="63921a1bf76e7d0007c998a6-fr" tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" group-title="PlutoTV - France",Enquètes de Choc
 https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8
 #EXTINF:-1 channel-id="60d35bcaf1ff4a00078af0a6-fr" tvg-id="60d35bcaf1ff4a00078af0a6-fr" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" group-title="PlutoTV - France",Euronews
 https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
 #EXTINF:-1 channel-id="5f8ecd9169d2d4000864a974-fr" tvg-id="5f8ecd9169d2d4000864a974-fr" tvg-logo="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png" group-title="PlutoTV - France",FailArmy
 https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8
-#EXTINF:-1 channel-id="662a622b5e2370000800f392-fr" tvg-id="662a622b5e2370000800f392-fr" tvg-logo="https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG_1775550450554.png" group-title="PlutoTV - France",Faites entrer l'accusÃ©
+#EXTINF:-1 channel-id="662a622b5e2370000800f392-fr" tvg-id="662a622b5e2370000800f392-fr" tvg-logo="https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG_1775550450554.png" group-title="PlutoTV - France",Faites entrer l'accusé
 https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
 #EXTINF:-1 channel-id="64c9260ac0222700089ee62b-fr" tvg-id="64c9260ac0222700089ee62b-fr" tvg-logo="https://images.pluto.tv/channels/64c9260ac0222700089ee62b/colorLogoPNG.png" group-title="PlutoTV - France",Family Club
 https://jmp2.uk/plu-64c9260ac0222700089ee62b.m3u8
@@ -263,9 +269,9 @@ https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8
 https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
 #EXTINF:-1 channel-id="68d292d554c61bfff220a635-fr" tvg-id="68d292d554c61bfff220a635-fr" tvg-logo="https://images.pluto.tv/channels/68d292d554c61bfff220a635/colorLogoPNG_1761761926608.png" group-title="PlutoTV - France",Flynn Carson et The Outpost
 https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8
-#EXTINF:-1 channel-id="60afb203ec391c00070ea1bf-fr" tvg-id="60afb203ec391c00070ea1bf-fr" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="PlutoTV - France",GÃ©nÃ©ration Sitcoms
+#EXTINF:-1 channel-id="60afb203ec391c00070ea1bf-fr" tvg-id="60afb203ec391c00070ea1bf-fr" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="PlutoTV - France",Génération Sitcoms
 https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
-#EXTINF:-1 channel-id="604f8de01b479400078fb1e7-fr" tvg-id="604f8de01b479400078fb1e7-fr" tvg-logo="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png" group-title="PlutoTV - France",HÃ©lÃ¨ne et les garÃ§ons
+#EXTINF:-1 channel-id="604f8de01b479400078fb1e7-fr" tvg-id="604f8de01b479400078fb1e7-fr" tvg-logo="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png" group-title="PlutoTV - France",Hélène et les garÃ§ons
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1 channel-id="63921a3d00c96100082a3cb4-fr" tvg-id="63921a3d00c96100082a3cb4-fr" tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" group-title="PlutoTV - France",Homicide
 https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
@@ -293,9 +299,9 @@ https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 #EXTINF:-1 channel-id="66b228d4cd0d3100085d27b7-fr" tvg-id="66b228d4cd0d3100085d27b7-fr" tvg-logo="https://images.pluto.tv/channels/66b228d4cd0d3100085d27b7/colorLogoPNG_1731835601654.png" group-title="PlutoTV - France",Les Anges
 https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
-#EXTINF:-1 channel-id="60afae68a7fc50000737186d-fr" tvg-id="60afae68a7fc50000737186d-fr" tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png" group-title="PlutoTV - France",Les AnnÃ©es fac
+#EXTINF:-1 channel-id="60afae68a7fc50000737186d-fr" tvg-id="60afae68a7fc50000737186d-fr" tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png" group-title="PlutoTV - France",Les Années fac
 https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
-#EXTINF:-1 channel-id="60549d97cd7b090007c73314-fr" tvg-id="60549d97cd7b090007c73314-fr" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" group-title="PlutoTV - France",Les filles d'Ã  cÃ´tÃ©
+#EXTINF:-1 channel-id="60549d97cd7b090007c73314-fr" tvg-id="60549d97cd7b090007c73314-fr" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" group-title="PlutoTV - France",Les filles d'à côté
 https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
 #EXTINF:-1 channel-id="66f55d565e4a6e0008c2b9d2-fr" tvg-id="66f55d565e4a6e0008c2b9d2-fr" tvg-logo="https://images.pluto.tv/channels/66f55d565e4a6e0008c2b9d2/colorLogoPNG.png" group-title="PlutoTV - France",Les Marseillais
 https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8
@@ -313,9 +319,7 @@ https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 #EXTINF:-1 channel-id="6245ccd0c6cdb800074632e4-fr" tvg-id="6245ccd0c6cdb800074632e4-fr" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="PlutoTV - France",MacGyver
 https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
-#EXTINF:-1 channel-id="686e74b0e48af72bc266e798-fr" tvg-id="686e74b0e48af72bc266e798-fr" tvg-logo="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/colorLogoPNG_1765806081318.png" group-title="PlutoTV - France",Mattel Junior
-https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8
-#EXTINF:-1 channel-id="686e74c777ed3360cb6908bf-fr" tvg-id="686e74c777ed3360cb6908bf-fr" tvg-logo="https://images.pluto.tv/channels/686e74c777ed3360cb6908bf/colorLogoPNG_1763054802465.png" group-title="PlutoTV - France",Mayday: Catastrophe AÃ©rienne
+#EXTINF:-1 channel-id="686e74c777ed3360cb6908bf-fr" tvg-id="686e74c777ed3360cb6908bf-fr" tvg-logo="https://images.pluto.tv/channels/686e74c777ed3360cb6908bf/colorLogoPNG_1763054802465.png" group-title="PlutoTV - France",Mayday: Catastrophe Aérienne
 https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8
 #EXTINF:-1 channel-id="6671b21ffc3a46000857fe75-fr" tvg-id="6671b21ffc3a46000857fe75-fr" tvg-logo="https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/colorLogoPNG.png" group-title="PlutoTV - France",Mission Impossible
 https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
@@ -333,7 +337,7 @@ https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
 https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
 #EXTINF:-1 channel-id="6380c94947c72b0007ee9a13-fr" tvg-id="6380c94947c72b0007ee9a13-fr" tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG_1765795729899.png" group-title="PlutoTV - France",One Piece
 https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
-#EXTINF:-1 channel-id="678f894ef5c74bff95c20a7f-fr" tvg-id="678f894ef5c74bff95c20a7f-fr" tvg-logo="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png" group-title="PlutoTV - France",PÃªche Ã  haut risque
+#EXTINF:-1 channel-id="678f894ef5c74bff95c20a7f-fr" tvg-id="678f894ef5c74bff95c20a7f-fr" tvg-logo="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png" group-title="PlutoTV - France",Pêche a  haut risque
 https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
 #EXTINF:-1 channel-id="662a6309307fa30008196b4e-fr" tvg-id="662a6309307fa30008196b4e-fr" tvg-logo="https://images.pluto.tv/channels/662a6309307fa30008196b4e/colorLogoPNG.png" group-title="PlutoTV - France",Plus Belle la Vie 2
 https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
@@ -347,9 +351,9 @@ https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 #EXTINF:-1 channel-id="684bf01df7d8b74b625b7dd1-fr" tvg-id="684bf01df7d8b74b625b7dd1-fr" tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png" group-title="PlutoTV - France",Pluto TV Brigade Criminelle
 https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
-#EXTINF:-1 channel-id="5f8eb91bb9b9e7000817e67f-fr" tvg-id="5f8eb91bb9b9e7000817e67f-fr" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV ComÃ©die
+#EXTINF:-1 channel-id="5f8eb91bb9b9e7000817e67f-fr" tvg-id="5f8eb91bb9b9e7000817e67f-fr" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV Comédie
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
-#EXTINF:-1 channel-id="67b4b2d976a934282e92d71c-fr" tvg-id="67b4b2d976a934282e92d71c-fr" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV ComÃ©dies Cultes
+#EXTINF:-1 channel-id="67b4b2d976a934282e92d71c-fr" tvg-id="67b4b2d976a934282e92d71c-fr" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV Comédies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 #EXTINF:-1 channel-id="5f8ed48146ba9e00078424b6-fr" tvg-id="5f8ed48146ba9e00078424b6-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" group-title="PlutoTV - France",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
@@ -361,12 +365,6 @@ https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 #EXTINF:-1 channel-id="5f8ed3892ed7bb000741a1d2-fr" tvg-id="5f8ed3892ed7bb000741a1d2-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV Inside
 https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
-#EXTINF:-1 channel-id="5f8ecb336537e8000764a17f-fr" tvg-id="5f8ecb336537e8000764a17f-fr" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG_1748328452590.png" group-title="PlutoTV - France",Pluto TV Junior
-https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
-#EXTINF:-1 channel-id="654a58dbf9cc82000868f0fb-fr" tvg-id="654a58dbf9cc82000868f0fb-fr" tvg-logo="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/colorLogoPNG_1750151456889.png" group-title="PlutoTV - France",Pluto TV Kids Classics
-https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
-#EXTINF:-1 channel-id="611e6ddc7fcd580007d1eb5f-fr" tvg-id="611e6ddc7fcd580007d1eb5f-fr" tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png" group-title="PlutoTV - France",Pluto TV Kids Club
-https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 #EXTINF:-1 channel-id="5f8ed9461b35690007a0bc3a-fr" tvg-id="5f8ed9461b35690007a0bc3a-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV Paranormal
 https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
 #EXTINF:-1 channel-id="5f8ed4dbf6bb0800071ffbcb-fr" tvg-id="5f8ed4dbf6bb0800071ffbcb-fr" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV Polar
@@ -375,9 +373,7 @@ https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
 #EXTINF:-1 channel-id="611e6a9b4bb5790007a6f0f8-fr" tvg-id="611e6a9b4bb5790007a6f0f8-fr" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="PlutoTV - France",Pluto TV Retro Toons
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
-#EXTINF:-1 channel-id="66fd35e44ca31f0008060b77-fr" tvg-id="66fd35e44ca31f0008060b77-fr" tvg-logo="https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/colorLogoPNG_1762954633607.png" group-title="PlutoTV - France",Pluto TV Snooker 900
-https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
-#EXTINF:-1 channel-id="625ec7a1c853fd00073b38fd-fr" tvg-id="625ec7a1c853fd00073b38fd-fr" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png" group-title="PlutoTV - France",Pluto TV SÃ©ries Fantastiques
+#EXTINF:-1 channel-id="625ec7a1c853fd00073b38fd-fr" tvg-id="625ec7a1c853fd00073b38fd-fr" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png" group-title="PlutoTV - France",Pluto TV Séries Fantastiques
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1 channel-id="652557d93fd33c000802f995-fr" tvg-id="652557d93fd33c000802f995-fr" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png" group-title="PlutoTV - France",Pluto TV Super Kids
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
@@ -399,9 +395,7 @@ https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
 #EXTINF:-1 channel-id="64c1093824ade50008bd117f-fr" tvg-id="64c1093824ade50008bd117f-fr" tvg-logo="https://images.pluto.tv/channels/64c1093824ade50008bd117f/colorLogoPNG_1760622787145.png" group-title="PlutoTV - France",Top Gear
 https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
-#EXTINF:-1 channel-id="5f8ecc1b37867f00071469e9-fr" tvg-id="5f8ecc1b37867f00071469e9-fr" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" group-title="PlutoTV - France",Tortues Ninja TV
-https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-#EXTINF:-1 channel-id="67b4b4a21a5ca760802d25fd-fr" tvg-id="67b4b4a21a5ca760802d25fd-fr" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="PlutoTV - France",Tout le monde dÃ©teste Chris
+#EXTINF:-1 channel-id="67b4b4a21a5ca760802d25fd-fr" tvg-id="67b4b4a21a5ca760802d25fd-fr" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="PlutoTV - France",Tout le monde déteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 #EXTINF:-1 channel-id="5f914f4b36d67d0007a91a04-fr" tvg-id="5f914f4b36d67d0007a91a04-fr" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="PlutoTV - France",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
@@ -415,7 +409,7 @@ https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
 https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
 #EXTINF:-1 channel-id="6304f2e2eb10450007298023-fr" tvg-id="6304f2e2eb10450007298023-fr" tvg-logo="https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png" group-title="PlutoTV - France",Un Village FranÃ§ais
 https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
-#EXTINF:-1 channel-id="64bab8ba5dc1660008969b5a-fr" tvg-id="64bab8ba5dc1660008969b5a-fr" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" group-title="PlutoTV - France",AdjugÃ©, vendu !
+#EXTINF:-1 channel-id="64bab8ba5dc1660008969b5a-fr" tvg-id="64bab8ba5dc1660008969b5a-fr" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" group-title="PlutoTV - France",Adjugé, vendu !
 https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8
 #EXTINF:-1 channel-id="680291e38e1ff89c2427aefd-fr" tvg-id="680291e38e1ff89c2427aefd-fr" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="PlutoTV - France",Voyages & Saveurs
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
@@ -425,12 +419,8 @@ https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
 https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 channel-id="5f8ecfb9db6c180007a6d1b0-fr" tvg-id="5f8ecfb9db6c180007a6d1b0-fr" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="PlutoTV - France",WPT
 https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
-#EXTINF:-1 channel-id="612e044c970e6f00083bcf3b-fr" tvg-id="612e044c970e6f00083bcf3b-fr" tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" group-title="PlutoTV - France",Y'a que la vÃ©ritÃ© qui compte
+#EXTINF:-1 channel-id="612e044c970e6f00083bcf3b-fr" tvg-id="612e044c970e6f00083bcf3b-fr" tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" group-title="PlutoTV - France",Y'a que la vérité qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
-#EXTINF:-1 channel-id="6130d9c712c2b000070abb50-fr" tvg-id="6130d9c712c2b000070abb50-fr" tvg-logo="https://images.pluto.tv/channels/6130d9c712c2b000070abb50/colorLogoPNG.png" group-title="PlutoTV - France",Yu-Gi-Oh!
-https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
-#EXTINF:-1 channel-id="66b227b446762a000846c208-fr" tvg-id="66b227b446762a000846c208-fr" tvg-logo="https://images.pluto.tv/channels/66b227b446762a000846c208/colorLogoPNG.png" group-title="PlutoTV - France",Z Nation
-https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
 #EXTINF:-1 channel-id="66f55cf2483d460008f68746-fr" tvg-id="66f55cf2483d460008f68746-fr" tvg-logo="https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png" group-title="PlutoTV - France",Zone Interdite
 https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
 
