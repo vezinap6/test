@@ -22,8 +22,6 @@ http://xxip43.top:8080/derek@otto/derek@2023/57501
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 2
 http://195.128.27.185:80/Blaine1/Blaine1/4003
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 3
-http://195.128.27.185:80/Blaine1/Blaine1/4022
-#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 4
 http://1tv41.icu:8080/7wXjYa/572894/57325
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",TELE QUEBEC
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4047
@@ -67,8 +65,6 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 http://xxip43.top:8080/derek@otto/derek@2023/57480
 #EXTINF:-1 group-title="General",Cine Pop 2
 http://fortv.cc:8080/Zk9hJ68/894658/57480
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV
 http://195.128.27.185:80/smaggard/2121/4020
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV (2)
@@ -115,6 +111,9 @@ http://hestiahestia.quicksytes.com:2096/JudyDammarell/4031876529/761408
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png" group-title="General",Qello Concerts
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199/?X-Plex-Token=ED5d_NcUdFozALavLAQP
+
+
+
 
 
 
