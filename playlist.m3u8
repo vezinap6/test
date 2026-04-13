@@ -9,7 +9,7 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/3717
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie (2)
 http://195.128.27.185:80/Blaine1/Blaine1/4062
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="Canada | French",ICI Tele Mauricie (3)
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie (3)
 http://195.128.27.185:80/Blaine1/Blaine1/4062
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie HD (4)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4062
