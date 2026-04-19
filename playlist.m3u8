@@ -117,18 +117,111 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c19
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
 #EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Hockey",CA-FR | TVA SPORTS 1
 http://panelguys.top:8080/25357976/33736197/57498
-#EXTINF:-1 group-title="Hockey",CA-FR | TVA SPORTS 1 (2)
-http://xxip25.top:8080/5QdsNp/351122/57498
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Hockey",CA (FR) TVA Sports 2
-http://panelguys.top:8080/25357976/33736197/57337
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="Hockey",CA : TVA SPORTS HD  - 2
+http://wickediptv.xyz:80/live/44762733/28668754/53815.m3u
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="Hockey",CA : TVA SPORTS HD - 3
+http://hostengine.live/live/Erica1/Erica1/53815.m3u
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="Hockey",CA : TVA SPORTS HD - 4 
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53815.m3u
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Hockey",TVA SPORTS HD - 5
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
 
 
+#EXTINF:-1 group-title="Hockey", CBC *****************
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL
+http://wickediptv.xyz:80/live/44762733/28668754/53623.m3u
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL -2
+http://hostengine.live/live/Erica1/Erica1/53623.m3u
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL - 3
+http://hostengine.live/live/sean/sean/53623.m3u
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL - 4
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53623.m3u
+
+#EXTINF:-1 group-title="Hockey", SPORTSNET *****************
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSNET ONE" tvg-logo="https://i.postimg.cc/SQ1n7QW7/sportsplayoffs.png" group-title="Hockey",CA: SPORTSNET ONE
+http://wickediptv.xyz:80/live/44762733/28668754/338809.m3u
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/0d06c94a7508898cce57e06c0e75043a.png" group-title="Hockey",CA : SPORTSNET ONE 2
+http://hostengine.live/live/Erica1/Erica1/53750.m3u
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CAN : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/6066532be04ba136689bbc4b63b6ec7a.png" group-title="Hockey",CAN : SPORTSNET ONE 3
+http://wickediptv.xyz:80/live/44762733/28668754/55091.m3u
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/0d06c94a7508898cce57e06c0e75043a.png" group-title="Hockey",CA : SPORTSNET ONE 4
+http://hostengine.live/live/sean/sean/53750.m3u
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/0d06c94a7508898cce57e06c0e75043a.png" group-title="Hockey",CA : SPORTSNET ONE 5
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53750.m3u
+
+
+
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CAN : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CAN : SPORTSNET EAST
+http://wickediptv.xyz:80/live/44762733/28668754/55090.m3u
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CA : SPORTSNET EAST 2
+http://hostengine.live/live/Erica1/Erica1/188567.m3u
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CA : SPORTSNET EAST 3
+http://hostengine.live/live/sean/sean/188567.m3u
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CA : SPORTSNET EAST 4
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/188567.m3u
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST b" tvg-logo="http://icons.tw:8080/images/d57923d99f90312d20e198cee358b6d3.png" group-title="Hockey",CA : SPORTSNET EAST b 
+http://hostengine.live/live/Erica1/Erica1/53749.m3u
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST b" tvg-logo="http://icons.tw:8080/images/d57923d99f90312d20e198cee358b6d3.png" group-title="Hockey",CA : SPORTSNET EAST b 2
+http://hostengine.live/live/sean/sean/53749.m3u
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST b" tvg-logo="http://icons.tw:8080/images/d57923d99f90312d20e198cee358b6d3.png" group-title="Hockey",CA : SPORTSNET EAST b 3
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53749.m3u
+
+
+
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CAN : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/20c9a350d0e9db7c8c77bef4ec9ea384.png" group-title="Hockey",CAN : SPORTSNET ONTARIO
+http://wickediptv.xyz:80/live/44762733/28668754/55092.m3u
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/ec1425621934392512b5f3c9d9fbdf02.png" group-title="Hockey",CA : SPORTSNET ONTARIO 2 
+http://hostengine.live/live/Erica1/Erica1/53751.m3u
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/ec1425621934392512b5f3c9d9fbdf02.png" group-title="Hockey",CA : SPORTSNET ONTARIO 3
+http://hostengine.live/live/sean/sean/53751.m3u
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/ec1425621934392512b5f3c9d9fbdf02.png" group-title="Hockey",CA : SPORTSNET ONTARIO 4
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53751.m3u
+
+
+
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CAN : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/c3f2764134bd331c10179c877aa73658.png" group-title="Hockey",CAN : SPORTSNET PACIFIC
+http://wickediptv.xyz:80/live/44762733/28668754/55093.m3u
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/2b09aaa3409c3f92363fff286f26d78f.png" group-title="Hockey",CA : SPORTSNET PACIFIC 2
+http://hostengine.live/live/Erica1/Erica1/53752.m3u
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/2b09aaa3409c3f92363fff286f26d78f.png" group-title="Hockey",CA : SPORTSNET PACIFIC 3 
+http://hostengine.live/live/sean/sean/53752.m3u
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/2b09aaa3409c3f92363fff286f26d78f.png" group-title="Hockey",CA : SPORTSNET PACIFIC 4
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53752.m3u
+
+
+
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CAN : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CAN : SPORTSNET WEST
+http://wickediptv.xyz:80/live/44762733/28668754/55094.m3u
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/ee90b1525ebb588a4c24e037a3b15705.png" group-title="Hockey",CA : SPORTSNET WEST 2
+http://hostengine.live/live/Erica1/Erica1/53753.m3u
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/ee90b1525ebb588a4c24e037a3b15705.png" group-title="Hockey",CA : SPORTSNET WEST 3
+http://hostengine.live/live/sean/sean/53753.m3u
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/ee90b1525ebb588a4c24e037a3b15705.png" group-title="Hockey",CA : SPORTSNET WEST 4
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53753.m3u
+
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CAN : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/32ab6a97e8b17174268384dee81da3cd.png" group-title="Hockey",CAN : SPORTSNET 360
+http://wickediptv.xyz:80/live/44762733/28668754/55089.m3u
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/c0293c7dd7aad563225738922628320f.png" group-title="Hockey",CA : SPORTSNET 360 2
+http://hostengine.live/live/Erica1/Erica1/53748.m3u
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/c0293c7dd7aad563225738922628320f.png" group-title="Hockey",CA : SPORTSNET 360 3
+http://hostengine.live/live/sean/sean/53748.m3u
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/c0293c7dd7aad563225738922628320f.png" group-title="Hockey",CA : SPORTSNET 360 4
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53748.m3u
+
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CAN : SPORTSNET WORLD" tvg-logo="http://icons.tw:8080/images/f04d4760124da5111d441622fff5bdc2.png" group-title="Hockey",CAN : SPORTSNET WORLD
+http://wickediptv.xyz:80/live/44762733/28668754/55095.m3u
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA : SPORTSNET WORLD" tvg-logo="http://icons.tw:8080/images/8494bc33cad71a9ce70ade236842fb16.png" group-title="Hockey",CA : SPORTSNET WORLD 2
+http://hostengine.live/live/Erica1/Erica1/53754.m3u
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA : SPORTSNET WORLD" tvg-logo="http://icons.tw:8080/images/8494bc33cad71a9ce70ade236842fb16.png" group-title="Hockey",CA : SPORTSNET WORLD 3
+http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53754.m3u
+
+
+
+
+#EXTINF:-1 group-title="Hockey", RDS *****************
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS
 http://xxip25.top:8080/pU3Mes/259845/57325
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Hockey",RDS - backup
@@ -157,8 +250,6 @@ http://1tv41.icu:8080/7wXjYa/572894/57325
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/3667
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",RDS 13
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4027
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CA RDS 2 (FR)" tvg-logo="" group-title="Hockey",CA RDS 2 (FR)
 http://supersonictv.live:8080/Joe12345/Joe12345/21984
 #EXTINF:-1 tvg-id="" tvg-name="CA RDS INFO (FR)" tvg-logo="" group-title="Hockey",CA RDS INFO (FR)
@@ -166,7 +257,7 @@ http://supersonictv.live:8080/Joe12345/Joe12345/21985
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",RDS2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
 
-
+#EXTINF:-1 group-title="Hockey", TSN *****************
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2
 http://fortv.cc:8080/yhW1wX/013165/47442
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2 backup
@@ -180,10 +271,11 @@ https://tv.extremeiptv.net/live/jason/jason/e3851e58-9955-4771-8bb8-f61ce40df46b
 #EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="Hockey",TSN2 backup 5
 https://xemzi.short.gy/6000002
 
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Hockey",Sportsnet East HD
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
-#EXTINF:-1  tvg-name="Sportsnet (East) SD" tvg-id="sportsnet-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sne-ca.png?raw=true" group-title="Hockey",Sportsnet (East) SD
-https://tvpass.org/live/sportsnet-east/sd
+
+
+
+
+
 
 
 
