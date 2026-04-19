@@ -128,7 +128,8 @@ http://hostengine.live/live/Erica1/Erica1/53815.m3u
 http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53815.m3u
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Hockey",TVA SPORTS HD - 5
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
-
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="hockey",CA : TVA SPORTS HD 6
+http://hostengine.live/live/armando/83627287/53815.m3u
 
 #EXTINF:-1 group-title="Hockey", CBC *****************
 #EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL
