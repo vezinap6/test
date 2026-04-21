@@ -1,15 +1,16 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
 http://195.128.27.185:80/smaggard/2121/4069
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI RDI HD (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4069
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/1200px-ICI_RDI_logo.svg.png" group-title="General",ICI RDI (3)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/3717
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/1200px-ICI_RDI_logo.svg.png" group-title="General",CA ICI RDI (4)
+http://lordstreams.live:80/John2/hmLBgkG4NVZb/3717
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",ICI Tele Mauricie
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie (2)
-http://195.128.27.185:80/Blaine1/Blaine1/4062
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie (3)
 http://195.128.27.185:80/Blaine1/Blaine1/4062
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie HD (4)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4062
@@ -21,16 +22,16 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 http://xxip43.top:8080/derek@otto/derek@2023/57501
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 2
 http://195.128.27.185:80/Blaine1/Blaine1/4003
-#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO 3
-http://1tv41.icu:8080/7wXjYa/572894/57325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",NOOVO 3
+http://lordstreams.live:80/John2/hmLBgkG4NVZb/3684
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",TELE QUEBEC
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4047
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
 http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/599406.ts
-#EXTINF:-1 group-title="General", Canal Vie
-http://tv14s.xyz:8080/A1Jay5/362586/116947
-#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie 2
+#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie
 http://fortv.cc:8080/yhW1wX/013165/116947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Canal_D_HD.svg/1280px-Canal_D_HD.svg.png" group-title="General",Canal Vie 2
+http://lordstreams.live:80/John2/hmLBgkG4NVZb/4036
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1
 http://xxip9.top:8080/101961565/101961565/66363
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (2)
@@ -49,11 +50,13 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4005
 http://195.128.27.185:80/Blaine1/Blaine1/4004
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4004
-#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",Evasion
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion
+http://lordstreams.live:80/John2/hmLBgkG4NVZb/4073
+#EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",Evasion 2
 http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/597722.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion (2)
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion 3
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4073
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion (3)
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion 4
 http://195.128.27.185:80/Blaine1/Blaine1/4073
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="General",Zeste
 http://195.128.27.185:80/Blaine1/Blaine1/4000
@@ -118,110 +121,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c19
 
 
 #EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Hockey",CA-FR | TVA SPORTS 1
-http://panelguys.top:8080/25357976/33736197/57498
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="Hockey",CA : TVA SPORTS HD  - 2
-http://wickediptv.xyz:80/live/44762733/28668754/53815.m3u
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="Hockey",CA : TVA SPORTS HD - 3
-http://hostengine.live/live/Erica1/Erica1/53815.m3u
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="Hockey",CA : TVA SPORTS HD - 4 
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53815.m3u
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Hockey",TVA SPORTS HD - 5
-http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57298
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA : TVA SPORTS HD" tvg-logo="http://icons.tw:8080/images/e975273cbc05c46ef98c8f5303dcfa8b.png" group-title="hockey",CA : TVA SPORTS HD 6
-http://hostengine.live/live/armando/83627287/53815.m3u
-
-#EXTINF:-1 group-title="Hockey", CBC *****************
-#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL
-http://wickediptv.xyz:80/live/44762733/28668754/53623.m3u
-#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL -2
-http://hostengine.live/live/Erica1/Erica1/53623.m3u
-#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL - 3
-http://hostengine.live/live/sean/sean/53623.m3u
-#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA : CBC MONTREAL" tvg-logo="http://icons.tw:8080/images/7a94339a256c062a68d3ff0f8b3b237e.png" group-title="Hockey",CA : CBC MONTREAL - 4
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53623.m3u
-
 #EXTINF:-1 group-title="Hockey", SPORTSNET *****************
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSNET ONE" tvg-logo="https://i.postimg.cc/SQ1n7QW7/sportsplayoffs.png" group-title="Hockey",CA: SPORTSNET ONE
-http://wickediptv.xyz:80/live/44762733/28668754/338809.m3u
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/0d06c94a7508898cce57e06c0e75043a.png" group-title="Hockey",CA : SPORTSNET ONE 2
-http://hostengine.live/live/Erica1/Erica1/53750.m3u
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CAN : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/6066532be04ba136689bbc4b63b6ec7a.png" group-title="Hockey",CAN : SPORTSNET ONE 3
-http://wickediptv.xyz:80/live/44762733/28668754/55091.m3u
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/0d06c94a7508898cce57e06c0e75043a.png" group-title="Hockey",CA : SPORTSNET ONE 4
-http://hostengine.live/live/sean/sean/53750.m3u
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://icons.tw:8080/images/0d06c94a7508898cce57e06c0e75043a.png" group-title="Hockey",CA : SPORTSNET ONE 5
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53750.m3u
-
-
-
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CAN : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CAN : SPORTSNET EAST
-http://wickediptv.xyz:80/live/44762733/28668754/55090.m3u
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CA : SPORTSNET EAST 2
-http://hostengine.live/live/Erica1/Erica1/188567.m3u
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CA : SPORTSNET EAST 3
-http://hostengine.live/live/sean/sean/188567.m3u
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CA : SPORTSNET EAST 4
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/188567.m3u
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST b" tvg-logo="http://icons.tw:8080/images/d57923d99f90312d20e198cee358b6d3.png" group-title="Hockey",CA : SPORTSNET EAST b 
-http://hostengine.live/live/Erica1/Erica1/53749.m3u
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST b" tvg-logo="http://icons.tw:8080/images/d57923d99f90312d20e198cee358b6d3.png" group-title="Hockey",CA : SPORTSNET EAST b 2
-http://hostengine.live/live/sean/sean/53749.m3u
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA : SPORTSNET EAST b" tvg-logo="http://icons.tw:8080/images/d57923d99f90312d20e198cee358b6d3.png" group-title="Hockey",CA : SPORTSNET EAST b 3
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53749.m3u
-
-
-
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CAN : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/20c9a350d0e9db7c8c77bef4ec9ea384.png" group-title="Hockey",CAN : SPORTSNET ONTARIO
-http://wickediptv.xyz:80/live/44762733/28668754/55092.m3u
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/ec1425621934392512b5f3c9d9fbdf02.png" group-title="Hockey",CA : SPORTSNET ONTARIO 2 
-http://hostengine.live/live/Erica1/Erica1/53751.m3u
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/ec1425621934392512b5f3c9d9fbdf02.png" group-title="Hockey",CA : SPORTSNET ONTARIO 3
-http://hostengine.live/live/sean/sean/53751.m3u
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://icons.tw:8080/images/ec1425621934392512b5f3c9d9fbdf02.png" group-title="Hockey",CA : SPORTSNET ONTARIO 4
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53751.m3u
-
-
-
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CAN : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/c3f2764134bd331c10179c877aa73658.png" group-title="Hockey",CAN : SPORTSNET PACIFIC
-http://wickediptv.xyz:80/live/44762733/28668754/55093.m3u
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/2b09aaa3409c3f92363fff286f26d78f.png" group-title="Hockey",CA : SPORTSNET PACIFIC 2
-http://hostengine.live/live/Erica1/Erica1/53752.m3u
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/2b09aaa3409c3f92363fff286f26d78f.png" group-title="Hockey",CA : SPORTSNET PACIFIC 3 
-http://hostengine.live/live/sean/sean/53752.m3u
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://icons.tw:8080/images/2b09aaa3409c3f92363fff286f26d78f.png" group-title="Hockey",CA : SPORTSNET PACIFIC 4
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53752.m3u
-
-
-
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CAN : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Hockey",CAN : SPORTSNET WEST
-http://wickediptv.xyz:80/live/44762733/28668754/55094.m3u
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/ee90b1525ebb588a4c24e037a3b15705.png" group-title="Hockey",CA : SPORTSNET WEST 2
-http://hostengine.live/live/Erica1/Erica1/53753.m3u
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/ee90b1525ebb588a4c24e037a3b15705.png" group-title="Hockey",CA : SPORTSNET WEST 3
-http://hostengine.live/live/sean/sean/53753.m3u
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://icons.tw:8080/images/ee90b1525ebb588a4c24e037a3b15705.png" group-title="Hockey",CA : SPORTSNET WEST 4
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53753.m3u
-
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CAN : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/32ab6a97e8b17174268384dee81da3cd.png" group-title="Hockey",CAN : SPORTSNET 360
-http://wickediptv.xyz:80/live/44762733/28668754/55089.m3u
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/c0293c7dd7aad563225738922628320f.png" group-title="Hockey",CA : SPORTSNET 360 2
-http://hostengine.live/live/Erica1/Erica1/53748.m3u
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/c0293c7dd7aad563225738922628320f.png" group-title="Hockey",CA : SPORTSNET 360 3
-http://hostengine.live/live/sean/sean/53748.m3u
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://icons.tw:8080/images/c0293c7dd7aad563225738922628320f.png" group-title="Hockey",CA : SPORTSNET 360 4
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53748.m3u
-
-#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CAN : SPORTSNET WORLD" tvg-logo="http://icons.tw:8080/images/f04d4760124da5111d441622fff5bdc2.png" group-title="Hockey",CAN : SPORTSNET WORLD
-http://wickediptv.xyz:80/live/44762733/28668754/55095.m3u
-#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA : SPORTSNET WORLD" tvg-logo="http://icons.tw:8080/images/8494bc33cad71a9ce70ade236842fb16.png" group-title="Hockey",CA : SPORTSNET WORLD 2
-http://hostengine.live/live/Erica1/Erica1/53754.m3u
-#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA : SPORTSNET WORLD" tvg-logo="http://icons.tw:8080/images/8494bc33cad71a9ce70ade236842fb16.png" group-title="Hockey",CA : SPORTSNET WORLD 3
-http://wickediptv.live/live/Rudi-Benci/Kjkm7ArMTP/53754.m3u
-
-
-
-
 #EXTINF:-1 group-title="Hockey", RDS *****************
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS
 http://xxip25.top:8080/pU3Mes/259845/57325
