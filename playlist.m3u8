@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
 http://195.128.27.185:80/smaggard/2121/4069
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI RDI HD (2)
@@ -40,24 +39,32 @@ http://195.128.27.185:80/Blaine1/Blaine1/4008
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4008
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (4)
 http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418548
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (5)
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66363
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2
 http://195.128.27.185:80/Blaine1/Blaine1/4006
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2 (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4006
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2 (3)
 http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418517
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66364
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
 http://195.128.27.185:80/Blaine1/Blaine1/4005
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3 (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4005
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3 (3)
 http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418516
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3 (4)
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66365
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4
 http://195.128.27.185:80/Blaine1/Blaine1/4004
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4004
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (3)
 http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418515
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (4)
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66366
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/4073
 #EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",Evasion 2
@@ -76,6 +83,8 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 http://xxip43.top:8080/derek@otto/derek@2023/57480
 #EXTINF:-1 group-title="General",Cine Pop 2
 http://fortv.cc:8080/Zk9hJ68/894658/57480
+#EXTINF:-1 group-title="General",Cine Pop 3
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57480
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV
 http://195.128.27.185:80/smaggard/2121/4020
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV (2)
