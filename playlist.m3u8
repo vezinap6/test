@@ -6,7 +6,10 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4069
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/1200px-ICI_RDI_logo.svg.png" group-title="General",ICI RDI (3)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/3717
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/1200px-ICI_RDI_logo.svg.png" group-title="General",CA ICI RDI (4)
-http://lordstreams.live:80/John2/hmLBgkG4NVZb/3717
+https://customcloud.tv:443/HoseaStephen/4273869501/12246
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/1200px-ICI_RDI_logo.svg.png" group-title="General",CA ICI RDI (5)
+http://xxip9.top:8080/riaz@prudent.com/0105@8023/164369
+
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",ICI Tele Mauricie
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie (2)
@@ -27,15 +30,10 @@ https://customcloud.tv:443/HoseaStephen/4273869501/12254
 http://domestipo1.online:80/SantiagoVallecillo07/CMHawSKdKy/599406.ts
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
 https://customcloud.tv:443/HoseaStephen/4273869501/12271
-
-
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie
 http://fortv.cc:8080/yhW1wX/013165/116947
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Canal_D_HD.svg/1280px-Canal_D_HD.svg.png" group-title="General",Canal Vie 2
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/4036
-
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1
 http://xxip9.top:8080/101961565/101961565/66363
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (2)
@@ -80,6 +78,8 @@ http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66366
 https://customcloud.tv:443/HoseaStephen/4273869501/12263
 #EXTINF:-1 tvg-id="ICIARTVCanada.ca" tvg-name="CA-FR | ICI ARTV" tvg-logo="https://exanimo.tv/logos/canadafrench/iciartv.png" group-title="General",CA-FR | ICI ARTV
 https://customcloud.tv:443/HoseaStephen/4273869501/12244
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV 2
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/4073
 #EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",Evasion 2
@@ -90,12 +90,8 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4073
 http://195.128.27.185:80/Blaine1/Blaine1/4000
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="General",Zeste (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4000
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV
-http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 #EXTINF:-1 group-title="General",Cine Pop
-http://xxip43.top:8080/derek@otto/derek@2023/57480
-#EXTINF:-1 group-title="General",Cine Pop 2
-http://fortv.cc:8080/Zk9hJ68/894658/57480
+http://xxip9.top:8080/riaz@prudent.com/0105@8023/57480
 #EXTINF:-1 group-title="General",Cine Pop 3
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57480
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV
@@ -107,7 +103,7 @@ http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
 #EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="General",Historia
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv5québec.ca" tvg-name="CA  (FR) TV5 Quebec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/langfr-150px-TV5_%28logo%29.svg.png" group-title="General",CA  (FR) TV5 Quebec
-http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4078
+http://xxip9.top:8080/riaz@prudent.com/0105@8023/57288
 #EXTINF:-1 tvg-id="" tvg-name="CA LCN (FR)" tvg-logo="" group-title="General",LCN
 http://panelguys.top:8080/25357976/33736197/57968
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="addiktv.ca" tvg-name="CA Addik TV (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/2560px-Addik_TV.svg.png" group-title="General",CA Addik TV (FR)
@@ -124,16 +120,16 @@ https://hls.savoir.media/live/stream.m3u8
 https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",Investigation
 https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="casatv.ca" tvg-name="CA-FR CASA" tvg-logo="http://xplatinmedia.com:8080/images/202447d5d44ce12531f7207cb33b6bf7.png" group-title="General",CA-FR CASA
+#EXTINF:-1 group-title="General",INVESTIGATION 2
+http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418575
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="casatv.ca" tvg-name="CA-FR CASA" tvg-logo="http://xplatinmedia.com:8080/images/202447d5d44ce12531f7207cb33b6bf7.png" group-title="General",CASA
 http://195.128.27.185:80/Blaine1/Blaine1/4017
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",MOI ET CIE
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
 #EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="General",TFO
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57495
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="seriesplus.ca" tvg-name="CA-FR Series+" tvg-logo="http://xplatinmedia.com:8080/images/6e8f69dfdab0525302bc17f6faeaafdf.png" group-title="General",CA-FR Series+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="seriesplus.ca" tvg-name="CA-FR Series+" tvg-logo="http://xplatinmedia.com:8080/images/6e8f69dfdab0525302bc17f6faeaafdf.png" group-title="General",Series+
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4010
-#EXTINF:-1 group-title="General",INVESTIGATION
-http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418575
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="General",CBC Montreal
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57387
 #EXTINF:-1 group-title="General",Global Montreal HD
@@ -141,7 +137,7 @@ http://fortv.cc:8080/7wfwtYP/7DcfRrq/136640
 #EXTINF:-1 tvg-id="CityTvMontreal-CJNT.ca" tvg-name="CA: CITY MONTREAL" tvg-logo="" group-title="General",CA: CITY MONTREAL
 http://zerotwo.access.ly:2096/os3536/6918437205/761378
 #EXTINF:-1 tvg-id="CTVMontreal-CFCF.ca" tvg-name="CA: CTV MONTREAL" tvg-logo="" group-title="General",CA: CTV MONTREAL
-http://hestiahestia.quicksytes.com:2096/JudyDammarell/4031876529/761408
+https://customcloud.tv:443/HoseaStephen/4273869501/5204
 #EXTINF:-1 group-title="General",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png" group-title="General",Qello Concerts
