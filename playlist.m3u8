@@ -76,6 +76,8 @@ http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418515
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66366
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (5)
 https://customcloud.tv:443/HoseaStephen/4273869501/12263
+#EXTINF:-1 group-title="General",Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="ICIARTVCanada.ca" tvg-name="CA-FR | ICI ARTV" tvg-logo="https://exanimo.tv/logos/canadafrench/iciartv.png" group-title="General",CA-FR | ICI ARTV
 https://customcloud.tv:443/HoseaStephen/4273869501/12244
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV 2
@@ -90,6 +92,8 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4073
 http://195.128.27.185:80/Blaine1/Blaine1/4000
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="General",Zeste (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4000
+#EXTINF:-1 tvg-id="" tvg-name="CA: ZESTE" tvg-logo="https://docdog.top/logo/countries/canada/zeste.png" group-title="General",ZESTE 3
+http://vipapyenhmw.top:8080/VIP01744172744074799/075a4673cb21/5526
 #EXTINF:-1 group-title="General",Cine Pop
 http://xxip9.top:8080/riaz@prudent.com/0105@8023/57480
 #EXTINF:-1 group-title="General",Cine Pop 3
@@ -102,6 +106,8 @@ https://customcloud.tv:443/HoseaStephen/4273869501/12273
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57479
 #EXTINF:-1 tvg-id="historia.ca" tvg-name="CA (FR) Historia HD " tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="General",Historia
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57483
+#EXTINF:-1 group-title="General",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv5québec.ca" tvg-name="CA  (FR) TV5 Quebec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/langfr-150px-TV5_%28logo%29.svg.png" group-title="General",CA  (FR) TV5 Quebec
 http://xxip9.top:8080/riaz@prudent.com/0105@8023/57288
 #EXTINF:-1 tvg-id="" tvg-name="CA LCN (FR)" tvg-logo="" group-title="General",LCN
@@ -160,12 +166,15 @@ http://mains.services/live/tmo247line/65s4d64vgfdfbae4/60cad53b-8518-4f02-b2bf-6
 
 
 #EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/tvasports.png" group-title="CANADA VIP",CA: TVA SPORTS
+http://vipapyenhmw.top:8080/VIP01744172744074799/075a4673cb21/5516
 #EXTINF:-1 group-title="Hockey", SPORTSNET *****************
+#EXTINF:-1 group-title="Hockey", CBC *****************
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Hockey",CBC
+http://fortv.cc:8080/yhW1wX/013165/57387
 #EXTINF:-1 group-title="Hockey", RDS *****************
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS
 http://xxip25.top:8080/pU3Mes/259845/57325
-#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Hockey",RDS - backup
-http://fortv.cc:8080/yhW1wX/013165/57387
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS - backup 2
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57325
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS - backup 3
@@ -196,7 +205,6 @@ http://supersonictv.live:8080/Joe12345/Joe12345/21984
 http://supersonictv.live:8080/Joe12345/Joe12345/21985
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA (FR) RDS2 HD (B)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Hockey",RDS2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57490
-
 #EXTINF:-1 group-title="Hockey", TSN *****************
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="Hockey",TSN 2
 http://fortv.cc:8080/yhW1wX/013165/47442
