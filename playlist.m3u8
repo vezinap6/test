@@ -25,10 +25,14 @@ http://195.128.27.185:80/Blaine1/Blaine1/4003
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/3684
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",NOOVO 3
 https://customcloud.tv:443/HoseaStephen/4273869501/12254
+#EXTINF:-1 tvg-id="Noovo.ca2" tvg-name="CA-FR | NOOVO" tvg-logo="https://exanimo.tv/logos/canadafrench/noovo.png" group-title="General",NOOVO 4
+https://cozystream.mov:443/cathy99/cathy99/12254
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC
 http://doubleclicktv.live:80/live/McDonald46/wbdTTYf8eu/4047.m3u8
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
 https://customcloud.tv:443/HoseaStephen/4273869501/12271
+#EXTINF:-1 tvg-id="TeleQuebecMontreal-CIVM.ca" tvg-name="CA-FR | TÉLÉ-QUÉBEC" tvg-logo="https://exanimo.tv/logos/canadafrench/telequebec.png" group-title="General",TÉLÉ-QUÉBEC 3
+https://cozystream.mov:443/cathy99/cathy99/12271
 #EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie
 http://fortv.cc:8080/yhW1wX/013165/116947
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Canal_D_HD.svg/1280px-Canal_D_HD.svg.png" group-title="General",Canal Vie 2
@@ -83,6 +87,8 @@ https://customcloud.tv:443/HoseaStephen/4273869501/12244
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV 3
 http://doubleclicktv.live:80/live/McDonald46/wbdTTYf8eu/641215.m3u8
+#EXTINF:-1 tvg-id="ICIARTVCanada.ca" tvg-name="CA-FR | ICI ARTV" tvg-logo="https://exanimo.tv/logos/canadafrench/iciartv.png" group-title="General",ICI ARTV 4
+https://cozystream.mov:443/cathy99/cathy99/12244
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/4073
 #EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",Evasion 2
@@ -119,6 +125,8 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4037
 http://195.128.27.185:80/smaggard/2121/4053
 #EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA (FR) Prise  (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png" group-title="General",CA (FR) Prise 2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
+#EXTINF:-1 tvg-id="Prise2.ca" tvg-name="CA-FR | PRISE 2" tvg-logo="https://exanimo.tv/logos/canadafrench/prise2.png" group-title="General",PRISE 2 2
+https://cozystream.mov:443/cathy99/cathy99/12255
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frissonstv.ca" tvg-name="CA FRISSONS TV (FR)" tvg-logo="https://iptvboss.xyz/logos/Canada/FrissonsTV.ca.png" group-title="General",FRISSONS TV
 http://195.128.27.185:80/smaggard/2121/637807
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
@@ -131,6 +139,8 @@ https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
 http://23.227.140.75:5050/btg22877@yahoo.com/NFK59PeGdb/418575
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="casatv.ca" tvg-name="CA-FR CASA" tvg-logo="http://xplatinmedia.com:8080/images/202447d5d44ce12531f7207cb33b6bf7.png" group-title="General",CASA
 http://195.128.27.185:80/Blaine1/Blaine1/4017
+#EXTINF:-1 tvg-id="CASA.ca" tvg-name="CA-FR | CASA" tvg-logo="https://exanimo.tv/logos/canadafrench/casa.png" group-title="General",CASA 2
+https://cozystream.mov:443/cathy99/cathy99/12239
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",MOI ET CIE
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
 #EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="General",TFO
@@ -3735,3 +3745,248 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 group-title="Film EN",Paramount+ Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E03" tvg-logo="https://porky.pro/episode/4546/1/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E04" tvg-logo="https://porky.pro/episode/4546/1/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E05" tvg-logo="https://porky.pro/episode/4546/1/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E06" tvg-logo="https://porky.pro/episode/4546/1/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E07" tvg-logo="https://porky.pro/episode/4546/1/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E08" tvg-logo="https://porky.pro/episode/4546/1/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E09" tvg-logo="https://porky.pro/episode/4546/1/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E10" tvg-logo="https://porky.pro/episode/4546/1/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S01 E11" tvg-logo="https://porky.pro/episode/4546/1/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S01 E11
+https://cozystream.mov:443/series/cathy99/cathy99/1594159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E01" tvg-logo="https://porky.pro/episode/4546/2/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E02" tvg-logo="https://porky.pro/episode/4546/2/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E03" tvg-logo="https://porky.pro/episode/4546/2/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E04" tvg-logo="https://porky.pro/episode/4546/2/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E05" tvg-logo="https://porky.pro/episode/4546/2/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E06" tvg-logo="https://porky.pro/episode/4546/2/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E07" tvg-logo="https://porky.pro/episode/4546/2/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E08" tvg-logo="https://porky.pro/episode/4546/2/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E09" tvg-logo="https://porky.pro/episode/4546/2/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S02 E10" tvg-logo="https://porky.pro/episode/4546/2/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S02 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E01" tvg-logo="https://porky.pro/episode/4546/3/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E02" tvg-logo="https://porky.pro/episode/4546/3/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E03" tvg-logo="https://porky.pro/episode/4546/3/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E04" tvg-logo="https://porky.pro/episode/4546/3/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E05" tvg-logo="https://porky.pro/episode/4546/3/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E06" tvg-logo="https://porky.pro/episode/4546/3/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E07" tvg-logo="https://porky.pro/episode/4546/3/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E08" tvg-logo="https://porky.pro/episode/4546/3/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E09" tvg-logo="https://porky.pro/episode/4546/3/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S03 E10" tvg-logo="https://porky.pro/episode/4546/3/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S03 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E01" tvg-logo="https://porky.pro/episode/4546/4/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E02" tvg-logo="https://porky.pro/episode/4546/4/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E03" tvg-logo="https://porky.pro/episode/4546/4/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E04" tvg-logo="https://porky.pro/episode/4546/4/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E05" tvg-logo="https://porky.pro/episode/4546/4/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E06" tvg-logo="https://porky.pro/episode/4546/4/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E07" tvg-logo="https://porky.pro/episode/4546/4/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E08" tvg-logo="https://porky.pro/episode/4546/4/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E09" tvg-logo="https://porky.pro/episode/4546/4/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S04 E10" tvg-logo="https://porky.pro/episode/4546/4/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S04 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E01" tvg-logo="https://porky.pro/episode/4546/5/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E02" tvg-logo="https://porky.pro/episode/4546/5/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E03" tvg-logo="https://porky.pro/episode/4546/5/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E04" tvg-logo="https://porky.pro/episode/4546/5/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E05" tvg-logo="https://porky.pro/episode/4546/5/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E06" tvg-logo="https://porky.pro/episode/4546/5/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E07" tvg-logo="https://porky.pro/episode/4546/5/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E08" tvg-logo="https://porky.pro/episode/4546/5/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E09" tvg-logo="https://porky.pro/episode/4546/5/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S05 E10" tvg-logo="https://porky.pro/episode/4546/5/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S05 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E01" tvg-logo="https://porky.pro/episode/4546/6/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E02" tvg-logo="https://porky.pro/episode/4546/6/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E03" tvg-logo="https://porky.pro/episode/4546/6/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E04" tvg-logo="https://porky.pro/episode/4546/6/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E05" tvg-logo="https://porky.pro/episode/4546/6/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E06" tvg-logo="https://porky.pro/episode/4546/6/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E07" tvg-logo="https://porky.pro/episode/4546/6/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E08" tvg-logo="https://porky.pro/episode/4546/6/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E09" tvg-logo="https://porky.pro/episode/4546/6/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S06 E10" tvg-logo="https://porky.pro/episode/4546/6/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S06 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E01" tvg-logo="https://porky.pro/episode/4546/7/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E02" tvg-logo="https://porky.pro/episode/4546/7/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E03" tvg-logo="https://porky.pro/episode/4546/7/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E04" tvg-logo="https://porky.pro/episode/4546/7/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E05" tvg-logo="https://porky.pro/episode/4546/7/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E06" tvg-logo="https://porky.pro/episode/4546/7/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E07" tvg-logo="https://porky.pro/episode/4546/7/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E08" tvg-logo="https://porky.pro/episode/4546/7/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E09" tvg-logo="https://porky.pro/episode/4546/7/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S07 E10" tvg-logo="https://porky.pro/episode/4546/7/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S07 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E01" tvg-logo="https://porky.pro/episode/4546/8/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E02" tvg-logo="https://porky.pro/episode/4546/8/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1683888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E03" tvg-logo="https://porky.pro/episode/4546/8/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E04" tvg-logo="https://porky.pro/episode/4546/8/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E05" tvg-logo="https://porky.pro/episode/4546/8/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E06" tvg-logo="https://porky.pro/episode/4546/8/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E07" tvg-logo="https://porky.pro/episode/4546/8/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E08" tvg-logo="https://porky.pro/episode/4546/8/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E09" tvg-logo="https://porky.pro/episode/4546/8/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S08 E10" tvg-logo="https://porky.pro/episode/4546/8/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S08 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E01" tvg-logo="https://porky.pro/episode/4546/9/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E02" tvg-logo="https://porky.pro/episode/4546/9/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E03" tvg-logo="https://porky.pro/episode/4546/9/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E04" tvg-logo="https://porky.pro/episode/4546/9/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E05" tvg-logo="https://porky.pro/episode/4546/9/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E06" tvg-logo="https://porky.pro/episode/4546/9/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E07" tvg-logo="https://porky.pro/episode/4546/9/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E08" tvg-logo="https://porky.pro/episode/4546/9/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E09" tvg-logo="https://porky.pro/episode/4546/9/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S09 E10" tvg-logo="https://porky.pro/episode/4546/9/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S09 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E01" tvg-logo="https://porky.pro/episode/4546/10/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1594148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E02" tvg-logo="https://porky.pro/episode/4546/10/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1594150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E03" tvg-logo="https://porky.pro/episode/4546/10/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1594149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E04" tvg-logo="https://porky.pro/episode/4546/10/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1683878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E05" tvg-logo="https://porky.pro/episode/4546/10/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1683879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E06" tvg-logo="https://porky.pro/episode/4546/10/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1683882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E07" tvg-logo="https://porky.pro/episode/4546/10/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1683881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E08" tvg-logo="https://porky.pro/episode/4546/10/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E09" tvg-logo="https://porky.pro/episode/4546/10/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1683880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S10 E10" tvg-logo="https://porky.pro/episode/4546/10/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S10 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E01" tvg-logo="https://porky.pro/episode/4546/11/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1683884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E02" tvg-logo="https://porky.pro/episode/4546/11/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1772749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E03" tvg-logo="https://porky.pro/episode/4546/11/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1772748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E04" tvg-logo="https://porky.pro/episode/4546/11/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1683885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E05" tvg-logo="https://porky.pro/episode/4546/11/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1594188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E06" tvg-logo="https://porky.pro/episode/4546/11/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1594184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E07" tvg-logo="https://porky.pro/episode/4546/11/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E08" tvg-logo="https://porky.pro/episode/4546/11/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1683886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E09" tvg-logo="https://porky.pro/episode/4546/11/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1594185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E10" tvg-logo="https://porky.pro/episode/4546/11/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1594187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E11" tvg-logo="https://porky.pro/episode/4546/11/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E11
+https://cozystream.mov:443/series/cathy99/cathy99/1772747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E12" tvg-logo="https://porky.pro/episode/4546/11/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E12
+https://cozystream.mov:443/series/cathy99/cathy99/1683883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S11 E13" tvg-logo="https://porky.pro/episode/4546/11/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S11 E13
+https://cozystream.mov:443/series/cathy99/cathy99/1594183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E01" tvg-logo="https://porky.pro/episode/4546/12/1/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E01
+https://cozystream.mov:443/series/cathy99/cathy99/1732980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E02" tvg-logo="https://porky.pro/episode/4546/12/2/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E02
+https://cozystream.mov:443/series/cathy99/cathy99/1701129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E03" tvg-logo="https://porky.pro/episode/4546/12/3/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E03
+https://cozystream.mov:443/series/cathy99/cathy99/1683887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E04" tvg-logo="https://porky.pro/episode/4546/12/4/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E04
+https://cozystream.mov:443/series/cathy99/cathy99/1594190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E05" tvg-logo="https://porky.pro/episode/4546/12/5/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E05
+https://cozystream.mov:443/series/cathy99/cathy99/1721846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E06" tvg-logo="https://porky.pro/episode/4546/12/6/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E06
+https://cozystream.mov:443/series/cathy99/cathy99/1701127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E07" tvg-logo="https://porky.pro/episode/4546/12/7/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E07
+https://cozystream.mov:443/series/cathy99/cathy99/1594189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E08" tvg-logo="https://porky.pro/episode/4546/12/8/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E08
+https://cozystream.mov:443/series/cathy99/cathy99/1594191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E09" tvg-logo="https://porky.pro/episode/4546/12/9/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E09
+https://cozystream.mov:443/series/cathy99/cathy99/1701128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm S12 E10" tvg-logo="https://porky.pro/episode/4546/12/10/still.jpg" group-title="HBO/MAX",Curb Your Enthusiasm S12 E10
+https://cozystream.mov:443/series/cathy99/cathy99/1701130.mkv
