@@ -159,8 +159,11 @@ https://customcloud.tv:443/HoseaStephen/4273869501/5204
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png" group-title="General",Qello Concerts
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199/?X-Plex-Token=ED5d_NcUdFozALavLAQP
+
 #EXTINF:-1 tvg-id="tvg-id-channel170" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://onlytimewilltell.xyz:2086/images/daa6c65316f16a32fdb6bb247509373f.jpg" group-title="General",24/7: Curb Your Enthusiasm
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/d2164f60-f5aa-4f25-a866-3fa1f43007c1.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://static.realiptv.to/snapshots/50182.jpg" group-title="General",24/7 Curb Your Enthusiasm
+https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/50182
 #EXTINF:-1 tvg-id="tvg-id-channel128" tvg-name="24/7: Brooklyn Nine-Nine" tvg-logo="http://onlytimewilltell.xyz:2086/images/381728e7d7adca7210707c8014dc7ba9.jpg" group-title="General",24/7: Brooklyn Nine-Nine
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/0358bab2-50dd-4537-858a-257155168223.ts
 #EXTINF:-1 tvg-id="tvg-id-channel823" tvg-name="24/7: The Office US" tvg-logo="http://onlytimewilltell.xyz:2086/images/118d943eb24f35151aef8dcd87eb7659.jpg" group-title="General",24/7: The Office US
@@ -171,14 +174,21 @@ http://mains.services/live/tmo247line/65s4d64vgfdfbae4/6e8933e6-e4de-43e4-a761-4
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/389a423c-eaa7-4567-9b40-d982cacc30e2.ts
 #EXTINF:-1 tvg-id="tvg-id-channel579" tvg-name="24/7: Reno 911" tvg-logo="http://onlytimewilltell.xyz:2086/images/d13b58eb710d5dfebe8516c8a5ec29d6.jpg" group-title="General",24/7: Reno 911
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/60cad53b-8518-4f02-b2bf-6ed28a5b2a0f.ts
-
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seinfeld" tvg-logo="https://static.realiptv.to/snapshots/52855.jpg" group-title="General",24/7 Seinfeld
+https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/52855
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fawlty Towers" tvg-logo="https://static.realiptv.to/snapshots/119994.jpg" group-title="General",24/7 Fawlty Towers
+https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/119994
+#EXTINF:-1 tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="https://static.realiptv.to/snapshots/30865.jpg" group-title="General",24/7 It's Always Sunny in Philadelphia
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Louie" tvg-logo="https://static.realiptv.to/snapshots/513637.jpg" group-title="General",24/7 Louie
+https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/513637
 
 
 
 #EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
 #EXTINF:-1 tvg-id="" tvg-name="CA: TVA SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/tvasports.png" group-title="Hockey",CA: TVA SPORTS
 http://vipapyenhmw.top:8080/VIP01744172744074799/075a4673cb21/5516
+#EXTINF:-1 tvg-id="CA: TVA SPORTS" tvg-name="CA-FR TVA SPORTS" tvg-logo="https://static.realiptv.to/snapshots/92658.jpg" group-title="Hockey",CA-FR TVA SPORTS
+https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/92658
 #EXTINF:-1 group-title="Hockey", SPORTSNET *****************
 #EXTINF:-1 group-title="Hockey", CBC *****************
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Hockey",CBC
