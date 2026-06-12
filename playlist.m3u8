@@ -13,8 +13,6 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 http://195.128.27.185:80/Blaine1/Blaine1/4062
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie HD (4)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4062
-#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Montreal HD (D) " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="General",CA (FR) ICI Tele Montreal HD (D) 
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/88054
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",NOOVO
@@ -23,18 +21,14 @@ http://195.128.27.185:80/Blaine1/Blaine1/4003
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/3684
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",NOOVO 3
 https://customcloud.tv:443/HoseaStephen/4273869501/12254
-#EXTINF:-1 tvg-id="Noovo.ca2" tvg-name="CA-FR | NOOVO" tvg-logo="https://exanimo.tv/logos/canadafrench/noovo.png" group-title="General",NOOVO 4
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/87961
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC
 http://doubleclicktv.live:80/live/McDonald46/wbdTTYf8eu/4047.m3u8
 #EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="General",TELE QUEBEC 2
 https://customcloud.tv:443/HoseaStephen/4273869501/12271
-#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="General",Canal Vie
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/92657
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Canal_D_HD.svg/1280px-Canal_D_HD.svg.png" group-title="General",Canal Vie 2
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/4036
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1
-http://31.43.191.125:8080/VIP0110176199661167/e6t28dsfzd9a/5498
+#EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="FRCAN : SUPER ECRAN 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53091_h15_ac.png" group-title="General",FRCAN : SUPER ECRAN 1
+http://hostengine.live/live/Douglas/Ward/256650.m3u
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (2)
 http://195.128.27.185:80/Blaine1/Blaine1/4008
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Super Ecran 1 (3)
@@ -53,6 +47,8 @@ http://31.43.191.125:8080/VIP0110176199661167/e6t28dsfzd9a/5499
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66364
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",Super Ecran 2 (5)
 https://customcloud.tv:443/HoseaStephen/4273869501/12261
+#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="FRCAN : SUPER ECRAN 2" tvg-logo="http://icons.tw:8080/images/ec34eba6fa3c42d7f44e6e5633aba911.png" group-title="General",FRCAN : SUPER ECRAN 2
+http://hostengine.live/live/Douglas/Ward/56838.m3u
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
 http://195.128.27.185:80/Blaine1/Blaine1/4005
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3 (2)
@@ -61,6 +57,8 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4005
 http://31.43.191.125:8080/VIP0110176199661167/e6t28dsfzd9a/5500
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",Super Ecran 3 (4)
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66365
+#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="FRCAN : SUPER ECRAN 3" tvg-logo="http://icons.tw:8080/images/f011f2d250cf1ccf9b7f39e9f2ff3c2b.png" group-title="General",FRCAN : SUPER ECRAN 3
+http://hostengine.live/live/Douglas/Ward/56839.m3u
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4
 http://195.128.27.185:80/Blaine1/Blaine1/4004
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (2)
@@ -71,16 +69,24 @@ http://31.43.191.125:8080/VIP0110176199661167/e6t28dsfzd9a/5501
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/66366
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",Super Ecran 4 (5)
 https://customcloud.tv:443/HoseaStephen/4273869501/12263
-#EXTINF:-1 group-title="General",Canal+ Cinema HD
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="FRCAN : SUPER ECRAN 4" tvg-logo="http://icons.tw:8080/images/0d630f5f0d8cbd477e913d8244ff5740.png" group-title="General",FRCAN : SUPER ECRAN 4
+http://hostengine.live/live/Douglas/Ward/56840.m3u
+#EXTINF:-1 tvg-id="CANAL+.fr" tvg-name="FR : CANAL+" tvg-logo="http://icons.tw:8080/images/France.png" group-title="General",FR : CANAL+
+http://hostengine.live/live/Douglas/Ward/287852.m3u
+#EXTINF:-1 tvg-id="CANAL+BOXOFFICE.fr" tvg-name="FR : CANAL+ BOX OFFICE" tvg-logo="http://icons.tw:8080/images/France.png" group-title="General",FR : CANAL+ BOX OFFICE
+http://hostengine.live/live/Douglas/Ward/287938.m3u
+#EXTINF:-1 tvg-id="CANAL+CINEMA.fr" tvg-name="FR : CANAL+ CINEMA" tvg-logo="http://icons.tw:8080/images/France.png" group-title="General",FR : CANAL+ CINEMA
+http://hostengine.live/live/Douglas/Ward/287868.m3u
+#EXTINF:-1 tvg-id="CANAL+GRANDECRAN.fr" tvg-name="FR : CANAL+ GRAND ÉCRAN" tvg-logo="http://icons.tw:8080/images/France.png" group-title="General",FR : CANAL+ GRAND ÉCRAN
+http://hostengine.live/live/Douglas/Ward/287863.m3u
 #EXTINF:-1 tvg-id="ICIARTVCanada.ca" tvg-name="CA-FR | ICI ARTV" tvg-logo="https://exanimo.tv/logos/canadafrench/iciartv.png" group-title="General",CA-FR | ICI ARTV
 https://customcloud.tv:443/HoseaStephen/4273869501/12244
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV 2
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV 3
 http://doubleclicktv.live:80/live/McDonald46/wbdTTYf8eu/641215.m3u8
-#EXTINF:-1 tvg-id="ICIARTVCanada.ca" tvg-name="CA-FR | ICI ARTV" tvg-logo="https://exanimo.tv/logos/canadafrench/iciartv.png" group-title="General",ICI ARTV 4
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/698469
+#EXTINF:-1 tvg-id="ICIARTVCanada.ca" tvg-name="FRCAN : ARTV" tvg-logo="http://icons.tw:8080/images/a83fe1cba84dba4308e6e334f3fbb1ac.png" group-title="General",FRCAN : ARTV 5
+http://hostengine.live/live/Douglas/Ward/56819.m3u
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/4073
 #EXTINF:-1 tvg-id="" tvg-name="CA Evasion (FR)" tvg-logo="" group-title="General",Evasion 2
@@ -93,10 +99,16 @@ http://195.128.27.185:80/Blaine1/Blaine1/4000
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4000
 #EXTINF:-1 tvg-id="" tvg-name="CA: ZESTE" tvg-logo="https://docdog.top/logo/countries/canada/zeste.png" group-title="General",ZESTE 3
 http://31.43.191.125:8080/VIP0110176199661167/e6t28dsfzd9a/5526
+#EXTINF:-1 tvg-id="Zeste.ca" tvg-name="FRCAN : ZESTE" tvg-logo="http://icons.tw:8080/images/849356dcd4bfe1ff7bdcf6b547574bfd.png" group-title="General",FRCAN : ZESTE 4
+http://hostengine.live/live/Douglas/Ward/56849.m3u
 #EXTINF:-1 group-title="General",Cine Pop 
 http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57480
-#EXTINF:-1 tvg-id="" tvg-name="CA ZTele (FR)" tvg-logo="https://static.realiptv.to/snapshots/702668.jpg" group-title="CANADA-FR",CA ZTele (FR)
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/702668
+#EXTINF:-1 tvg-id="CinePop.ca" tvg-name="FRCAN : CINEPOP" tvg-logo="http://icons.tw:8080/images/0de8e67dadb8e68012c84ed76c9d5f0e.png" group-title="General",FRCAN : CINEPOP 2
+http://hostengine.live/live/Douglas/Ward/56824.m3u
+#EXTINF:-1 tvg-id="Z.ca" tvg-name="FRCAN : Z TELE" tvg-logo="http://icons.tw:8080/images/1551c58c1e92b6be3d7f65ab03aed716.png" group-title="General",FRCAN : Z TELE 2
+http://hostengine.live/live/Douglas/Ward/56848.m3u
+#EXTINF:-1 tvg-id="LeCanalNouvellesTVA.ca" tvg-name="FRCAN : LCN HD" tvg-logo="http://icons.tw:8080/images/7fab7f71081af901127bea48bc965b69.png" group-title="General",FRCAN : LCN HD
+http://hostengine.live/live/Douglas/Ward/56832.m3u
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV
 http://195.128.27.185:80/smaggard/2121/4020
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",Unis_TV (2)
@@ -117,16 +129,14 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4037
 http://195.128.27.185:80/smaggard/2121/4053
 #EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA (FR) Prise  (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png" group-title="General",CA (FR) Prise 2
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57488
-#EXTINF:-1 tvg-id="Prise2.ca" tvg-name="CA-FR | PRISE 2" tvg-logo="https://exanimo.tv/logos/canadafrench/prise2.png" group-title="General",PRISE 2 2
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/92669
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frissonstv.ca" tvg-name="CA FRISSONS TV (FR)" tvg-logo="https://iptvboss.xyz/logos/Canada/FrissonsTV.ca.png" group-title="General",FRISSONS TV
 http://195.128.27.185:80/smaggard/2121/637807
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA (FR) Investigation HD (B)" tvg-logo="" group-title="General",Investigation
-https://restream-live.realiptv.to/riptv/mpmoGhhOP8/510593
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="casatv.ca" tvg-name="CA-FR CASA" tvg-logo="http://xplatinmedia.com:8080/images/202447d5d44ce12531f7207cb33b6bf7.png" group-title="General",CASA
 http://195.128.27.185:80/Blaine1/Blaine1/4017
+#EXTINF:-1 tvg-id="CASA.ca" tvg-name="FRCAN : CASA" tvg-logo="http://icons.tw:8080/images/50895a9ee82fc34064b48dbcca5ddeff.png" group-title="General",FRCAN : CASA 2
+http://hostengine.live/live/Douglas/Ward/56823.m3u
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA-FR | MOI ET CIE" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="General",MOI ET CIE
 http://fortv.cc:8080/rWb7dQDhwD/kYXtJeZ79G/57487
 #EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="General",TFO
@@ -145,11 +155,18 @@ https://customcloud.tv:443/HoseaStephen/4273869501/5204
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png" group-title="General",Qello Concerts
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199/?X-Plex-Token=ED5d_NcUdFozALavLAQP
-
 #EXTINF:-1 tvg-id="tvg-id-channel170" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://onlytimewilltell.xyz:2086/images/daa6c65316f16a32fdb6bb247509373f.jpg" group-title="General",24/7: Curb Your Enthusiasm
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/d2164f60-f5aa-4f25-a866-3fa1f43007c1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://static.realiptv.to/snapshots/50182.jpg" group-title="General",24/7 Curb Your Enthusiasm
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/50182
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg" group-title="General",24/7 Curb Your Enthusiasm
+http://ua-tv.xyz:80/george/george1234/102267
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="General",Curb Your Enthusiasm FHD
+http://172.110.221.91:8080/2055037515/81A7Mf522J/132633
+#EXTINF:-1 tvg-id="tvg-id-channel170" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://icons.tw:8080/images/9f810311895e6400fe64098150ee14ff.jpg" group-title="General",24/7: Curb Your Enthusiasm
+http://hostengine.live/live/Douglas/Ward/224039.m3u
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="" group-title="General",24/7 It's Always Sunny in Philadelphia
+http://ua-tv.xyz:80/george/george1234/89368
+#EXTINF:-1 tvg-id="tvg-id-channel359" tvg-name="24/7: Its Always Sunny in Philadelphia" tvg-logo="http://icons.tw:8080/images/24bd9ba5bdafd0d38942004c69e6a54a.jpg" group-title="General",24/7: Its Always Sunny in Philadelphia
+http://hostengine.live/live/Douglas/Ward/224228.m3u
 #EXTINF:-1 tvg-id="tvg-id-channel128" tvg-name="24/7: Brooklyn Nine-Nine" tvg-logo="http://onlytimewilltell.xyz:2086/images/381728e7d7adca7210707c8014dc7ba9.jpg" group-title="General",24/7: Brooklyn Nine-Nine
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/0358bab2-50dd-4537-858a-257155168223.ts
 #EXTINF:-1 tvg-id="tvg-id-channel823" tvg-name="24/7: The Office US" tvg-logo="http://onlytimewilltell.xyz:2086/images/118d943eb24f35151aef8dcd87eb7659.jpg" group-title="General",24/7: The Office US
@@ -160,26 +177,19 @@ http://mains.services/live/tmo247line/65s4d64vgfdfbae4/6e8933e6-e4de-43e4-a761-4
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/389a423c-eaa7-4567-9b40-d982cacc30e2.ts
 #EXTINF:-1 tvg-id="tvg-id-channel579" tvg-name="24/7: Reno 911" tvg-logo="http://onlytimewilltell.xyz:2086/images/d13b58eb710d5dfebe8516c8a5ec29d6.jpg" group-title="General",24/7: Reno 911
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/60cad53b-8518-4f02-b2bf-6ed28a5b2a0f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Seinfeld" tvg-logo="https://static.realiptv.to/snapshots/52855.jpg" group-title="General",24/7 Seinfeld
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/52855
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fawlty Towers" tvg-logo="https://static.realiptv.to/snapshots/119994.jpg" group-title="General",24/7 Fawlty Towers
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/119994
-#EXTINF:-1 tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="https://static.realiptv.to/snapshots/30865.jpg" group-title="General",24/7 It's Always Sunny in Philadelphia
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Louie" tvg-logo="https://static.realiptv.to/snapshots/513637.jpg" group-title="General",24/7 Louie
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/513637
 
 
 
 #EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
 #EXTINF:-1 tvg-id="" tvg-name="CA: TVA SPORTS" tvg-logo="https://docdog.top/logo/countries/canada/tvasports.png" group-title="Hockey",CA: TVA SPORTS
 http://vipapyenhmw.top:8080/VIP01744172744074799/075a4673cb21/5516
-#EXTINF:-1 tvg-id="CA: TVA SPORTS" tvg-name="CA-FR TVA SPORTS" tvg-logo="https://static.realiptv.to/snapshots/92658.jpg" group-title="Hockey",CA-FR TVA SPORTS
-https://restream-live.realiptv.to/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/92658
 #EXTINF:-1 group-title="Hockey", SPORTSNET *****************
 #EXTINF:-1 group-title="Hockey", CBC *****************
 #EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="Hockey",CBC
 http://fortv.cc:8080/yhW1wX/013165/57387
 #EXTINF:-1 group-title="Hockey", RDS *****************
+#EXTINF:-1 tvg-id="ReseaudesSports-RDS.ca" tvg-name="FRCAN : RDS" tvg-logo="http://icons.tw:8080/images/3196fe341c17a9002a2d9e85625dfcd3.png" group-title="Hockey",FRCAN : RDS
+http://hostengine.live/live/Douglas/Ward/56837.m3u
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS
 http://xxip25.top:8080/pU3Mes/259845/57325
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Hockey",RDS - backup 2
