@@ -247,44 +247,56 @@ https://customcloud.tv:443/HoseaStephen/4273869501/5204
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-id="647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199-ca" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png" group-title="General",Qello Concerts
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199/?X-Plex-Token=ED5d_NcUdFozALavLAQP
-#EXTINF:-1 tvg-id="tvg-id-channel170" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://onlytimewilltell.xyz:2086/images/daa6c65316f16a32fdb6bb247509373f.jpg" group-title="General",24/7: Curb Your Enthusiasm
+
+
+
+
+
+#EXTINF:-1 tvg-id="tvg-id-channel170" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://onlytimewilltell.xyz:2086/images/daa6c65316f16a32fdb6bb247509373f.jpg" group-title="24/7",24/7: Curb Your Enthusiasm
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/d2164f60-f5aa-4f25-a866-3fa1f43007c1.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg" group-title="General",24/7 Curb Your Enthusiasm
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg" group-title="24/7",24/7 Curb Your Enthusiasm
 http://ua-tv.xyz:80/george/george1234/102267
-#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="General",Curb Your Enthusiasm FHD
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7",Curb Your Enthusiasm FHD
 http://172.110.221.91:8080/2055037515/81A7Mf522J/132633
-#EXTINF:-1 tvg-id="tvg-id-channel170" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://icons.tw:8080/images/9f810311895e6400fe64098150ee14ff.jpg" group-title="General",24/7: Curb Your Enthusiasm
+#EXTINF:-1 tvg-id="tvg-id-channel170" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://icons.tw:8080/images/9f810311895e6400fe64098150ee14ff.jpg" group-title="24/7",24/7: Curb Your Enthusiasm
 http://hostengine.live/live/Douglas/Ward/224039.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm" tvg-logo="https://i.imgur.com/8wXIbHI.png" group-title="General",Curb Your Enthusiasm
+#EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm" tvg-logo="https://i.imgur.com/8wXIbHI.png" group-title="24/7",Curb Your Enthusiasm
 http://172.110.220.61:80/Gates1234/1234Gates/2902316.ts
-#EXTINF:-1 group-title="General",24/7 Curb Your Enthusiasm
+#EXTINF:-1 group-title="24/7",24/7 Curb Your Enthusiasm
 http://doubleclicktv.live:80/Liz/123456/102267
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CURB YOUR ENTHUSIASM" tvg-logo="" group-title="General",24/7 CURB YOUR ENTHUSIASM
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CURB YOUR ENTHUSIASM" tvg-logo="" group-title="24/7",24/7 CURB YOUR ENTHUSIASM
 http://mytvstream.net:8080/vx2mwP/541233/325122
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="" group-title="General",24/7 It's Always Sunny in Philadelphia
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CURB YOUR ENTHUSIASM" tvg-logo="" group-title="24/7",24/7 CURB YOUR ENTHUSIASM
+http://tvmate.icu:8080/VCEDxv8eKA/mv23G7gJd6/325122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CURB YOUR ENTHUSIASM" tvg-logo="" group-title="24/7",24/7 CURB YOUR ENTHUSIASM
+http://tvmate.icu:8080/vx2mwP/541233/325122
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="" group-title="24/7",24/7 It's Always Sunny in Philadelphia
 http://ua-tv.xyz:80/george/george1234/89368
-#EXTINF:-1 tvg-id="tvg-id-channel359" tvg-name="24/7: Its Always Sunny in Philadelphia" tvg-logo="http://icons.tw:8080/images/24bd9ba5bdafd0d38942004c69e6a54a.jpg" group-title="General",24/7: Its Always Sunny in Philadelphia
+#EXTINF:-1 tvg-id="tvg-id-channel359" tvg-name="24/7: Its Always Sunny in Philadelphia" tvg-logo="http://icons.tw:8080/images/24bd9ba5bdafd0d38942004c69e6a54a.jpg" group-title="24/7",24/7: Its Always Sunny in Philadelphia
 http://hostengine.live/live/Douglas/Ward/224228.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel128" tvg-name="24/7: Brooklyn Nine-Nine" tvg-logo="http://onlytimewilltell.xyz:2086/images/381728e7d7adca7210707c8014dc7ba9.jpg" group-title="General",24/7: Brooklyn Nine-Nine
+#EXTINF:-1 tvg-id="tvg-id-channel128" tvg-name="24/7: Brooklyn Nine-Nine" tvg-logo="http://onlytimewilltell.xyz:2086/images/381728e7d7adca7210707c8014dc7ba9.jpg" group-title="24/7",24/7: Brooklyn Nine-Nine
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/0358bab2-50dd-4537-858a-257155168223.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 BROOKLYN NINE-NINE" tvg-logo="" group-title="24/7 CHANNELS ",24/7 BROOKLYN NINE-NINE
 http://mytvstream.net:8080/vx2mwP/541233/325130
-#EXTINF:-1 tvg-id="tvg-id-channel823" tvg-name="24/7: The Office US" tvg-logo="http://onlytimewilltell.xyz:2086/images/118d943eb24f35151aef8dcd87eb7659.jpg" group-title="General",24/7: The Office US
+#EXTINF:-1 tvg-id="tvg-id-channel823" tvg-name="24/7: The Office US" tvg-logo="http://onlytimewilltell.xyz:2086/images/118d943eb24f35151aef8dcd87eb7659.jpg" group-title="24/7",24/7: The Office US
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/9cca922f-10ae-47a3-b8ed-23074a06db3c.ts
-#EXTINF:-1 tvg-id="tvg-id-channel914" tvg-name="24/7: Trailer Park Boys" tvg-logo="http://onlytimewilltell.xyz:2086/images/006e36b60d106d68f24837f256d6ab68.jpg" group-title="General",24/7: Trailer Park Boys
+#EXTINF:-1 tvg-id="tvg-id-channel914" tvg-name="24/7: Trailer Park Boys" tvg-logo="http://onlytimewilltell.xyz:2086/images/006e36b60d106d68f24837f256d6ab68.jpg" group-title="24/7",24/7: Trailer Park Boys
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/6e8933e6-e4de-43e4-a761-46186c088019.ts
-#EXTINF:-1 tvg-id="tvg-id-channel528" tvg-name="24/7: Parks and Recreation" tvg-logo="http://onlytimewilltell.xyz:2086/images/cf3585e8c6e47f8defe777b0ad45040d.jpg" group-title="General",24/7: Parks and Recreation
+#EXTINF:-1 tvg-id="tvg-id-channel528" tvg-name="24/7: Parks and Recreation" tvg-logo="http://onlytimewilltell.xyz:2086/images/cf3585e8c6e47f8defe777b0ad45040d.jpg" group-title="24/7",24/7: Parks and Recreation
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/389a423c-eaa7-4567-9b40-d982cacc30e2.ts
-#EXTINF:-1 tvg-id="" tvg-name="Parks And Recreation" tvg-logo="https://i.imgur.com/uouFTfn.png" group-title="General",Parks And Recreation
+#EXTINF:-1 tvg-id="" tvg-name="Parks And Recreation" tvg-logo="https://i.imgur.com/uouFTfn.png" group-title="24/7",Parks And Recreation
 http://172.110.220.61:80/Gates1234/1234Gates/2902387.ts
-#EXTINF:-1 tvg-id="tvg-id-channel579" tvg-name="24/7: Reno 911" tvg-logo="http://onlytimewilltell.xyz:2086/images/d13b58eb710d5dfebe8516c8a5ec29d6.jpg" group-title="General",24/7: Reno 911
+#EXTINF:-1 tvg-id="tvg-id-channel579" tvg-name="24/7: Reno 911" tvg-logo="http://onlytimewilltell.xyz:2086/images/d13b58eb710d5dfebe8516c8a5ec29d6.jpg" group-title="24/7",24/7: Reno 911
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/60cad53b-8518-4f02-b2bf-6ed28a5b2a0f.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arrested Development" tvg-logo="https://i.imgur.com/dKfTdzF.png" group-title="General",Arrested Development
+#EXTINF:-1 tvg-id="" tvg-name="Arrested Development" tvg-logo="https://i.imgur.com/dKfTdzF.png" group-title="24/7",Arrested Development
 http://172.110.220.61:80/Gates1234/1234Gates/2902953.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ARRESTED DEVELOPMENT" tvg-logo="" group-title="General",24/7 ARRESTED DEVELOPMENT
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ARRESTED DEVELOPMENT" tvg-logo="" group-title="24/7",24/7 ARRESTED DEVELOPMENT
 http://mytvstream.net:8080/vx2mwP/541233/325145
-#EXTINF:-1 group-title="General",24/7 Seinfeld
+#EXTINF:-1 group-title="24/7",24/7 Seinfeld
 http://doubleclicktv.live:80/Liz/123456/89336
+
+
+
 
 
 
