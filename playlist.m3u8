@@ -15,6 +15,8 @@ http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4062
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="TeleQuebecMontreal-CIVM.ca" tvg-name="CA : TELE QUEBEC" tvg-logo="http://icons.tw:8080/images/e032bba495ac6d5435d1f9abc7815698.png" group-title="General",CA : TELE QUEBEC
 http://hostengine.live/live/Tray3152/kKtKeZcEKG/53798.m3u
+#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA:TELE QUEBEC (FR)" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/telequebec.png" group-title="General",CA:TELE QUEBEC (FR)
+http://mytvstream.net:8080/Corey1/EF5m9t7VRB/57336
 #EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CA (FR) NOOVO (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="General",CA (FR) NOOVO (D)
 http://tvmate.icu:8080/VCEDxv8eKA/mv23G7gJd6/57501
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",NOOVO 2
