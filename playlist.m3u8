@@ -3,12 +3,18 @@
 http://195.128.27.185:80/smaggard/2121/3717
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://logo.m3uassets.com/icirdi.png" group-title="General",CA (FR) ICI RDI HD
 http://chasintv.vip:80/Cedric1234/Cedric1234/4069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",RDI
+http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4069
+#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="http://172.110.220.61:80/images/cf18f235bcc59697e8ba6a58e443828a.png" group-title="General",RDI
+http://172.110.220.61:80/Gates1234/1234Gates/182230.ts
 #EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" x-tvg-url="http://www.tmsapi.com" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="General",ICI RDI
 http://195.128.27.185:80/smaggard/2121/4069
 #EXTINF:-1 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20251021&channel_id=470575" tvg-id="CKTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",ICI Tele Mauricie
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",ICI Tele Mauricie HD (4)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Mauricie HD" tvg-logo="https://logo.m3uassets.com/icitele.png" group-title="General",CA (FR) ICI Tele Mauricie HD
+http://krooztv.cloud:80/live/anderson1/anderson1/4062.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icimontreal.ca" tvg-name="CA ICI Montreal (FR)" tvg-logo="https://logo.m3uassets.com/icimontreal.png" group-title="General",CA ICI Montreal (FR)
 http://chasintv.vip:80/Cedric1234/Cedric1234/3718
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icitele.ca" tvg-name="CA (FR) ICI Tele Vancouver" tvg-logo="https://logo.m3uassets.com/icivancouver.png" group-title="General",CA (FR) ICI Tele Vancouver
@@ -17,20 +23,18 @@ http://chasintv.vip:80/Cedric1234/Cedric1234/4071
 http://195.128.27.185:80/smaggard/2121/3715
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="http://172.110.220.61:80/images/cf18f235bcc59697e8ba6a58e443828a.png" group-title="General",Noovo
-http://172.110.220.61:80/Gates1234/1234Gates/182230.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="icirdi.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Noovo
-http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4069
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",NOOVO
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/3684
 #EXTINF:-1 group-title="General",NOOVO
 http://doubleclicktv.live:80/Liz/123456/3684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="noovoocfjp.ca" tvg-name="CA NOOVO V-Tele (FR)" tvg-logo="https://solutionspub.ca/wp-content/uploads/2017/03/logo_NoovoCA_blanc2-1.png" group-title="General",CA NOOVO V-Tele (FR)
+http://krooztv.cloud:80/live/anderson1/anderson1/3684.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://logo.m3uassets.com/telequebec.png" group-title="General",CA (FR) TELE QUEBEC
 http://chasintv.vip:80/Cedric1234/Cedric1234/4047
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA (FR) TELE QUEBEC
 http://195.128.27.185:80/smaggard/2121/4047
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",CA (FR) TELE QUEBEC
-http://195.128.27.185:80/smaggard/2121/4000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://logo.m3uassets.com/telequebec.png" group-title="General",CA (FR) TELE QUEBEC
+http://krooztv.cloud:80/live/anderson1/anderson1/4047.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Canal_D_HD.svg/1280px-Canal_D_HD.svg.png" group-title="General",CA (FR) Canal Vie
 http://195.128.27.185:80/smaggard/2121/4036
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalvie.ca" tvg-name="CA (FR) CANAL VIE (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/CanalVie.svg/220px-CanalVie.svg.png" group-title="General",CA (FR) CANAL VIE (B)
@@ -41,20 +45,30 @@ http://172.110.220.61:80/Gates1234/1234Gates/182228.ts
 http://195.128.27.185:80/smaggard/2121/4008
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://logo.m3uassets.com/superecran1.png" group-title="General",CA-FR Super Ecran 1
 http://chasintv.vip:80/Cedric1234/Cedric1234/4008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="CA-FR Super Ecran 1" tvg-logo="https://logo.m3uassets.com/superecran1.png" group-title="General",CA-FR Super Ecran 1
+http://krooztv.cloud:80/live/anderson1/anderson1/4008.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69287_h15_ab.png" group-title="General",CA-FR Super Ecran 2
 http://195.128.27.185:80/smaggard/2121/4006
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://logo.m3uassets.com/superecran2.png" group-title="General",CA-FR Super Ecran 2
 http://chasintv.vip:80/Cedric1234/Cedric1234/4006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="CA-FR Super Ecran 2" tvg-logo="https://logo.m3uassets.com/superecran2.png" group-title="General",CA-FR Super Ecran 2
+http://krooztv.cloud:80/live/anderson1/anderson1/4006.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16188_h15_ab.png" group-title="General",CA-FR Super Ecran 3
 http://195.128.27.185:80/smaggard/2121/4005
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://logo.m3uassets.com/superecran3.png" group-title="General",CA-FR Super Ecran 3
 http://chasintv.vip:80/Cedric1234/Cedric1234/4005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="CA-FR Super Ecran 3" tvg-logo="https://logo.m3uassets.com/superecran3.png" group-title="General",CA-FR Super Ecran 3
+http://krooztv.cloud:80/live/anderson1/anderson1/4005.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74084_h15_ab.png" group-title="General",CA-FR Super Ecran 4
 http://195.128.27.185:80/smaggard/2121/4004
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://logo.m3uassets.com/superecran4.png" group-title="General",CA-FR Super Ecran 4
 http://chasintv.vip:80/Cedric1234/Cedric1234/4004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="CA-FR Super Ecran 4" tvg-logo="https://logo.m3uassets.com/superecran4.png" group-title="General",CA-FR Super Ecran 4
+http://krooztv.cloud:80/live/anderson1/anderson1/4004.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion
 http://lordstreams.live:80/John2/hmLBgkG4NVZb/4073
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://logo.m3uassets.com/evasion.png" group-title="General",CA (FR) Evasion
+http://krooztv.cloud:80/live/anderson1/anderson1/4073.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://logo.m3uassets.com/evasion.png" group-title="General",CA (FR) Evasion
 http://chasintv.vip:80/Cedric1234/Cedric1234/4073
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",Evasion 3
@@ -65,42 +79,50 @@ http://172.110.220.61:80/Gates1234/1234Gates/181945.ts
 http://doubleclicktv.live:80/Liz/123456/4073
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="évasion.ca" tvg-name="CA (FR) Evasion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/300px-%C3%89vasion_logo.svg.png" group-title="General",CA (FR) Evasion
 http://195.128.27.185:80/smaggard/2121/4073
-#EXTINF:-1 tvg-id="" tvg-name="CA: ZESTE" tvg-logo="https://docdog.top/logo/countries/canada/zeste.png" group-title="General",CA: ZESTE
-http://altontestruzlegustaelnepe.neorpahe.top:8080/3951740321970692/3301fed89ec2/23750
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="General",Zeste (2)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4000
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://logo.m3uassets.com/zeste.png" group-title="General",CA-FR Zeste
 http://chasintv.vip:80/Cedric1234/Cedric1234/4000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeste.ca" tvg-name="CA-FR Zeste" tvg-logo="https://logo.m3uassets.com/zeste.png" group-title="General",CA-FR Zeste
+http://krooztv.cloud:80/live/anderson1/anderson1/4000.m3u8
 #EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA Zeste (FR) HD" tvg-logo="http://185.193.88.130:80/images/9f663e8928e1025f77a76b6eede205b8.png" group-title="General",CA Zeste (FR) HD
 http://172.110.220.61:80/Gates1234/1234Gates/182224.ts
 #EXTINF:-1 group-title="General",CA-FR Zeste
 http://doubleclicktv.live:80/Liz/123456/4000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CA: TELE QUEBEC" tvg-name="CA (FR) TELE QUEBEC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/ICI_Radio-Canada_T%C3%A9l%C3%A9_2016.svg/revision/latest/scale-to-width-down/78?cb=20201123172811" group-title="General",Zeste
+http://195.128.27.185:80/smaggard/2121/4000
 #EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA (FR) Cinepop HD" tvg-logo="http://23.227.147.172:80/images/ddab14c20d38d901dedef32ad43b553a.png" group-title="General",CA (FR) Cinepop HD
 http://172.110.220.61:80/Gates1234/1234Gates/1130542.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinepop.ca" tvg-name="CA CinePOP (FR)" tvg-logo="https://logo.m3uassets.com/cinepop.png" group-title="General",CA CinePOP (FR)
 http://chasintv.vip:80/Cedric1234/Cedric1234/4035
 #EXTINF:-1 group-title="General",CA CinePOP (FR)
 http://doubleclicktv.live:80/Liz/123456/4035
-#EXTINF:-1 tvg-id="CinePop.ca" tvg-name="FRCAN : CINEPOP" tvg-logo="http://icons.tw:8080/images/0de8e67dadb8e68012c84ed76c9d5f0e.png" group-title="General",ICI ARTV
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/56824.m3u
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinepop.ca" tvg-name="CA CinePOP (FR)" tvg-logo="http://xplatinmedia.com:8080/images/daf6b0e271bb30c85f9d3387ee472f94.png" group-title="General",CA CinePOP (FR)
 http://195.128.27.185:80/smaggard/2121/4035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinepop.ca" tvg-name="CA CinePOP (FR)" tvg-logo="https://logo.m3uassets.com/cinepop.png" group-title="General",CA CinePOP (FR)
+http://krooztv.cloud:80/live/anderson1/anderson1/4035.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/641215
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/ICI_ARTV_logo.svg" group-title="General",ICI ARTV
 http://doubleclicktv.live:80/live/McDonald46/wbdTTYf8eu/641215.m3u8
 #EXTINF:-1 tvg-id="artv.ca" tvg-name="CA ICI ARTV HD" tvg-logo="http://23.227.147.172:80/images/a8f4145a0081609a87e739d140ef2919.png" group-title="General",ICI ARTV
 http://172.110.220.61:80/Gates1234/1234Gates/1007900.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iciartv.ca" tvg-name="CA ICI AR TV" tvg-logo="https://logo.m3uassets.com/icitv.png" group-title="General",CA ICI AR TV
+http://krooztv.cloud:80/live/anderson1/anderson1/641215.m3u8
 #EXTINF:-1 tvg-id="z.ca" tvg-name="CA Z Tele (FR) HD" tvg-logo="http://172.110.220.61:80/images/d8fd7bba56cebacbfc6dc7a4b42060bb.png" group-title="General",CA Z Tele (FR) HD
 http://172.110.220.61:80/Gates1234/1234Gates/182223.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="unistv.ca" tvg-name="CA Unis_TV_(FR)" tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="General",TV5 Unis
 http://195.128.27.185:80/smaggard/2121/4020
 #EXTINF:-1 tvg-id="canald.ca" tvg-name="CA Canal D (FR) HD" tvg-logo="http://185.193.88.130:80/images/67c96cd12af5882a52863ff2e43d1f49.png" group-title="General",CA Canal D (FR) HD
 http://172.110.220.61:80/Gates1234/1234Gates/181838.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canald.ca" tvg-name="CA Canal D" tvg-logo="https://logo.m3uassets.com/canald.png" group-title="General",CA Canal D
+http://krooztv.cloud:80/live/anderson1/anderson1/3862.m3u8
 #EXTINF:-1 group-title="General",CA Historia (FR)
 http://doubleclicktv.live:80/Liz/123456/3728
 #EXTINF:-1 group-title="General",CA Historia (FR)
 http://doubleclicktv.live:80/Liz/123456/4034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historia.ca" tvg-name="CA Historia (FR)" tvg-logo="https://logo.m3uassets.com/historia.png" group-title="General",CA Historia (FR)
+http://krooztv.cloud:80/live/anderson1/anderson1/4034.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="addiktv.ca" tvg-name="CA Addik TV (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/2560px-Addik_TV.svg.png" group-title="General",CA Addik TV (FR)
 http://195.128.27.185:80/LUISCUEBAS/a77By4qaH5Vt/4037
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="max.ca" tvg-name="CA (FR) MAX" tvg-logo="http://xplatinmedia.com:8080/images/6d575b71a7e9246430bd4f66834b7ff0.png" group-title="General",MAX
@@ -111,6 +133,8 @@ http://172.110.220.61:80/Gates1234/1234Gates/182049.ts
 http://doubleclicktv.live:80/Liz/123456/4051
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="prise2.ca" tvg-name="CA (FR) Prise 2" tvg-logo="https://logo.m3uassets.com/prise2.png" group-title="General",CA (FR) Prise 2
 http://chasintv.vip:80/Cedric1234/Cedric1234/4051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="prise2.ca" tvg-name="CA (FR) Prise 2" tvg-logo="https://logo.m3uassets.com/prise2.png" group-title="General",CA (FR) Prise 2
+http://krooztv.cloud:80/live/anderson1/anderson1/4051.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frissonstv.ca" tvg-name="CA FRISSONS TV (FR)" tvg-logo="https://iptvboss.xyz/logos/Canada/FrissonsTV.ca.png" group-title="General",FRISSONS TV
 http://195.128.27.185:80/smaggard/2121/637807
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="General",Canal Savoir
@@ -131,10 +155,14 @@ http://195.128.27.185:80/smaggard/2121/4078
 http://195.128.27.185:80/smaggard/2121/4053
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="casatv.ca" tvg-name="CA-FR CASA" tvg-logo="https://logo.m3uassets.com/casa.png" group-title="General",CA-FR CASA
 http://chasintv.vip:80/Cedric1234/Cedric1234/4017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="casatv.ca" tvg-name="CA-FR CASA" tvg-logo="https://logo.m3uassets.com/casa.png" group-title="General",CA-FR CASA
+http://krooztv.cloud:80/live/anderson1/anderson1/4017.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="citymontreal.ca" tvg-name="CA City Montreal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="General",CA City Montreal
 http://195.128.27.185:80/smaggard/2121/3831
-
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="qelloconcertsstingray.us" tvg-name="[US] QELLO CONCERTS BY STINGRAY FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/qelloconcertsbystingray.png" group-title="General",[US] QELLO CONCERTS BY STINGRAY FHD [sᴛᴠ+]
+http://krooztv.cloud:80/live/anderson1/anderson1/623182.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Qello Concerts by Stingray" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400004SM_20260421T140746SQUARE.png" group-title="General",Qello Concerts by Stingray
+http://krooztv.cloud:80/live/anderson1/anderson1/829266.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg" group-title="24/7",24/7 Curb Your Enthusiasm
 http://chasintv.vip:80/Cedric1234/Cedric1234/102267
@@ -142,18 +170,16 @@ http://chasintv.vip:80/Cedric1234/Cedric1234/102267
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/d2164f60-f5aa-4f25-a866-3fa1f43007c1.ts
 #EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm" tvg-logo="https://i.imgur.com/8wXIbHI.png" group-title="24/7",Curb Your Enthusiasm
 http://172.110.220.61:80/Gates1234/1234Gates/2902316.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg" group-title="24/7",24/7 Curb Your Enthusiasm
+http://krooztv.cloud:80/live/anderson1/anderson1/102267.m3u8
 #EXTINF:-1 group-title="24/7",24/7 Curb Your Enthusiasm
 http://doubleclicktv.live:80/Liz/123456/102267
 #EXTINF:-1 tvg-id="" tvg-name="24/7 CURB YOUR ENTHUSIASM" tvg-logo="" group-title="24/7",24/7 CURB YOUR ENTHUSIASM
 http://tvmate.icu:8080/VCEDxv8eKA/mv23G7gJd6/325122
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQDOnLs5DK0ta8xQZLsaienIHp.jpg" group-title="24/7",24/7 Curb Your Enthusiasm
 http://chasintv.vip:80/michele1/michele1/102267
-#EXTINF:-1 tvg-id="tvg-id-channel359" tvg-name="24/7: Its Always Sunny in Philadelphia" tvg-logo="http://icons.tw:8080/images/24bd9ba5bdafd0d38942004c69e6a54a.jpg" group-title="24/7",24/7: Curb Your Enthusiasm
-http://hostengine.live/live/Tray3152/kKtKeZcEKG/224228.m3u
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="" group-title="24/7",24/7 It's Always Sunny in Philadelphia
-http://chasintv.vip:80/michele1/michele1/89368
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://onlytimewilltell.xyz:2086/images/daa6c65316f16a32fdb6bb247509373f.jpg" group-title="24/7",24/7: It's Always Sunny in Philadelphia
-http://websafety101.net:5050/live/d_dawson@rogers.com/8QTQmF6QmD/681923.m3u8
+http://krooztv.cloud:80/live/anderson1/anderson1/89368.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 It's Always Sunny in Philadelphia" tvg-logo="" group-title="24/7",24/7 It's Always Sunny in Philadelphia
 http://chasintv.vip:80/Cedric1234/Cedric1234/89368
 #EXTINF:-1 tvg-id="" tvg-name="Arrested Development" tvg-logo="https://i.imgur.com/dKfTdzF.png" group-title="24/7",Arrested Development
@@ -166,22 +192,331 @@ http://chasintv.vip:80/Cedric1234/Cedric1234/102300
 http://195.128.27.185:80/smaggard/2121/89336
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Seinfeld" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" group-title="24/7",24/7 Seinfeld
 http://chasintv.vip:80/Cedric1234/Cedric1234/89336
-
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 Seinfeld" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" group-title="24/7",24/7 Seinfeld
+http://krooztv.cloud:80/live/anderson1/anderson1/89336.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Office" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg" group-title="24/7",24/7 The Office
+http://krooztv.cloud:80/live/anderson1/anderson1/101897.m3u8
 
 
 
 #EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvasports.ca" tvg-name="CA (FR) TVA SPORTS" tvg-logo="https://m1.quebecormedia.com/emp/emp/TVA_Sportse8783afc-5ef6-49b9-bd26-892d06f81de2_ORIGINAL.jpg?impolicy=crop-resize&x=30&y=0&w=3960&h=2228&width=1080" group-title="Hockey",CA (FR) TVA SPORTS
 http://195.128.27.185:80/smaggard/2121/4038
-#EXTINF:-1 group-title="Hockey", SPORTSNET *****************
-#EXTINF:-1 group-title="Hockey", CBC *****************
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvasports.ca" tvg-name="CA (FR) TVA SPORTS" tvg-logo="https://logo.m3uassets.com/tvasports.png" group-title="Hockey",CA (FR) TVA SPORTS
+http://krooztv.cloud:80/live/anderson1/anderson1/4038.m3u8#EXTINF:-1 group-title="Hockey", SPORTSNET *****************
 #EXTINF:-1 group-title="Hockey", RDS *****************
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://e7.pngegg.com/pngimages/69/459/png-clipart-reseau-des-sports-montreal-canadiens-logo-rds2-others-text-sport.png" group-title="Hockey",CA RDS (FR)
 http://195.128.27.185:80/smaggard/2121/3667
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://logo.m3uassets.com/rds.png" group-title="Hockey",CA RDS (FR)
 http://chasintv.vip:80/Cedric1234/Cedric1234/3667
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://logo.m3uassets.com/rds.png" group-title="Hockey",CA RDS (FR)
+http://krooztv.cloud:80/live/anderson1/anderson1/3667.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds2.ca" tvg-name="CA-FR RDS 2" tvg-logo="https://logo.m3uassets.com/rds2.png" group-title="Hockey",CA-FR RDS 2
+http://krooztv.cloud:80/live/anderson1/anderson1/4013.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA-FR RDS INFO" tvg-logo="https://logo.m3uassets.com/cards.png" group-title="Hockey",CA-FR RDS INFO
+http://krooztv.cloud:80/live/anderson1/anderson1/4011.m3u8
 #EXTINF:-1 group-title="Hockey", TSN *****************
+#EXTINF:-1 group-title="Hockey", CBC *****************
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplus.fr" tvg-name="|FR| CANAL+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="FR | CINÉMA",|FR| CANAL+ ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724082.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplus.fr" tvg-name="|FR| Canal+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="FR | CINÉMA",|FR| Canal+ ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724081.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplus.fr" tvg-name="|FR| Canal +" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="FR | CINÉMA",|FR| Canal +
+http://krooztv.cloud:80/live/anderson1/anderson1/724080.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusboxoffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE ᴴᴰ" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/02/Entete-CANALBOX-OFFICE.png" group-title="FR | CINÉMA",|FR| CANAL+ BOX OFFICE ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724079.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusboxoffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE ˢᴰ" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/02/Entete-CANALBOX-OFFICE.png" group-title="FR | CINÉMA",|FR| CANAL+ BOX OFFICE ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724078.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="FR | CINÉMA",|FR| CANAL+ CINEMA ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724077.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalpluscinema.fr" tvg-name="|FR| Canal+ Cinema ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="FR | CINÉMA",|FR| Canal+ Cinema ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724076.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="FR | CINÉMA",|FR| CANAL+ CINEMA ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724075.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+  CINEMA ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="FR | CINÉMA",|FR| CANAL+  CINEMA ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724074.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasatseries.dk" tvg-name="|FR| CANAL+ SERIES ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="FR | CINÉMA",|FR| CANAL+ SERIES ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724073.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| Canal+ Series ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="FR | CINÉMA",|FR| Canal+ Series ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724072.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL+ SERIES ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="FR | CINÉMA",|FR| CANAL+ SERIES ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724071.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL+  SERIES ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="FR | CINÉMA",|FR| CANAL+  SERIES ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724070.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_Écran_2022.png" group-title="FR | CINÉMA",|FR| CANAL+ GRAND ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724069.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_Écran_2022.png" group-title="FR | CINÉMA",|FR| CANAL+ GRAND ECRAN ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724068.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL+ FIRST ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/c+first.png" group-title="FR | CINÉMA",|FR| CANAL+ FIRST ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724067.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  NETFLIX PREMIUM" tvg-logo="https://cryptonaute.fr/wp-content/uploads/2020/09/Netflix.png" group-title="FR | CINÉMA",|FR|  NETFLIX PREMIUM
+http://krooztv.cloud:80/live/anderson1/anderson1/724066.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| DRIVE-IN MOVIE CHANNEL" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/drivein.png" group-title="FR | CINÉMA",|FR| DRIVE-IN MOVIE CHANNEL
+http://krooztv.cloud:80/live/anderson1/anderson1/724065.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="quencenovelas.fr" tvg-name="|FR|  FREQUENCE NOVELAS" tvg-logo="https://i.ibb.co/2kxJjsw/images.jpg" group-title="FR | CINÉMA",|FR|  FREQUENCE NOVELAS
+http://krooztv.cloud:80/live/anderson1/anderson1/724064.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| PASSION NOVELAS FHD" tvg-logo="https://s9.gifyu.com/images/SZr4Z.png" group-title="FR | CINÉMA",FR| PASSION NOVELAS FHD
+http://krooztv.cloud:80/live/anderson1/anderson1/724063.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| Cine+ WESTERN  ᵁᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTss3mOTe7VTijUqV5OVvFFOLp4YSOHNNAa2MAL34VJWMUBlp0C9YQ5YiqdFo1f48uDdqI&usqp=CAU" group-title="FR | CINÉMA",FR| Cine+ WESTERN  ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724062.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| CINÉ PRIME HD" tvg-logo="https://yt3.googleusercontent.com/43FNriK-RL6Vnb65wF8ZfiR3kRMem5J-lT73pRiMc6zQtd5_etKRozmb9mQkXYwPuHgsQs7GWQ=s900-c-k-c0x00ffffff-no-rj" group-title="FR | CINÉMA",FR| CINÉ PRIME HD
+http://krooztv.cloud:80/live/anderson1/anderson1/724061.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ocsmax.fr" tvg-name="|FR| CINE+ OCS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="FR | CINÉMA",|FR| CINE+ OCS ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724060.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ocsmax.fr" tvg-name="|FR| Cine+ OCS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="FR | CINÉMA",|FR| Cine+ OCS ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724059.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinepluspremier.fr" tvg-name="|FR|  CINE+ OCS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="FR | CINÉMA",|FR|  CINE+ OCS ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724058.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinepluspremier.fr" tvg-name="|FR| CINE  OCS ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINEPREMIER.png" group-title="FR | CINÉMA",|FR| CINE  OCS ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724057.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="FR | CINÉMA",|FR| CINE+ FRISSON ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724056.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusfrisson.fr" tvg-name="|FR| Cine+ Frisson ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="FR | CINÉMA",|FR| Cine+ Frisson ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724055.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="FR | CINÉMA",|FR| CINE+ FRISSON ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724054.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusfrisson.fr" tvg-name="|FR| CINE  FRISSON ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINEFRISSON.png" group-title="FR | CINÉMA",|FR| CINE  FRISSON ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724053.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMILY UHD" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE_FAMILHD.png" group-title="FR | CINÉMA",|FR| CINE+ FAMILY UHD
+http://krooztv.cloud:80/live/anderson1/anderson1/724052.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMILY ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE_FAMILHD.png" group-title="FR | CINÉMA",|FR| CINE+ FAMILY ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724051.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMILY ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE_FAMILHD.png" group-title="FR | CINÉMA",|FR| CINE+ FAMILY ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724050.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE  FAMILY ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINEFAMIZ.png" group-title="FR | CINÉMA",|FR| CINE  FAMILY ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724049.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="FR | CINÉMA",|FR| CINE+ EMOTION ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724048.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusemotion.fr" tvg-name="|FR| Cine + Emotion ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="FR | CINÉMA",|FR| Cine + Emotion ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724047.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+EMOTIONHD.png" group-title="FR | CINÉMA",|FR| CINE+ EMOTION ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724046.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusemotion.fr" tvg-name="|FR| CINE  EMOTION ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="FR | CINÉMA",|FR| CINE  EMOTION ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724045.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclub.fr" tvg-name="|FR| CINE+ FESTIVAL ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="FR | CINÉMA",|FR| CINE+ FESTIVAL ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724044.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclub.fr" tvg-name="|FR| Cine+ FESTIVAL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="FR | CINÉMA",|FR| Cine+ FESTIVAL ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724043.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclub.fr" tvg-name="|FR| CINE  FESTIVAL ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINECLUB.png" group-title="FR | CINÉMA",|FR| CINE  FESTIVAL ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724042.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclub.fr" tvg-name="|FR|CINE+ FESTIVAL ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="FR | CINÉMA",|FR|CINE+ FESTIVAL ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724041.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclub.fr" tvg-name="|FR| CINE  FESTIVAL ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINECLUB.png" group-title="FR | CINÉMA",|FR| CINE  FESTIVAL ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724040.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+CLASSICHD.png" group-title="FR | CINÉMA",|FR| CINE+ CLASSIC ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724039.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclassic.fr" tvg-name="|FR| Cine+ Classic ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+CLASSICHD.png" group-title="FR | CINÉMA",|FR| Cine+ Classic ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724038.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+CLASSICHD.png" group-title="FR | CINÉMA",|FR| CINE+ CLASSIC ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724037.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE  CLASSIC ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINECLASSIC.png" group-title="FR | CINÉMA",|FR| CINE  CLASSIC ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724036.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE TV SERIES HD" tvg-logo="https://i.ytimg.com/vi/haZ2HZHuKMo/maxresdefault.jpg" group-title="FR | CINÉMA",|FR| FRANCE TV SERIES HD
+http://krooztv.cloud:80/live/anderson1/anderson1/724035.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| FRANCE TV SERIES SD" tvg-logo="https://i.ytimg.com/vi/haZ2HZHuKMo/maxresdefault.jpg" group-title="FR | CINÉMA",|FR| FRANCE TV SERIES SD
+http://krooztv.cloud:80/live/anderson1/anderson1/724034.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR|  EMOTION'L ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/emotionl.png" group-title="FR | CINÉMA",|FR|  EMOTION'L ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724033.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR|  DOCTOR WHO TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Doctor-who-logo-removebg.png" group-title="FR | CINÉMA",|FR|  DOCTOR WHO TV ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724032.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| BE CINE" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/be-cin.png" group-title="FR | CINÉMA",|FR| BE CINE
+http://krooztv.cloud:80/live/anderson1/anderson1/724031.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novelastv.fr" tvg-name="|FR| NOVELAS TV ˢᴰ" tvg-logo="http://www.ass-media.de/pic/upload/2016/04/06/20160406121858-e73ad326.png" group-title="FR | CINÉMA",|FR| NOVELAS TV ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724030.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| UNIVERS CINÉ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/UNIVERSCINÉ.png" group-title="FR | CINÉMA",|FR| UNIVERS CINÉ ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724029.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| CINÉ NANAR ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/CINÉNANAR.png" group-title="FR | CINÉMA",|FR| CINÉ NANAR ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724028.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| KRIME ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/CRIMEDISTRICTHD-1.png" group-title="FR | CINÉMA",|FR| KRIME ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724027.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| SCREAM IN ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/screamin.png" group-title="FR | CINÉMA",|FR| SCREAM IN ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724026.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ocsmax.fr" tvg-name="|FR| CINE+ OCS ᴴᴰ" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/480x270/filters:quality(80)/image/66718dbcee20a/uploads/media/CHN43FB___20240703.png" group-title="FR | CINÉMA",|FR| CINE+ OCS ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724025.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| DMC: DRIVE-IN MOVIE CHANNEL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/drivein.png" group-title="FR | CINÉMA",|FR| DMC: DRIVE-IN MOVIE CHANNEL ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724024.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="action.fr" tvg-name="|FR| ACTION ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/ACTIONHD.png" group-title="FR | CINÉMA",|FR| ACTION ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724023.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="action.fr" tvg-name="|FR| ACTION ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/ACTIONHD.png" group-title="FR | CINÉMA",|FR| ACTION ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724022.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="action.fr" tvg-name="|FR|  ACTION ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/ACTIONHD.png" group-title="FR | CINÉMA",|FR|  ACTION ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724021.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="action.fr" tvg-name="|FR| ACTION ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/ACTIONHD.png" group-title="FR | CINÉMA",|FR| ACTION ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724020.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnertv.fr" tvg-name="|FR| WARNER TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/WARNERBROSTV.png" group-title="FR | CINÉMA",|FR| WARNER TV ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724019.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnertv.fr" tvg-name="|FR| Warner Bros ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/WARNERBROSTV.png" group-title="FR | CINÉMA",|FR| Warner Bros ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724018.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnertv.fr" tvg-name="|FR|  WARNER TV ᵁᴴᴰ" tvg-logo="https://d3tudoxwnizvk7.cloudfront.net/mobile-app-games-square-jpeg/game/media/browser/WB_Studio_tour_appicon_690x690.jpg" group-title="FR | CINÉMA",|FR|  WARNER TV ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724017.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="warnertv.fr" tvg-name="|FR| WARNER TV ˢᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/WARNERBROSTV.png" group-title="FR | CINÉMA",|FR| WARNER TV ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724016.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polarplus.fr" tvg-name="|FR| POLAR+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/POLAR.png" group-title="FR | CINÉMA",|FR| POLAR+ ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724015.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polarplus.fr" tvg-name="|FR| POLAR PLUS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/POLAR.png" group-title="FR | CINÉMA",|FR| POLAR PLUS ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724014.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polarplus.fr" tvg-name="|FR|  POLAR+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/POLAR.png" group-title="FR | CINÉMA",|FR|  POLAR+ ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724013.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polarplus.fr" tvg-name="|FR| POLAR  ˢᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/POLAR.png" group-title="FR | CINÉMA",|FR| POLAR  ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724012.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR | CINÉMA",|FR| COMEDIE+ ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724011.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedieplus.fr" tvg-name="|FR| Comedie+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR | CINÉMA",|FR| Comedie+ ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724010.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR | CINÉMA",|FR| COMEDIE+ ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724009.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+  ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR | CINÉMA",|FR| COMEDIE+  ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724008.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TCMCINEMA.png" group-title="FR | CINÉMA",|FR| TCM CINEMA ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724007.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TCMCINEMA.png" group-title="FR | CINÉMA",|FR| TCM CINEMA ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724006.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TCMCINEMA.png" group-title="FR | CINÉMA",|FR| TCM CINEMA ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724005.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/COMEDYCENTRAL.png" group-title="FR | CINÉMA",|FR| COMEDY CENTRAL ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724004.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL ᵁᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FR%7c%20FRANCE%20HEVC/COMEDY-CENTRAL-FRANCE.png" group-title="FR | CINÉMA",|FR| COMEDY CENTRAL ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724003.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL FRANCE ˢᴰ" tvg-logo="https://wdet.org/media/wdet/assets/2015/10/23/603px-Comedy_Central_2011_Logo.svg.png" group-title="FR | CINÉMA",|FR| COMEDY CENTRAL FRANCE ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724002.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="FR | CINÉMA",|FR| PARAMOUNT CHANNEL ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724001.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.fr" tvg-name="|FR| Paramount Channel ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="FR | CINÉMA",|FR| Paramount Channel ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/724000.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.fr" tvg-name="|FR|  PARAMOUNT CHANNEL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="FR | CINÉMA",|FR|  PARAMOUNT CHANNEL ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723999.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="FR | CINÉMA",|FR| PARAMOUNT CHANNEL ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723998.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.fr" tvg-name="|FR| Paramount Channel Decale ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="FR | CINÉMA",|FR| Paramount Channel Decale ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723997.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.fr" tvg-name="FR PARAMOUNT DECALE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="FR | CINÉMA",FR PARAMOUNT DECALE ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723996.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT DECALE ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="FR | CINÉMA",|FR| PARAMOUNT DECALE ˢᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723995.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/TCMCINEMA.png" group-title="FR | CINÉMA",|FR| TCM CINEMA ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723994.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA" tvg-logo="http://138.199.27.237:8080/FRANCE/TCMCINEMA.png" group-title="FR | CINÉMA",|FR| TCM CINEMA
+http://krooztv.cloud:80/live/anderson1/anderson1/723993.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR|  MULTIVISION 1" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Multivision_logo_2005.png" group-title="FR | CINÉMA",|FR|  MULTIVISION 1
+http://krooztv.cloud:80/live/anderson1/anderson1/723992.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MULTIVISION 2" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Multivision_logo_2005.png" group-title="FR | CINÉMA",|FR| MULTIVISION 2
+http://krooztv.cloud:80/live/anderson1/anderson1/723991.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MULTIVISION 3" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Multivision_logo_2005.png" group-title="FR | CINÉMA",|FR| MULTIVISION 3
+http://krooztv.cloud:80/live/anderson1/anderson1/723990.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MULTIVISION 4" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Multivision_logo_2005.png" group-title="FR | CINÉMA",|FR| MULTIVISION 4
+http://krooztv.cloud:80/live/anderson1/anderson1/723989.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| MULTIVISION 5" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Multivision_logo_2005.png" group-title="FR | CINÉMA",|FR| MULTIVISION 5
+http://krooztv.cloud:80/live/anderson1/anderson1/723988.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gongmax.fr" tvg-name="|FR| Gong Max ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/GongMax.png" group-title="FR | CINÉMA",|FR| Gong Max ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723987.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gongmax.fr" tvg-name="|FR| Gong Tv Max ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/GongMax.png" group-title="FR | CINÉMA",|FR| Gong Tv Max ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723986.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| NETFLIX NEWS" tvg-logo="https://cryptonaute.fr/wp-content/uploads/2020/09/Netflix.png" group-title="FR | CINÉMA",|FR| NETFLIX NEWS
+http://krooztv.cloud:80/live/anderson1/anderson1/723985.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Apple TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/AppleTV.png" group-title="FR | CINÉMA",|FR| Apple TV ᵁᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723984.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR Rotana Cinema +FR" tvg-logo="" group-title="FR | CINÉMA",FR Rotana Cinema +FR
+http://krooztv.cloud:80/live/anderson1/anderson1/723983.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| ORANGE CINE (Tribes of Europa)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE (Tribes of Europa)
+http://krooztv.cloud:80/live/anderson1/anderson1/723982.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| ORANGE CINE 1 (miss americana)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 1 (miss americana)
+http://krooztv.cloud:80/live/anderson1/anderson1/723981.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| ORANGE CINE 2 (malcolm & marie)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 2 (malcolm & marie)
+http://krooztv.cloud:80/live/anderson1/anderson1/723980.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| ORANGE CINE 3 (Vacarme)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 3 (Vacarme)
+http://krooztv.cloud:80/live/anderson1/anderson1/723979.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ORANGE CINE 4 (The Burnt Orange Heresy)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 4 (The Burnt Orange Heresy)
+http://krooztv.cloud:80/live/anderson1/anderson1/723978.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| OCS Go Cinema 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/OCSGO.png" group-title="FR | CINÉMA",|FR| OCS Go Cinema 4 ᴴᴰ
+http://krooztv.cloud:80/live/anderson1/anderson1/723977.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ORANGE CINE 5 (Palmer)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 5 (Palmer)
+http://krooztv.cloud:80/live/anderson1/anderson1/723976.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ORANGE CINE 6 (We Bare Bears: The Movie)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 6 (We Bare Bears: The Movie)
+http://krooztv.cloud:80/live/anderson1/anderson1/723975.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ORANGE CINE 7 (The Rental)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 7 (The Rental)
+http://krooztv.cloud:80/live/anderson1/anderson1/723974.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| ORANGE CINE 8 (Echo boomers)" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR | CINÉMA",|FR| ORANGE CINE 8 (Echo boomers)
+http://krooztv.cloud:80/live/anderson1/anderson1/723973.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 1" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 1
+http://krooztv.cloud:80/live/anderson1/anderson1/723972.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="|FR| CANAL PLAY 2" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 2
+http://krooztv.cloud:80/live/anderson1/anderson1/723971.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 3" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 3
+http://krooztv.cloud:80/live/anderson1/anderson1/723970.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 4" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 4
+http://krooztv.cloud:80/live/anderson1/anderson1/723969.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 5" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 5
+http://krooztv.cloud:80/live/anderson1/anderson1/723968.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 6" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 6
+http://krooztv.cloud:80/live/anderson1/anderson1/723967.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 7" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 7
+http://krooztv.cloud:80/live/anderson1/anderson1/723966.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 8" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 8
+http://krooztv.cloud:80/live/anderson1/anderson1/723965.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| CANAL PLAY 9" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR| CANAL PLAY 9
+http://krooztv.cloud:80/live/anderson1/anderson1/723964.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  CANAL PLAY 10" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR|  CANAL PLAY 10
+http://krooztv.cloud:80/live/anderson1/anderson1/723963.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR|  CANAL PLAY 11" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR | CINÉMA",|FR|  CANAL PLAY 11
+http://krooztv.cloud:80/live/anderson1/anderson1/723962.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran.ca" tvg-name="|FR| Super Ecran +1" tvg-logo="http://138.199.27.237:8080/CANADA/SUPERECRAN1.png" group-title="FR | CINÉMA",|FR| Super Ecran +1
+http://krooztv.cloud:80/live/anderson1/anderson1/723961.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran2.ca" tvg-name="|FR| Super Ecran +2" tvg-logo="http://138.199.27.237:8080/CANADA/SUPERECRAN-2.png" group-title="FR | CINÉMA",|FR| Super Ecran +2
+http://krooztv.cloud:80/live/anderson1/anderson1/723960.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran3.ca" tvg-name="|FR| Super Ecran +3" tvg-logo="http://138.199.27.237:8080/CANADA/SUPERECRAN 3.png" group-title="FR | CINÉMA",|FR| Super Ecran +3
+http://krooztv.cloud:80/live/anderson1/anderson1/723959.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="superecran4.ca" tvg-name="|FR| Super Ecran +4" tvg-logo="http://138.199.27.237:8080/CANADA/SUPERECRAN4.png" group-title="FR | CINÉMA",|FR| Super Ecran +4
+http://krooztv.cloud:80/live/anderson1/anderson1/723958.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|FR| Super Ecran +5" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/superecran.png" group-title="FR | CINÉMA",|FR| Super Ecran +5
+http://krooztv.cloud:80/live/anderson1/anderson1/723957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ CINEMA HD" tvg-logo="http://vod-logo.net/photos/818e38516b729fb1040d01c0e03e6956.png" group-title="FR | CINÉMA",FR| CANAL+ CINEMA HD
+https://thenewxtreme2025.xyz/live/FranciscoMunoz/wtsm5YdFYP/438753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ CLUB HD" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/CINE+CLUB.png" group-title="FR | CINÉMA",FR| CINE+ CLUB HD
+https://thenewxtreme2025.xyz/live/FranciscoMunoz/wtsm5YdFYP/438730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER HD" tvg-logo="https://lo1.in/LOGO/FR | CINÉMA/cinepluspremier.png" group-title="FR | CINÉMA",FR| CINE+ PREMIER HD
+https://thenewxtreme2025.xyz/live/FranciscoMunoz/wtsm5YdFYP/438720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| COMEDIE+ HD" tvg-logo="http://xplatinmedia.com:8080/images/294384b25bf72e10fc67f676f9b34a0d.png" group-title="FR | CINÉMA",FR| COMEDIE+ HD
+https://thenewxtreme2025.xyz/live/FranciscoMunoz/wtsm5YdFYP/438715.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE FR" tvg-name="TV5 Monde HD FR" tvg-logo="http://tugapt.com/picons/tv5mondefr.png" group-title="FR | CINÉMA",TV5 Monde HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/1439
+#EXTINF:-1 tvg-id="Canalplus Grand Ecran FR" tvg-name="Canal+ Grand Écran FHD FR" tvg-logo="http://tugapt.com/picons/canalplusgrandecran.png" group-title="FR | CINÉMA",Canal+ Grand Écran FHD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/113174
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="CANAL+ Cinema HD FR" tvg-logo="http://tugapt.com/picons/canalpluscinemahdfr.png" group-title="FR | CINÉMA",CANAL+ Cinema HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/1470
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="Ciné+ Premier HD FR" tvg-logo="http://tugapt.com/picons/cinepluspremierhdfr.png" group-title="FR | CINÉMA",Ciné+ Premier HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/1463
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 1 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR | CINÉMA",Canal Play 1 HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4126
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 2 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR | CINÉMA",Canal Play 2 HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4125
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 3 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR | CINÉMA",Canal Play 3 HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4124
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 4 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR | CINÉMA",Canal Play 4 HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4123
+#EXTINF:-1 tvg-id="Play5 FR" tvg-name="Canal Play 5 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR | CINÉMA",Canal Play 5 HD FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4122
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 1 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR | CINÉMA",A La Carte 1 FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4141
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 2 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR | CINÉMA",A La Carte 2 FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4140
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 3 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR | CINÉMA",A La Carte 3 FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4139
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 4 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR | CINÉMA",A La Carte 4 FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4138
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 5 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR | CINÉMA",A La Carte 5 FR
+http://fonziptv.com:8080/augustorodrigues/I9VNagK3A5/4137
+
+
+
+
+
+
+
+
 
 
 
