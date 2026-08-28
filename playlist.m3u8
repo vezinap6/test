@@ -3,25 +3,25 @@
 
 #EXTINF:-1 tvg-id="1298495" tvg-name="###### CAFR - GENERAL ######" tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="TEST|TEST|TEST",###### CAFR - GENERAL ######
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1298495.m3u8
-#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CAFR - ZESTE HEVC ◉ " tvg-logo="https://go4.pw/CANADA/zeste.png" group-title="TEST|TEST|TEST",CAFR - ZESTE HEVC ◉ 
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CAFR - ZESTE HEVC" tvg-logo="https://go4.pw/CANADA/zeste.png" group-title="TEST|TEST|TEST",CAFR - ZESTE HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106704.m3u8
 #EXTINF:-1 tvg-id="zeste.ca" tvg-name="CAFR - ZESTE HD" tvg-logo="https://go4.pw/CANADA/zeste.png" group-title="TEST|TEST|TEST",CAFR - ZESTE HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1032692.m3u8
-#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CAFR - CASA HD ◉ " tvg-logo="https://go4.pw/CANADA/casa.png" group-title="TEST|TEST|TEST",CAFR - CASA HD ◉ 
+#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CAFR - CASA HD" tvg-logo="https://go4.pw/CANADA/casa.png" group-title="TEST|TEST|TEST",CAFR - CASA HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106554.m3u8
-#EXTINF:-1 tvg-id="assembleenationale.ca" tvg-name="CAFR - CANAL V ◉ " tvg-logo="https://go4.pw/CANADA/canalv.png" group-title="TEST|TEST|TEST",CAFR - CANAL V ◉ 
+#EXTINF:-1 tvg-id="assembleenationale.ca" tvg-name="CAFR - CANAL V" tvg-logo="https://go4.pw/CANADA/canalv.png" group-title="TEST|TEST|TEST",CAFR - CANAL V  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106670.m3u8
-#EXTINF:-1 tvg-id="z.ca" tvg-name="CAFR - CANAL Z HD ◉ " tvg-logo="https://go4.pw/CANADA/canalz.png" group-title="TEST|TEST|TEST",CAFR - CANAL Z HD ◉ 
+#EXTINF:-1 tvg-id="z.ca" tvg-name="CAFR - CANAL Z HD" tvg-logo="https://go4.pw/CANADA/canalz.png" group-title="TEST|TEST|TEST",CAFR - CANAL Z HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106553.m3u8
-#EXTINF:-1 tvg-id="zeetv.ca" tvg-name="CAFR - Z TELE ◉ " tvg-logo="https://go4.pw/CANADA/canalz.png" group-title="TEST|TEST|TEST",CAFR - Z TELE ◉ 
+#EXTINF:-1 tvg-id="zeetv.ca" tvg-name="CAFR - Z TELE" tvg-logo="https://go4.pw/CANADA/canalz.png" group-title="TEST|TEST|TEST",CAFR - Z TELE  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106703.m3u8
-#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CAFR - CANAL VIE HD ◉ " tvg-logo="https://go4.pw/CANADA/canalvie.png" group-title="TEST|TEST|TEST",CAFR - CANAL VIE HD ◉ 
+#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CAFR - CANAL VIE HD" tvg-logo="https://go4.pw/CANADA/canalvie.png" group-title="TEST|TEST|TEST",CAFR - CANAL VIE HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106552.m3u8
-#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CAFR - VIE ◉ " tvg-logo="https://go4.pw/CANADA/vie.png" group-title="TEST|TEST|TEST",CAFR - VIE ◉ 
+#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CAFR - VIE" tvg-logo="https://go4.pw/CANADA/vie.png" group-title="TEST|TEST|TEST",CAFR - VIE  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106700.m3u8
 #EXTINF:-1 tvg-id="189291" tvg-name="CAFR - SEASONS HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/SEASONS_SD.png" group-title="TEST|TEST|TEST",CAFR - SEASONS HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/189291.m3u8
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CAFR - SAVOIR MEDIA HD ◉ " tvg-logo="https://go4.pw/CANADA/savoirmedia.png" group-title="TEST|TEST|TEST",CAFR - SAVOIR MEDIA HD ◉ 
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CAFR - SAVOIR MEDIA HD" tvg-logo="https://go4.pw/CANADA/savoirmedia.png" group-title="TEST|TEST|TEST",CAFR - SAVOIR MEDIA HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47435.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAFR - PRISE HD ◉" tvg-logo="https://go4.pw/CANADA/prise.png" group-title="TEST|TEST|TEST",CAFR - PRISE HD ◉
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/30401.m3u8
@@ -37,11 +37,11 @@ http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1032696.m3u8
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1032689.m3u8
 #EXTINF:-1 tvg-id="ellefictions.ca" tvg-name="CAFR - ELLE FICTIONS HD ◉" tvg-logo="https://go4.pw/CANADA/ellefictions.png" group-title="TEST|TEST|TEST",CAFR - ELLE FICTIONS HD ◉
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106558.m3u8
-#EXTINF:-1 tvg-id="addiktv.ca" tvg-name="CAFR - ADDIKTV HEVC ◉ " tvg-logo="https://go4.pw/CANADA/addiktv.png" group-title="TEST|TEST|TEST",CAFR - ADDIKTV HEVC ◉ 
+#EXTINF:-1 tvg-id="addiktv.ca" tvg-name="CAFR - ADDIKTV HEVC" tvg-logo="https://go4.pw/CANADA/addiktv.png" group-title="TEST|TEST|TEST",CAFR - ADDIKTV HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106547.m3u8
 #EXTINF:-1 tvg-id="addiktv.ca" tvg-name="CAFR - ADDIK TV HD" tvg-logo="https://go4.pw/CANADA/addiktv.png" group-title="TEST|TEST|TEST",CAFR - ADDIK TV HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47438.m3u8
-#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CAFR - NOOVO HD  ◉ " tvg-logo="https://go4.pw/CANADA/noovo.png" group-title="TEST|TEST|TEST",CAFR - NOOVO HD  ◉ 
+#EXTINF:-1 tvg-id="cfjpmontreal.ca" tvg-name="CAFR - NOOVO HD " tvg-logo="https://go4.pw/CANADA/noovo.png" group-title="TEST|TEST|TEST",CAFR - NOOVO HD   
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106665.m3u8
 #EXTINF:-1 tvg-id="1159154" tvg-name="CAFR - NATYF TV HD ◉" tvg-logo="https://go4.pw/CANADA/natyf.png" group-title="TEST|TEST|TEST",CAFR - NATYF TV HD ◉
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1159154.m3u8
@@ -103,7 +103,7 @@ http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1032686.m3u8
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106566.m3u8
 #EXTINF:-1 tvg-id="artv.ca" tvg-name="CAFR - ICI ARTV HD²" tvg-logo="https://go4.pw/CANADA/iciartv.png" group-title="TEST|TEST|TEST",CAFR - ICI ARTV HD²
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47437.m3u8
-#EXTINF:-1 tvg-id="tva.ca" tvg-name="CAFR - TVA MONTREAL HEVC ◉ " tvg-logo="https://go4.pw/CANADA/TVA.png" group-title="TEST|TEST|TEST",CAFR - TVA MONTREAL HEVC ◉ 
+#EXTINF:-1 tvg-id="tva.ca" tvg-name="CAFR - TVA MONTREAL HEVC" tvg-logo="https://go4.pw/CANADA/TVA.png" group-title="TEST|TEST|TEST",CAFR - TVA MONTREAL HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106607.m3u8
 #EXTINF:-1 tvg-id="tva.ca" tvg-name="CAFR - TVA MONTREAL HD" tvg-logo="https://go4.pw/CANADA/TVA.png" group-title="TEST|TEST|TEST",CAFR - TVA MONTREAL HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/73148.m3u8
@@ -147,13 +147,13 @@ http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106676.m3u8
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106659.m3u8
 #EXTINF:-1 tvg-id="1455652" tvg-name="##### CAFR - NEWS #####" tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="TEST|TEST|TEST",##### CAFR - NEWS #####
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1455652.m3u8
-#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CAFR - RDI FHD ◉ " tvg-logo="https://go4.pw/CANADA/rdi.png" group-title="TEST|TEST|TEST",CAFR - RDI FHD ◉ 
+#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CAFR - RDI FHD" tvg-logo="https://go4.pw/CANADA/rdi.png" group-title="TEST|TEST|TEST",CAFR - RDI FHD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47416.m3u8
-#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CAFR - ICI RDI HEVC ◉ " tvg-logo="https://go4.pw/CANADA/icirdi.png" group-title="TEST|TEST|TEST",CAFR - ICI RDI HEVC ◉ 
+#EXTINF:-1 tvg-id="rdinews.ca" tvg-name="CAFR - ICI RDI HEVC" tvg-logo="https://go4.pw/CANADA/icirdi.png" group-title="TEST|TEST|TEST",CAFR - ICI RDI HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106688.m3u8
-#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CAFR - ICI RDI HD ◉ " tvg-logo="https://go4.pw/CANADA/icirdi.png" group-title="TEST|TEST|TEST",CAFR - ICI RDI HD ◉ 
+#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CAFR - ICI RDI HD" tvg-logo="https://go4.pw/CANADA/icirdi.png" group-title="TEST|TEST|TEST",CAFR - ICI RDI HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106574.m3u8
-#EXTINF:-1 tvg-id="nouvelles.ca" tvg-name="CAFR - LCN HEVC ◉ " tvg-logo="https://go4.pw/CANADA/lcn.png" group-title="TEST|TEST|TEST",CAFR - LCN HEVC ◉ 
+#EXTINF:-1 tvg-id="nouvelles.ca" tvg-name="CAFR - LCN HEVC" tvg-logo="https://go4.pw/CANADA/lcn.png" group-title="TEST|TEST|TEST",CAFR - LCN HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106690.m3u8
 #EXTINF:-1 tvg-id="nouvelles.ca" tvg-name="CAFR - LCN HD ◉" tvg-logo="https://go4.pw/CANADA/lcn.png" group-title="TEST|TEST|TEST",CAFR - LCN HD ◉
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106580.m3u8
@@ -189,7 +189,7 @@ http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1298487.m3u8
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106694.m3u8
 #EXTINF:-1 tvg-id="rds.ca" tvg-name="CAFR - RDS (HQ)  (R) HD" tvg-logo="https://go4.pw/CANADA/rds.png" group-title="TEST|TEST|TEST",CAFR - RDS (HQ)  (R) HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106663.m3u8
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CAFR - RDS HD ◉ [BK]" tvg-logo="https://go4.pw/CANADA/rds.png" group-title="TEST|TEST|TEST",CAFR - RDS HD ◉ [BK]
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CAFR - RDS HD  [BK]" tvg-logo="https://go4.pw/CANADA/rds.png" group-title="TEST|TEST|TEST",CAFR - RDS HD  [BK]
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47415.m3u8
 #EXTINF:-1 tvg-id="rds2.ca" tvg-name="CAFR - RDS 2 HEVC ◉" tvg-logo="https://go4.pw/CANADA/rds2.png" group-title="TEST|TEST|TEST",CAFR - RDS 2 HEVC ◉
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106695.m3u8
@@ -221,27 +221,27 @@ http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1019785.m3u8
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1019786.m3u8
 #EXTINF:-1 tvg-id="1298497" tvg-name="##### CAFR - MOVIES & SERIES #####" tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="TEST|TEST|TEST",##### CAFR - MOVIES & SERIES #####
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1298497.m3u8
-#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CAFR - SUPER ECRAN 1 HEVC ◉ " tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 1 HEVC ◉ 
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CAFR - SUPER ECRAN 1 HEVC" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 1 HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106666.m3u8
 #EXTINF:-1 tvg-id="superecran.ca" tvg-name="CAFR - SUPER ECRAN 1 HD" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 1 HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47411.m3u8
-#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CAFR - SUPER ECRAN 2 HEVC ◉ " tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 2 HEVC ◉ 
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CAFR - SUPER ECRAN 2 HEVC" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 2 HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106597.m3u8
 #EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CAFR - SUPER ECRAN 2 HD" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 2 HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47410.m3u8
-#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CAFR - SUPER ECRAN 3 HEVC ◉ " tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 3 HEVC ◉ 
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CAFR - SUPER ECRAN 3 HEVC" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 3 HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106668.m3u8
 #EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CAFR - SUPER ECRAN 3 HD" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 3 HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47409.m3u8
-#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CAFR - SUPER ECRAN 4 HEVC ◉ " tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 4 HEVC ◉ 
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CAFR - SUPER ECRAN 4 HEVC" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 4 HEVC  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/188165.m3u8
 #EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CAFR - SUPER ECRAN 4 HD" tvg-logo="https://go4.pw/CANADA/superecran.png" group-title="TEST|TEST|TEST",CAFR - SUPER ECRAN 4 HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47408.m3u8
-#EXTINF:-1 tvg-id="canald.ca" tvg-name="CAFR - CANAL D HD ◉ " tvg-logo="https://go4.pw/CANADA/canald.png" group-title="TEST|TEST|TEST",CAFR - CANAL D HD ◉ 
+#EXTINF:-1 tvg-id="canald.ca" tvg-name="CAFR - CANAL D HD" tvg-logo="https://go4.pw/CANADA/canald.png" group-title="TEST|TEST|TEST",CAFR - CANAL D HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106678.m3u8
-#EXTINF:-1 tvg-id="seriesplus.ca" tvg-name="CAFR - SERIES+ HD ◉ " tvg-logo="https://go4.pw/CANADA/series+.png" group-title="TEST|TEST|TEST",CAFR - SERIES+ HD ◉ 
+#EXTINF:-1 tvg-id="seriesplus.ca" tvg-name="CAFR - SERIES+ HD" tvg-logo="https://go4.pw/CANADA/series+.png" group-title="TEST|TEST|TEST",CAFR - SERIES+ HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106594.m3u8
-#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CAFR - CINEPOP HD ◉ " tvg-logo="https://go4.pw/CANADA/cinepop.png" group-title="TEST|TEST|TEST",CAFR - CINEPOP HD ◉ 
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CAFR - CINEPOP HD" tvg-logo="https://go4.pw/CANADA/cinepop.png" group-title="TEST|TEST|TEST",CAFR - CINEPOP HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106556.m3u8
 #EXTINF:-1 tvg-id="max.ca" tvg-name="CAFR - MAX HD" tvg-logo="https://go4.pw/CANADA/max.png" group-title="TEST|TEST|TEST",CAFR - MAX HD
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47420.m3u8
