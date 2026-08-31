@@ -749,3 +749,436 @@ https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 channel-id="66f55cf2483d460008f68746-fr" tvg-id="66f55cf2483d460008f68746-fr" tvg-logo="https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png" group-title="PlutoTV - France",Zone Interdite
 https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR| CANAL+ UHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ UHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1223128
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR| CANAL+ FHD" tvg-logo="https://lo1.in/fr/cpp.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/382
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR| CANAL+ FHD [BK]" tvg-logo="https://lo1.in/fr/cpp.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ FHD [BK]
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1373171
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR| CANAL+ CINEMA FHD" tvg-logo="https://lo1.in/fr/cnlpcc.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ CINEMA FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/383
+#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="FR| CANAL+ KIDS FHD" tvg-logo="https://lo1.in/fr/cnlpff.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ KIDS FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/384
+#EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://lo1.in/fr/unehdd.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ GRAND ECRAN FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/665
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE FHD" tvg-logo="https://lo1.in/fr/boxoffice.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ BOX OFFICE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/9318
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER FHD" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ PREMIER FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/386
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR| CINE+ EMOTION FHD" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ EMOTION FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/387
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR| CINE+ FAMIZ FHD" tvg-logo="https://lo1.in/fr/cfamzz.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FAMIZ FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/388
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR| CINE+ FRISSON FHD" tvg-logo="https://lo1.in/fr/cfrii.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FRISSON FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/389
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR| CINE+ CLASSIC FHD" tvg-logo="https://lo1.in/fr/cnpccc.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLASSIC FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/390
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR| CINE+ CLUB FHD" tvg-logo="https://lo1.in/fr/cnpcll.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLUB FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/391
+#EXTINF:-1 tvg-id="cineplusocs.fr" tvg-name="FR| CINE+ OCS FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ OCS FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1050935
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ WESTERN FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ WESTERN FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1443203
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE TV SERIES FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| FRANCE TV SERIES FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/6932
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR| ACTION FHD" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="EU | FRANCE CINEMA ",FR| ACTION FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/392
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR| TCM CINÉMA FHD" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="EU | FRANCE CINEMA ",FR| TCM CINÉMA FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/393
+#EXTINF:-1 tvg-id="" tvg-name="FR| PASSION NOVELAS FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| PASSION NOVELAS FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1275368
+#EXTINF:-1 tvg-id="" tvg-name="FR| PASSION BOLLYWOOD FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| PASSION BOLLYWOOD FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1275369
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROCHANNEL FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| EUROCHANNEL FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1050934
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR| WARNER TV FHD" tvg-logo="https://lo1.in/fr/wartv.png" group-title="EU | FRANCE CINEMA ",FR| WARNER TV FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/396
+#EXTINF:-1 tvg-id="" tvg-name="FR| TECH AND CO FHD" tvg-logo="https://lo1.in/fr/tech.png" group-title="EU | FRANCE CINEMA ",FR| TECH AND CO FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/19152
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROUGE TV FHD" tvg-logo="https://lo1.in/fr/rogtvvv.png" group-title="EU | FRANCE CINEMA ",FR| ROUGE TV FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/397
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 1 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 1 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165911
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 2 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 2 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165910
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 3 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 3 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165909
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 4 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 4 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165908
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 5 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 5 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165907
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 6 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 6 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165906
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 7 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 7 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165905
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 8 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 8 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165904
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 9 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 9 FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/165903
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 10" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 10
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29249
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 11" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="EU | FRANCE CINEMA ",FR| CANAL PLAY 11
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29248
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CINEMA HD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",✦●✦| CINEMA HD |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/414
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR| CANAL+ HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/415
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR| CANAL+ CINEMA HD" tvg-logo="https://lo1.in/fr/cnlpcc.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ CINEMA HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/416
+#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="FR| CANAL+ KIDS HD" tvg-logo="https://lo1.in/fr/cnlpff.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ KIDS HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/417
+#EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="FR| CANAL+ GRAND ECRAN HD" tvg-logo="https://lo1.in/fr/frohdd.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ GRAND ECRAN HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/197
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE HD" tvg-logo="https://lo1.in/fr/boxoffice.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ BOX OFFICE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/3494
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR| CINE+ FRISSON HD" tvg-logo="https://lo1.in/fr/cnpfrr.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FRISSON HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/425
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER HD" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ PREMIER HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/422
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR| CINE+ FAMIZ HD" tvg-logo="https://lo1.in/fr/cnpfff.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FAMIZ HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/424
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR| CINE+ EMOTION HD" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ EMOTION HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/423
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR| CINE+ CLASSIC HD" tvg-logo="https://lo1.in/fr/cnpccc.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLASSIC HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/426
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR| CINE+ CLUB HD" tvg-logo="https://lo1.in/fr/cnpcll.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLUB HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/427
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="FR| OCS MAX HD" tvg-logo="https://lo1.in/fr/ocsmm.png" group-title="EU | FRANCE CINEMA ",FR| OCS MAX HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/419
+#EXTINF:-1 tvg-id="" tvg-name="FR| OCS CHOC HD" tvg-logo="https://lo1.in/fr/occhcc.png" group-title="EU | FRANCE CINEMA ",FR| OCS CHOC HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/420
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="FR| OCS GEANTS HD" tvg-logo="https://lo1.in/fr/ocsgenn.png" group-title="EU | FRANCE CINEMA ",FR| OCS GEANTS HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/421
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE TV SERIES HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| FRANCE TV SERIES HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/6931
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR| ACTION HD" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="EU | FRANCE CINEMA ",FR| ACTION HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/428
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR| TCM CINÉMA HD" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="EU | FRANCE CINEMA ",FR| TCM CINÉMA HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/429
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR| WARNER TV HD" tvg-logo="https://lo1.in/fr/wartv0.png" group-title="EU | FRANCE CINEMA ",FR| WARNER TV HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/432
+#EXTINF:-1 tvg-id="" tvg-name="FR| WARNER TV NEXT HD" tvg-logo="https://lo1.in/fr/wartv0.png" group-title="EU | FRANCE CINEMA ",FR| WARNER TV NEXT HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1091640
+#EXTINF:-1 tvg-id="" tvg-name="FR| TECH AND CO HD" tvg-logo="https://lo1.in/fr/tech.png" group-title="EU | FRANCE CINEMA ",FR| TECH AND CO HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/19151
+#EXTINF:-1 tvg-id="nollywood.fr" tvg-name="FR| NOLLYWOOD HD" tvg-logo="https://lo1.in/fr/nlwdhd.png" group-title="EU | FRANCE CINEMA ",FR| NOLLYWOOD HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/667
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROUGE TV HD" tvg-logo="https://lo1.in/fr/rogtvvv.png" group-title="EU | FRANCE CINEMA ",FR| ROUGE TV HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/433
+#EXTINF:-1 tvg-id="" tvg-name="FR| EMOTION'L HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| EMOTION'L HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1206990
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CINEMA HEVC |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",✦●✦| CINEMA HEVC |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/398
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR| CANAL+ HEVC" tvg-logo="https://lo1.in/FR/cnlpp1.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/399
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR| CANAL+ CINEMA HEVC" tvg-logo="https://lo1.in/fr/cnlpcc.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ CINEMA HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/400
+#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="FR| CANAL+ KIDS HEVC" tvg-logo="https://lo1.in/fr/cnlpff.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ KIDS HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/401
+#EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="FR| CANAL+ GRAND ECRAN HEVC" tvg-logo="https://lo1.in/fr/unehdd.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ GRAND ECRAN HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/664
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE UHD" tvg-logo="https://lo1.in/fr/boxoffice.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ BOX OFFICE UHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1223129
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROUGE TV HEVC" tvg-logo="https://lo1.in/fr/rogtvvv.png" group-title="EU | FRANCE CINEMA ",FR| ROUGE TV HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/679
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER HEVC" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ PREMIER HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/403
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR| CINE+ EMOTION HEVC" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ EMOTION HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/404
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR| CINE+ FAMIZ HEVC" tvg-logo="https://lo1.in/fr/cnpfff.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FAMIZ HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/405
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR| CINE+ FRISSON HEVC" tvg-logo="https://lo1.in/fr/cfrii.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FRISSON HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/406
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR| CINE+ CLASSIC HEVC" tvg-logo="https://lo1.in/fr/cnpccc.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLASSIC HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/407
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR| CINE+ CLUB HEVC" tvg-logo="https://lo1.in/fr/cnpcll.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLUB HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/408
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR| ACTION HEVC" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="EU | FRANCE CINEMA ",FR| ACTION HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/409
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR| TCM CINÉMA HEVC" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="EU | FRANCE CINEMA ",FR| TCM CINÉMA HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/410
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR| WARNER TV HEVC" tvg-logo="https://lo1.in/fr/wartv0.png" group-title="EU | FRANCE CINEMA ",FR| WARNER TV HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/413
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CINEMA SD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",✦●✦| CINEMA SD |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/184305
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR| CANAL+ SD" tvg-logo="https://lo1.in/fr/cpp.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4320
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR| CANAL+ CINEMA SD" tvg-logo="https://lo1.in/fr/cnlpcc.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ CINEMA SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4319
+#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="FR| CANAL+ KIDS SD" tvg-logo="https://lo1.in/fr/cnlpff.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ KIDS SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4318
+#EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="FR| CANAL+ GRAND ECRAN SD" tvg-logo="https://lo1.in/fr/unehdd.png" group-title="EU | FRANCE CINEMA ",FR| CANAL+ GRAND ECRAN SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/666
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR| ACTION SD" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="EU | FRANCE CINEMA ",FR| ACTION SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4310
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE TV SERIES SD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",FR| FRANCE TV SERIES SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/6930
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER SD" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ PREMIER SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4316
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR| CINE+ EMOTION SD" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ EMOTION SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4315
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR| CINE+ FAMIZ SD" tvg-logo="https://lo1.in/fr/cfamzz.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FAMIZ SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4314
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR| CINE+ FRISSON SD" tvg-logo="https://lo1.in/fr/cfrii.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ FRISSON SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4313
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR| CINE+ CLASSIC SD" tvg-logo="https://lo1.in/fr/cnpccc.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLASSIC SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4312
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR| CINE+ CLUB SD" tvg-logo="https://lo1.in/fr/ccl.png" group-title="EU | FRANCE CINEMA ",FR| CINE+ CLUB SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4311
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR| TCM CINEMA SD" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="EU | FRANCE CINEMA ",FR| TCM CINEMA SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/122519
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR| WARNER TV SD" tvg-logo="https://lo1.in/fr/wartv0.png" group-title="EU | FRANCE CINEMA ",FR| WARNER TV SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/122506
+#EXTINF:-1 tvg-id="nollywood.fr" tvg-name="FR| NOLLYWOOD EPIC SD" tvg-logo="https://lo1.in/fr/nolywoodpiccc.png" group-title="EU | FRANCE CINEMA ",FR| NOLLYWOOD EPIC SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/227541
+#EXTINF:-1 tvg-id="" tvg-name="FR| ROUGE TV SD" tvg-logo="https://lo1.in/fr/rogtvvv.png" group-title="EU | FRANCE CINEMA ",FR| ROUGE TV SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/651
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CINEMA EN DEMANDE |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE CINEMA ",✦●✦| CINEMA EN DEMANDE |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/434
+#EXTINF:-1 tvg-id="" tvg-name="FR| ORANGE CINEMA 1 HD" tvg-logo="https://lo1.in/fr/orncinnn1.png" group-title="EU | FRANCE CINEMA ",FR| ORANGE CINEMA 1 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/435
+#EXTINF:-1 tvg-id="" tvg-name="FR| ORANGE CINEMA 2 HD" tvg-logo="https://lo1.in/fr/orncinnn2.png" group-title="EU | FRANCE CINEMA ",FR| ORANGE CINEMA 2 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/436
+#EXTINF:-1 tvg-id="" tvg-name="FR| ORANGE CINEMA 3 HD" tvg-logo="https://lo1.in/fr/orncinnn3.png" group-title="EU | FRANCE CINEMA ",FR| ORANGE CINEMA 3 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/437
+#EXTINF:-1 tvg-id="" tvg-name="FR| ORANGE CINEMA 4 HD" tvg-logo="https://lo1.in/fr/orncinnn4.png" group-title="EU | FRANCE CINEMA ",FR| ORANGE CINEMA 4 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/438
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| DOCUMENTAIRES FHD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",✦●✦| DOCUMENTAIRES FHD |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/439
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="https://lo1.in/fr/natt1.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/444
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR| NATIONAL GEO WILD FHD" tvg-logo="https://lo1.in/fr/natwildd.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO WILD FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/445
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR| DISCOVERY CHANNEL FHD" tvg-logo="https://lo1.in/fr/dischnn.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY CHANNEL FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/440
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR| DISCOVERY SCIENCE FHD" tvg-logo="https://lo1.in/fr/DISCOVERY SCIENCE FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY SCIENCE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/441
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR| DISCOVERY ID FHD" tvg-logo="https://lo1.in/fr/dicydd.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY ID FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/442
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR| RMC DÉCOUVERTE FHD" tvg-logo="https://lo1.in/fr/rmcdecc.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC DÉCOUVERTE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/453
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FR| RMC STORY FHD" tvg-logo="https://lo1.in/fr/mrcsttt.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC STORY FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/454
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR| PLANETE+ FHD" tvg-logo="https://lo1.in/fr/pltphdd.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/446
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR| PLANETE+ CI FHD" tvg-logo="https://lo1.in/fr/pltpp.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ CI FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/447
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR| PLANETE+ A&E FHD" tvg-logo="https://lo1.in/fr/Planete aventure HD.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ A&E FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/448
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR| HISTOIRE FHD" tvg-logo="https://lo1.in/fr/histvv.png" group-title="EU | FRANCE DOCUMENTARY",FR| HISTOIRE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/456
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR| SCIENCE ET VIE FHD" tvg-logo="https://lo1.in/fr/sciencee.png" group-title="EU | FRANCE DOCUMENTARY",FR| SCIENCE ET VIE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/455
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR| USHUAIA FHD" tvg-logo="https://lo1.in/fr/ushhs.png" group-title="EU | FRANCE DOCUMENTARY",FR| USHUAIA FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/449
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR| SEASONS FHD" tvg-logo="https://lo1.in/fr/sznhd.png" group-title="EU | FRANCE DOCUMENTARY",FR| SEASONS FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/452
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR| CHASSE ET PÊCHE FHD" tvg-logo="https://lo1.in/fr/chph.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHASSE ET PÊCHE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/451
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR| TOUTE L HISTOIRE FHD" tvg-logo="https://lo1.in/fr/tthisttt.png" group-title="EU | FRANCE DOCUMENTARY",FR| TOUTE L HISTOIRE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/457
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOURMAND FHD" tvg-logo="https://lo1.in/fr/gourmandd.png" group-title="EU | FRANCE DOCUMENTARY",FR| GOURMAND FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/918
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR| MY ZEN NATURE FHD" tvg-logo="https://lo1.in/fr/myzen0.png" group-title="EU | FRANCE DOCUMENTARY",FR| MY ZEN NATURE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29278
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR| MY ZEN TV FHD" tvg-logo="https://lo1.in/fr/myzentv.png" group-title="EU | FRANCE DOCUMENTARY",FR| MY ZEN TV FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29281
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR| MY ZEN TV UHD" tvg-logo="https://lo1.in/fr/myzentv.png" group-title="EU | FRANCE DOCUMENTARY",FR| MY ZEN TV UHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1223124
+#EXTINF:-1 tvg-id="" tvg-name="FR| LUXE TV FHD" tvg-logo="https://lo1.in/fr/uxe.png" group-title="EU | FRANCE DOCUMENTARY",FR| LUXE TV FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29246
+#EXTINF:-1 tvg-id="" tvg-name="FR| MAISON ET TRAVAUX FHD" tvg-logo="https://lo1.in/fr/maisontra.png" group-title="EU | FRANCE DOCUMENTARY",FR| MAISON ET TRAVAUX FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29240
+#EXTINF:-1 tvg-id="" tvg-name="FR| IMEARTH FHD" tvg-logo="https://lo1.in/fr/imea.png" group-title="EU | FRANCE DOCUMENTARY",FR| IMEARTH FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29245
+#EXTINF:-1 tvg-id="" tvg-name="FR| CLUBBING TV FHD" tvg-logo="https://lo1.in/fr/clubbngg.png" group-title="EU | FRANCE DOCUMENTARY",FR| CLUBBING TV FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29243
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR| CRIME DISTRICT FHD" tvg-logo="https://lo1.in/fr/crdes.png" group-title="EU | FRANCE DOCUMENTARY",FR| CRIME DISTRICT FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/443
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR| ANIMAUX FHD" tvg-logo="https://lo1.in/fr/animaux.png" group-title="EU | FRANCE DOCUMENTARY",FR| ANIMAUX FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/450
+#EXTINF:-1 tvg-id="" tvg-name="FR| LOVE THE PLANET FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",FR| LOVE THE PLANET FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1293102
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| RMC LIFE FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC LIFE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/461
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR| TREK FHD" tvg-logo="https://lo1.in/fr/trk.png" group-title="EU | FRANCE DOCUMENTARY",FR| TREK FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/459
+#EXTINF:-1 tvg-id="museum.fr" tvg-name="FR| MUSEUM FHD" tvg-logo="https://lo1.in/fr/MUSEUM FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| MUSEUM FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/458
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR| ARTE FHD" tvg-logo="https://lo1.in/fr/art.png" group-title="EU | FRANCE DOCUMENTARY",FR| ARTE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/160
+#EXTINF:-1 tvg-id="tlc.fr" tvg-name="FR| TLC FHD" tvg-logo="https://lo1.in/fr/tllc.png" group-title="EU | FRANCE DOCUMENTARY",FR| TLC FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29236
+#EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name="FR| NAUTICAL CH FHD" tvg-logo="https://lo1.in/fr/naucalch.png" group-title="EU | FRANCE DOCUMENTARY",FR| NAUTICAL CH FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/662
+#EXTINF:-1 tvg-id="" tvg-name="FR| OLYMPIA TV FHD" tvg-logo="https://lo1.in/fr/olmpii.png" group-title="EU | FRANCE DOCUMENTARY",FR| OLYMPIA TV FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/460
+#EXTINF:-1 tvg-id="" tvg-name="FR| NATURE TIME FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATURE TIME FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1397519
+#EXTINF:-1 tvg-id="" tvg-name="FR| DESTINATION NATURE FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",FR| DESTINATION NATURE FHD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1397520
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| DOCUMENTAIRES HD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",✦●✦| DOCUMENTAIRES HD |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/485
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR| NATIONAL GEO HD" tvg-logo="https://lo1.in/fr/natt1.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/490
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR| NATIONAL GEO WILD HD" tvg-logo="https://lo1.in/fr/natwildd.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO WILD HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/491
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/fr/dischnn.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY CHANNEL HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/486
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR| DISCOVERY ID HD" tvg-logo="https://lo1.in/fr/dicydd.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY ID HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/488
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/fr/DISCOVERY SCIENCE FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY SCIENCE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/487
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR| RMC DECOUVERTE HD" tvg-logo="https://lo1.in/fr/rmcdecc.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC DECOUVERTE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/499
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FR| RMC STORY HD" tvg-logo="https://lo1.in/fr/mrcsttt.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC STORY HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/500
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR| CRIME DISTRICT HD" tvg-logo="https://lo1.in/fr/crdes.png" group-title="EU | FRANCE DOCUMENTARY",FR| CRIME DISTRICT HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/489
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR| PLANETE+ HD" tvg-logo="https://lo1.in/fr/pltphdd.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/492
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR| PLANETE+ CI HD" tvg-logo="https://lo1.in/fr/pltpp.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ CI HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/493
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR| PLANETE+ A&E HD" tvg-logo="https://lo1.in/fr/Planete aventure HD.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ A&E HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/494
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR| HISTOIRE HD" tvg-logo="https://lo1.in/fr/histvv.png" group-title="EU | FRANCE DOCUMENTARY",FR| HISTOIRE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/502
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR| SCIENCE ET VIE HD" tvg-logo="https://lo1.in/fr/sciencee.png" group-title="EU | FRANCE DOCUMENTARY",FR| SCIENCE ET VIE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/501
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR| ARTE HD" tvg-logo="https://lo1.in/fr/art.png" group-title="EU | FRANCE DOCUMENTARY",FR| ARTE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/198
+#EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name="FR| NAUTICAL CH HD" tvg-logo="https://lo1.in/fr/naucalch.png" group-title="EU | FRANCE DOCUMENTARY",FR| NAUTICAL CH HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/736
+#EXTINF:-1 tvg-id="" tvg-name="FR| MONDE DU LOISIR HD" tvg-logo="https://lo1.in/fr/mdll.png" group-title="EU | FRANCE DOCUMENTARY",FR| MONDE DU LOISIR HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/216
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR| USHUAIA HD" tvg-logo="https://lo1.in/fr/ushhs.png" group-title="EU | FRANCE DOCUMENTARY",FR| USHUAIA HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/495
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR| SEASONS HD" tvg-logo="https://lo1.in/fr/sznhd.png" group-title="EU | FRANCE DOCUMENTARY",FR| SEASONS HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/498
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR| CHASSE ET PECHE HD" tvg-logo="https://lo1.in/fr/chph.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHASSE ET PECHE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/497
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR| TOUTE L HISTOIRE HD" tvg-logo="https://lo1.in/fr/tthistt.png" group-title="EU | FRANCE DOCUMENTARY",FR| TOUTE L HISTOIRE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/503
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR| ANIMAUX HD" tvg-logo="https://lo1.in/fr/animaux.png" group-title="EU | FRANCE DOCUMENTARY",FR| ANIMAUX HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/496
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| RMC LIFE HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC LIFE HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/507
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR| TREK HD" tvg-logo="https://lo1.in/fr/trk.png" group-title="EU | FRANCE DOCUMENTARY",FR| TREK HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/505
+#EXTINF:-1 tvg-id="museum.fr" tvg-name="FR| MUSEUM HD" tvg-logo=" https://lo1.in/fr/MUSEUM FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| MUSEUM HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/504
+#EXTINF:-1 tvg-id="" tvg-name="FR| OLYMPIA TV HD" tvg-logo="https://lo1.in/fr/olmpii.png" group-title="EU | FRANCE DOCUMENTARY",FR| OLYMPIA TV HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/506
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| DOCUMENTAIRES HEVC |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",✦●✦| DOCUMENTAIRES HEVC |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/462
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR| DISCOVERY SCIENCE HEVC" tvg-logo="https://lo1.in/fr/DISCOVERY SCIENCE FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY SCIENCE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/463
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR| DISCOVERY CHANNEL HEVC" tvg-logo="https://lo1.in/fr/dischnn.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY CHANNEL HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/464
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR| DISCOVERY ID HEVC" tvg-logo="https://lo1.in/fr/dicydd.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY ID HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/465
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR| CRIME DISTRICT HEVC" tvg-logo="https://lo1.in/fr/crdes.png" group-title="EU | FRANCE DOCUMENTARY",FR| CRIME DISTRICT HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/466
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR| NATIONAL GEO HEVC" tvg-logo="https://lo1.in/fr/natt1.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/467
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR| NATIONAL GEO WILD HEVC" tvg-logo="https://lo1.in/fr/natwildd.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO WILD HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/468
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR| PLANETE+ HEVC" tvg-logo="https://lo1.in/fr/pltphdd.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/469
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR| PLANETE+ CI HEVC" tvg-logo="https://lo1.in/fr/pltpp.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ CI HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/470
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR| PLANETE+ A&E  HEVC" tvg-logo="https://lo1.in/fr/Planete aventure HD.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ A&E  HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/471
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR| USHUAIA TV HEVC" tvg-logo="https://lo1.in/fr/ushhs.png" group-title="EU | FRANCE DOCUMENTARY",FR| USHUAIA TV HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/472
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR| ANIMAUX HEVC" tvg-logo="https://lo1.in/fr/animaux0.png" group-title="EU | FRANCE DOCUMENTARY",FR| ANIMAUX HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/473
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR| ARTE HEVC" tvg-logo="https://lo1.in/fr/art.png" group-title="EU | FRANCE DOCUMENTARY",FR| ARTE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/181
+#EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name="FR| NAUTICAL CH HEVC" tvg-logo="https://lo1.in/fr/naucalch.png" group-title="EU | FRANCE DOCUMENTARY",FR| NAUTICAL CH HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/737
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR| CHASSE ET PÊCHE HEVC" tvg-logo="https://lo1.in/fr/chph.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHASSE ET PÊCHE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/474
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR| MY ZEN NATURE HEVC" tvg-logo="https://lo1.in/fr/myzen0.png" group-title="EU | FRANCE DOCUMENTARY",FR| MY ZEN NATURE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29279
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR| SEASONS HEVC" tvg-logo="https://lo1.in/fr/sznhd.png" group-title="EU | FRANCE DOCUMENTARY",FR| SEASONS HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/475
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR| RMC DECOUVERTE HEVC" tvg-logo="https://lo1.in/fr/rmcdecc.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC DECOUVERTE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/476
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FR| RMC STORY HEVC" tvg-logo="https://lo1.in/fr/mrcsttt.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC STORY HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/477
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR| SCIENCE ET VIE HEVC" tvg-logo="https://lo1.in/fr/sciencee.png" group-title="EU | FRANCE DOCUMENTARY",FR| SCIENCE ET VIE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/478
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR| HISTOIRE HEVC" tvg-logo="https://lo1.in/fr/histvv.png" group-title="EU | FRANCE DOCUMENTARY",FR| HISTOIRE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/479
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR| TOUTE L HISTOIRE HEVC" tvg-logo="https://lo1.in/fr/tthistt.png" group-title="EU | FRANCE DOCUMENTARY",FR| TOUTE L HISTOIRE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/480
+#EXTINF:-1 tvg-id="museum.fr" tvg-name="FR| MUSEUM HEVC" tvg-logo=" https://lo1.in/fr/MUSEUM FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| MUSEUM HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/481
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR| TREK HEVC" tvg-logo="https://lo1.in/fr/trk.png" group-title="EU | FRANCE DOCUMENTARY",FR| TREK HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/482
+#EXTINF:-1 tvg-id="" tvg-name="FR| OLYMPIA TV HEVC" tvg-logo="https://lo1.in/fr/olmpii.png" group-title="EU | FRANCE DOCUMENTARY",FR| OLYMPIA TV HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/483
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| RMC LIFE HEVC" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC LIFE HEVC
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/484
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| DOCUMENTAIRES SD |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",✦●✦| DOCUMENTAIRES SD |✦●✦
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4376
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| RMC LIFE SD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC LIFE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4361
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR| ANIMAUX SD" tvg-logo="https://lo1.in/fr/animaux0.png" group-title="EU | FRANCE DOCUMENTARY",FR| ANIMAUX SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4370
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR| CHASSE ET PÊCHE SD" tvg-logo="https://lo1.in/fr/chph.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHASSE ET PÊCHE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4369
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR| HISTOIRE SD" tvg-logo="https://lo1.in/fr/histvv.png" group-title="EU | FRANCE DOCUMENTARY",FR| HISTOIRE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4364
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FR| RMC STORY SD" tvg-logo="https://lo1.in/fr/mrcsttt.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC STORY SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4366
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR| RMC DÉCOUVERTE SD" tvg-logo="https://lo1.in/fr/rmcdecc.png" group-title="EU | FRANCE DOCUMENTARY",FR| RMC DÉCOUVERTE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4367
+#EXTINF:-1 tvg-id="" tvg-name="FR| OLYMPIA TV SD" tvg-logo="https://lo1.in/fr/olmpii.png" group-title="EU | FRANCE DOCUMENTARY",FR| OLYMPIA TV SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4362
+#EXTINF:-1 tvg-id="museum.fr" tvg-name="FR| MUSEUM SD" tvg-logo=" https://lo1.in/fr/MUSEUM FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| MUSEUM SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4363
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR| NATIONAL GEO WILD SD" tvg-logo="https://lo1.in/fr/natwildd.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO WILD SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4374
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR| NATIONAL GEO SD" tvg-logo="https://lo1.in/fr/natt1.png" group-title="EU | FRANCE DOCUMENTARY",FR| NATIONAL GEO SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4375
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR| SEASONS SD" tvg-logo="https://lo1.in/fr/sznhd.png" group-title="EU | FRANCE DOCUMENTARY",FR| SEASONS SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4368
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR| SCIENCE ET VIE SD" tvg-logo="https://lo1.in/fr/sciencee.png" group-title="EU | FRANCE DOCUMENTARY",FR| SCIENCE ET VIE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4365
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR| PLANETE+ SD" tvg-logo="https://lo1.in/fr/pltphdd.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4373
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR| PLANETE+ CI SD" tvg-logo="https://lo1.in/fr/pltpp.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ CI SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4372
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR| PLANETE+ A&E SD" tvg-logo="https://lo1.in/fr/Planete aventure HD.png" group-title="EU | FRANCE DOCUMENTARY",FR| PLANETE+ A&E SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/4371
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR| USHUAIA SD" tvg-logo="https://lo1.in/fr/ushhs.png" group-title="EU | FRANCE DOCUMENTARY",FR| USHUAIA SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/122508
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR| TOUTE L HISTOIRE SD" tvg-logo="https://lo1.in/fr/tthistt.png" group-title="EU | FRANCE DOCUMENTARY",FR| TOUTE L HISTOIRE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/122512
+#EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name="FR| NAUTICAL CH SD" tvg-logo="https://lo1.in/fr/naucalch.png" group-title="EU | FRANCE DOCUMENTARY",FR| NAUTICAL CH SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/2195
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR| CRIME DISTRICT SD" tvg-logo="https://lo1.in/fr/crdes.png" group-title="EU | FRANCE DOCUMENTARY",FR| CRIME DISTRICT SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/2196
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR| MY ZEN NATURE SD" tvg-logo="https://lo1.in/fr/myzen0.png" group-title="EU | FRANCE DOCUMENTARY",FR| MY ZEN NATURE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29280
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR| TREK SD" tvg-logo="https://lo1.in/fr/trk.png" group-title="EU | FRANCE DOCUMENTARY",FR| TREK SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/655
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR| DISCOVERY SCIENCE SD" tvg-logo="https://lo1.in/fr/DISCOVERY SCIENCE FHD.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY SCIENCE SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/2197
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR| DISCOVERY ID SD" tvg-logo="https://lo1.in/fr/dicydd.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY ID SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/2198
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR| DISCOVERY CHANNEL SD" tvg-logo="https://lo1.in/fr/dischnn.png" group-title="EU | FRANCE DOCUMENTARY",FR| DISCOVERY CHANNEL SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/2199
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR| ARTE SD" tvg-logo="https://lo1.in/fr/art.png" group-title="EU | FRANCE DOCUMENTARY",FR| ARTE SD
+
