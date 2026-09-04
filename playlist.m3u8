@@ -279,12 +279,6 @@ http://195.128.27.185:80/smaggard/2121/637807
 http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31368
 #EXTINF:-1 tvg-id="frissonstv.ca" tvg-name="  - FRISSONS TV HD" tvg-logo="https://go4.pw/CANADA/frissons.png" group-title="General",  - FRISSONS TV HD  
 http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1032685.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="General",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moicie.ca" tvg-name="CA MOI et CIE (FR)" tvg-logo="http://xplatinmedia.com:8080/images/8b3279e872cc725c6dbc1778354950b0.png" group-title="General",CA MOI et CIE (FR)
@@ -303,6 +297,98 @@ http://172.110.220.61:80/Gates1234/1234Gates/2902316.ts
 http://chasintv.vip:80/Cedric1234/Cedric1234/89336
 #EXTINF:-1 tvg-id="" tvg-name="Arrested Development" tvg-logo="https://i.imgur.com/dKfTdzF.png" group-title="24/7",Arrested Development
 http://172.110.220.61:80/Gates1234/1234Gates/2902953.ts
+
+
+
+
+#EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="  - TVA SPORTS HEVC" tvg-logo="https://go4.pw/CANADA/tvasports.png" group-title=" Hockey",  - TVA SPORTS HEVC  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47402.m3u8
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="  -  TVA SPORTS HD [BK]" tvg-logo="https://go4.pw/CANADA/tvasports.png" group-title=" Hockey",  -  TVA SPORTS HD [BK]
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/78782.m3u8
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="  - TVA SPORTS HD" tvg-logo="https://go4.pw/CANADA/tvasports.png" group-title=" Hockey",  - TVA SPORTS HD
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1032691.m3u8
+#EXTINF:-1 tvg-id="tvasports2.ca" tvg-name="  - TVA SPORTS 2 HEVC" tvg-logo="https://go4.pw/CANADA/tvasports2.png" group-title=" Hockey",  - TVA SPORTS 2 HEVC  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106610.m3u8
+#EXTINF:-1 tvg-id="tvasports2.ca" tvg-name="  - TVA SPORTS 2 HD" tvg-logo="https://go4.pw/CANADA/tvasports2.png" group-title=" Hockey",  - TVA SPORTS 2 HD  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/42888.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvasports.ca" tvg-name="CA (FR) TVA SPORTS" tvg-logo="https://m1.quebecormedia.com/emp/emp/TVA_Sportse8783afc-5ef6-49b9-bd26-892d06f81de2_ORIGINAL.jpg?impolicy=crop-resize&x=30&y=0&w=3960&h=2228&width=1080" group-title="Hockey",CA (FR) TVA SPORTS
+http://195.128.27.185:80/smaggard/2121/4038
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA| (FR) TVA SPORTS HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="Hockey",CA| (FR) TVA SPORTS HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31355
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA| (FR) TVA SPORTS 2 HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="Hockey",CA| (FR) TVA SPORTS 2 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31354
+#EXTINF:-1 group-title="Hockey", RDS *****************
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://e7.pngegg.com/pngimages/69/459/png-clipart-reseau-des-sports-montreal-canadiens-logo-rds2-others-text-sport.png" group-title="Hockey",CA RDS (FR)
+http://195.128.27.185:80/smaggard/2121/3667
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://logo.m3uassets.com/rds.png" group-title="Hockey",CA RDS (FR)
+http://chasintv.vip:80/Cedric1234/Cedric1234/3667
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="  - RDS HD" tvg-logo="https://go4.pw/CANADA/rds.png" group-title=" Hockey",  - RDS HD  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106694.m3u8
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="  - RDS (HQ)  (R) HD" tvg-logo="https://go4.pw/CANADA/rds.png" group-title=" Hockey",  - RDS (HQ)  (R) HD
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106663.m3u8
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="  - RDS HD  [BK]" tvg-logo="https://go4.pw/CANADA/rds.png" group-title=" Hockey",  - RDS HD  [BK]
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47415.m3u8
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="  - RDS 2 HEVC" tvg-logo="https://go4.pw/CANADA/rds2.png" group-title=" Hockey",  - RDS 2 HEVC  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106695.m3u8
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="  - RDS 2 HD" tvg-logo="https://go4.pw/CANADA/rds2.png" group-title=" Hockey",  - RDS 2 HD  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47414.m3u8
+#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="  - RDS INFO HEVC" tvg-logo="https://go4.pw/CANADA/rdsinfo.png" group-title=" Hockey",  - RDS INFO HEVC  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106696.m3u8
+#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="  - RDS INFO HD" tvg-logo="https://go4.pw/CANADA/rdsinfo.png" group-title=" Hockey",  - RDS INFO HD  
+http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47413.m3u8
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA| (FR) RDS" tvg-logo="https://lo1.in/ca/rds0.png" group-title="Hockey",CA| (FR) RDS
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29297
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA| (FR) RDS1 HD" tvg-logo="https://lo1.in/ca/rds.png" group-title="Hockey",CA| (FR) RDS1 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31353
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA| (FR) RDS2 HD " tvg-logo="https://lo1.in/ca/rds2.png" group-title="Hockey",CA| (FR) RDS2 HD 
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31352
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://lo1.in/ca/rds.png" group-title="Hockey",CA| (FR) RDS SPORTS
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/50689
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://lo1.in/ca/rds.png" group-title="Hockey",CA| (FR) RDS (LQ)  (R)
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29298
+#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="CA| (FR) RDS INFO " tvg-logo="https://lo1.in/ca/rds0.png" group-title="Hockey",CA| (FR) RDS INFO 
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31351
+#EXTINF:-1 group-title="Hockey", TSN *****************
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",CA| TSN 2 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31655
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 HD [BACK-UP]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",CA| TSN 2 HD [BACK-UP]
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/197170
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 SD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",CA| TSN 2 SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/197191
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="FIFA-CA| TSN 2 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",TSN 2 HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1410738
+#EXTINF:-1 tvg-id="TSN2 HD" tvg-name="CA: TSN 2" tvg-logo="http://163.172.89.228/~msepg/logos/canada/tsn-2-ca.png" group-title="hockey",CA: TSN 2
+http://lunar.pm:8080/Mrhenry/Times23/67050
+#EXTINF:-1 group-title="Hockey", Sportsnet *****************
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA| SPORTSNET EAST HD" tvg-logo="https://lo1.in/ca/spsntest.png" group-title="Hockey",CA| SPORTSNET EAST HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31663
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA| SPORTSNET EAST SD" tvg-logo="https://lo1.in/ca/spsntest.png" group-title="Hockey",CA| SPORTSNET EAST SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/194888
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA| SPORTSNET ONTARIO HD" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="Hockey",CA| SPORTSNET ONTARIO HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31661
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA| SPORTSNET ONTARIO SD" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="Hockey",CA| SPORTSNET ONTARIO SD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/194890
+#EXTINF:-1 tvg-id="Sportsnet 360 HD" tvg-name="CA: SPORTSNET 360" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-sn360-ca.png" group-title="hockey",CA: SPORTSNET 360
+http://lunar.pm:8080/Mrhenry/Times23/67077
+#EXTINF:-1 tvg-id="Sportsnet (East) HD" tvg-name="CA: SPORTSNET EAST" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-sne-ca.png" group-title="hockey",CA: SPORTSNET EAST
+http://lunar.pm:8080/Mrhenry/Times23/67076
+#EXTINF:-1 tvg-id="Sportsnet One HD" tvg-name="CA: SPORTSNET ONE" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-one-ca.png" group-title="hockey",CA: SPORTSNET ONE
+http://lunar.pm:8080/Mrhenry/Times23/67075
+#EXTINF:-1 tvg-id="Sportsnet (Ontario) HD" tvg-name="CA: SPORTSNET ONTARIO" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-ontario-ca.png" group-title="hockey",CA: SPORTSNET ONTARIO
+http://lunar.pm:8080/Mrhenry/Times23/67074
+#EXTINF:-1 tvg-id="Sportsnet (Pacific) HD" tvg-name="CA: SPORTSNET PACIFIC" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-pacific-ca.png" group-title="hockey",CA: SPORTSNET PACIFIC
+http://lunar.pm:8080/Mrhenry/Times23/67073
+#EXTINF:-1 tvg-id="Sportsnet (West) HD" tvg-name="CA: SPORTSNET WEST" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-snw-ca.png" group-title="hockey",CA: SPORTSNET WEST
+http://lunar.pm:8080/Mrhenry/Times23/67072
+#EXTINF:-1 group-title="Hockey", Autres *****************
+#EXTINF:-1 tvg-id="" tvg-name="CA| NHL NETWORK HD" tvg-logo="https://lo1.in/ca/nhlnw.png" group-title="Hockey",CA| NHL NETWORK HD
+http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/97780
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR - CANAL+ CINEMA FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL+CINEMA.png" group-title="CINE FR",FR - CANAL+ CINEMA FHD  
@@ -634,75 +720,7 @@ http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1470314.m3u8
 
 
 
-#EXTINF:-1 group-title="Hockey", TVA SPORTS *****************
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="  - TVA SPORTS HEVC" tvg-logo="https://go4.pw/CANADA/tvasports.png" group-title=" Hockey",  - TVA SPORTS HEVC  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47402.m3u8
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="  -  TVA SPORTS HD [BK]" tvg-logo="https://go4.pw/CANADA/tvasports.png" group-title=" Hockey",  -  TVA SPORTS HD [BK]
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/78782.m3u8
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="  - TVA SPORTS HD" tvg-logo="https://go4.pw/CANADA/tvasports.png" group-title=" Hockey",  - TVA SPORTS HD
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/1032691.m3u8
-#EXTINF:-1 tvg-id="tvasports2.ca" tvg-name="  - TVA SPORTS 2 HEVC" tvg-logo="https://go4.pw/CANADA/tvasports2.png" group-title=" Hockey",  - TVA SPORTS 2 HEVC  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106610.m3u8
-#EXTINF:-1 tvg-id="tvasports2.ca" tvg-name="  - TVA SPORTS 2 HD" tvg-logo="https://go4.pw/CANADA/tvasports2.png" group-title=" Hockey",  - TVA SPORTS 2 HD  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/42888.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvasports.ca" tvg-name="CA (FR) TVA SPORTS" tvg-logo="https://m1.quebecormedia.com/emp/emp/TVA_Sportse8783afc-5ef6-49b9-bd26-892d06f81de2_ORIGINAL.jpg?impolicy=crop-resize&x=30&y=0&w=3960&h=2228&width=1080" group-title="Hockey",CA (FR) TVA SPORTS
-http://195.128.27.185:80/smaggard/2121/4038
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA| (FR) TVA SPORTS HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="Hockey",CA| (FR) TVA SPORTS HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31355
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA| (FR) TVA SPORTS 2 HD" tvg-logo="https://lo1.in/ca/tvamntreal0.png" group-title="Hockey",CA| (FR) TVA SPORTS 2 HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31354
-#EXTINF:-1 group-title="Hockey", RDS *****************
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://e7.pngegg.com/pngimages/69/459/png-clipart-reseau-des-sports-montreal-canadiens-logo-rds2-others-text-sport.png" group-title="Hockey",CA RDS (FR)
-http://195.128.27.185:80/smaggard/2121/3667
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS (FR)" tvg-logo="https://logo.m3uassets.com/rds.png" group-title="Hockey",CA RDS (FR)
-http://chasintv.vip:80/Cedric1234/Cedric1234/3667
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="  - RDS HD" tvg-logo="https://go4.pw/CANADA/rds.png" group-title=" Hockey",  - RDS HD  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106694.m3u8
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="  - RDS (HQ)  (R) HD" tvg-logo="https://go4.pw/CANADA/rds.png" group-title=" Hockey",  - RDS (HQ)  (R) HD
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106663.m3u8
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="  - RDS HD  [BK]" tvg-logo="https://go4.pw/CANADA/rds.png" group-title=" Hockey",  - RDS HD  [BK]
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47415.m3u8
-#EXTINF:-1 tvg-id="rds2.ca" tvg-name="  - RDS 2 HEVC" tvg-logo="https://go4.pw/CANADA/rds2.png" group-title=" Hockey",  - RDS 2 HEVC  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106695.m3u8
-#EXTINF:-1 tvg-id="rds2.ca" tvg-name="  - RDS 2 HD" tvg-logo="https://go4.pw/CANADA/rds2.png" group-title=" Hockey",  - RDS 2 HD  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47414.m3u8
-#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="  - RDS INFO HEVC" tvg-logo="https://go4.pw/CANADA/rdsinfo.png" group-title=" Hockey",  - RDS INFO HEVC  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/106696.m3u8
-#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="  - RDS INFO HD" tvg-logo="https://go4.pw/CANADA/rdsinfo.png" group-title=" Hockey",  - RDS INFO HD  
-http://flowutc.com/live/376874608770855/CC2CFFBE69A8/47413.m3u8
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA| (FR) RDS" tvg-logo="https://lo1.in/ca/rds0.png" group-title="Hockey",CA| (FR) RDS
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29297
-#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA| (FR) RDS1 HD" tvg-logo="https://lo1.in/ca/rds.png" group-title="Hockey",CA| (FR) RDS1 HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31353
-#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA| (FR) RDS2 HD " tvg-logo="https://lo1.in/ca/rds2.png" group-title="Hockey",CA| (FR) RDS2 HD 
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31352
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://lo1.in/ca/rds.png" group-title="Hockey",CA| (FR) RDS SPORTS
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/50689
-#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="https://lo1.in/ca/rds.png" group-title="Hockey",CA| (FR) RDS (LQ)  (R)
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/29298
-#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="CA| (FR) RDS INFO " tvg-logo="https://lo1.in/ca/rds0.png" group-title="Hockey",CA| (FR) RDS INFO 
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31351
-#EXTINF:-1 group-title="Hockey", TSN *****************
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",CA| TSN 2 HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31655
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 HD [BACK-UP]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",CA| TSN 2 HD [BACK-UP]
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/197170
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 SD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",CA| TSN 2 SD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/197191
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="FIFA-CA| TSN 2 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="Hockey",TSN 2 HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/1410738
-#EXTINF:-1 group-title="Hockey", Sportsnet *****************
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA| SPORTSNET EAST HD" tvg-logo="https://lo1.in/ca/spsntest.png" group-title="Hockey",CA| SPORTSNET EAST HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31663
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA| SPORTSNET EAST SD" tvg-logo="https://lo1.in/ca/spsntest.png" group-title="Hockey",CA| SPORTSNET EAST SD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/194888
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA| SPORTSNET ONTARIO HD" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="Hockey",CA| SPORTSNET ONTARIO HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/31661
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA| SPORTSNET ONTARIO SD" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="Hockey",CA| SPORTSNET ONTARIO SD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/194890
-#EXTINF:-1 group-title="Hockey", Autres *****************
-#EXTINF:-1 tvg-id="" tvg-name="CA| NHL NETWORK HD" tvg-logo="https://lo1.in/ca/nhlnw.png" group-title="Hockey",CA| NHL NETWORK HD
-http://rzbjvfrj.megaprimetv.xyz:80/T5SMCEVX/S7DV9BGN/97780
+
 
 
 
